@@ -1,0 +1,1239 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.7.27)  22 DEC 2025 15:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./first-principles-origins-spectroscopy.tex
+(first-principles-origins-spectroscopy.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen141
+))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count195
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count196
+\leftroot@=\count197
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count198
+\DOTSCASE@=\count199
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count266
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count267
+\dotsspace@=\muskip16
+\c@parentequation=\count268
+\dspbrk@lvl=\count269
+\tag@help=\toks20
+\row@=\count270
+\column@=\count271
+\maxfields@=\count272
+\andhelp@=\toks21
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks22
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
+\thm@preskip=\skip53
+\thm@postskip=\skip54
+\thm@headsep=\skip55
+\dth@everypar=\toks29
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.st
+y
+Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
+ (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks30
+) (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count273
+\calc@Bcount=\count274
+\calc@Adimen=\dimen150
+\calc@Bdimen=\dimen151
+\calc@Askip=\skip56
+\calc@Bskip=\skip57
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count275
+\calc@Cskip=\skip58
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count276
+\l_MT_multwidth_dim=\dimen152
+\origjot=\skip59
+\l_MT_shortvdotswithinadjustabove_dim=\dimen153
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen154
+\l_MT_above_intertext_sep=\dimen155
+\l_MT_below_intertext_sep=\dimen156
+\l_MT_above_shortintertext_sep=\dimen157
+\l_MT_below_shortintertext_sep=\dimen158
+\xmathstrut@box=\box53
+\xmathstrut@dim=\dimen159
+) (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/physics\physics.sty
+Package: physics 
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpar
+se.sty
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-01-04 L3 programming layer (loader) 
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count277
+\l__pdf_internal_box=\box54
+))
+Package: xparse 2023-10-10 L3 Experimental document command parser
+))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count278
+\Gm@cntv=\count279
+\c@Gm@tempcnt=\count280
+\Gm@bindingoffset=\dimen160
+\Gm@wd@mp=\dimen161
+\Gm@odd@mp=\dimen162
+\Gm@even@mp=\dimen163
+\Gm@layoutwidth=\dimen164
+\Gm@layoutheight=\dimen165
+\Gm@layouthoffset=\dimen166
+\Gm@layoutvoffset=\dimen167
+\Gm@dimlist=\toks31
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.
+cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen168
+\Gin@req@width=\dimen169
+) (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count281
+\float@exts=\toks32
+\float@box=\box55
+\@float@everytoks=\toks33
+\@floatcapt=\box56
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen170
+\lightrulewidth=\dimen171
+\cmidrulewidth=\dimen172
+\belowrulesep=\dimen173
+\belowbottomsep=\dimen174
+\aboverulesep=\dimen175
+\abovetopsep=\dimen176
+\cmidrulesep=\dimen177
+\cmidrulekern=\dimen178
+\defaultaddspace=\dimen179
+\@cmidla=\count282
+\@cmidlb=\count283
+\@aboverulesep=\dimen180
+\@belowrulesep=\dimen181
+\@thisruleclass=\count284
+\@lastruleclass=\count285
+\@thisrulewidth=\dimen182
+) (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen183
+\ar@mcellbox=\box57
+\extrarowheight=\dimen184
+\NC@list=\toks34
+\extratabsurround=\skip60
+\backup@length=\skip61
+\ar@cellbox=\box58
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.
+sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.st
+y
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefin
+ekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.
+sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmd
+s.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacr
+o.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\getti
+tlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.st
+y
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count286
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count287
+)
+\@linkdim=\dimen185
+\Hy@linkcounter=\count288
+\Hy@pagecounter=\count289
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count290
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4181.
+Package hyperref Info: Link nesting OFF on input line 4186.
+Package hyperref Info: Hyper index ON on input line 4189.
+Package hyperref Info: Plain pages OFF on input line 4196.
+Package hyperref Info: Backreferencing OFF on input line 4201.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4448.
+\c@Hy@tempcnt=\count291
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4786.
+\XeTeXLinkMargin=\dimen186
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcal
+c.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count292
+\Field@Width=\dimen187
+\Fld@charsize=\dimen188
+Package hyperref Info: Hyper figures OFF on input line 6065.
+Package hyperref Info: Link nesting OFF on input line 6070.
+Package hyperref Info: Hyper index ON on input line 6073.
+Package hyperref Info: backreferencing OFF on input line 6080.
+Package hyperref Info: Link coloring OFF on input line 6085.
+Package hyperref Info: Link coloring with OCG OFF on input line 6090.
+Package hyperref Info: PDF/A mode OFF on input line 6095.
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count293
+\c@Item=\count294
+\c@Hfootnote=\count295
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count296
+\c@bookmark@seq@number=\count297
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfi
+lecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\unique
+counter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip62
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip63
+\bibsep=\skip64
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count298
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2025-07-09 v3.4.14 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count299
+\l__siunitx_number_exponent_fixed_int=\count300
+\l__siunitx_number_min_decimal_int=\count301
+\l__siunitx_number_min_integer_int=\count302
+\l__siunitx_number_round_precision_int=\count303
+\l__siunitx_number_lower_threshold_int=\count304
+\l__siunitx_number_upper_threshold_int=\count305
+\l__siunitx_number_group_first_int=\count306
+\l__siunitx_number_group_size_int=\count307
+\l__siunitx_number_group_minimum_int=\count308
+\l__siunitx_angle_tmp_dim=\dimen189
+\l__siunitx_angle_marker_box=\box59
+\l__siunitx_angle_unit_box=\box60
+\l__siunitx_compound_count_int=\count309
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/translations\translati
+ons.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+)
+\l__siunitx_table_tmp_box=\box61
+\l__siunitx_table_tmp_dim=\dimen190
+\l__siunitx_table_column_width_dim=\dimen191
+\l__siunitx_table_integer_box=\box62
+\l__siunitx_table_decimal_box=\box63
+\l__siunitx_table_uncert_box=\box64
+\l__siunitx_table_before_box=\box65
+\l__siunitx_table_after_box=\box66
+\l__siunitx_table_before_dim=\dimen192
+\l__siunitx_table_carry_dim=\dimen193
+\l__siunitx_unit_tmp_int=\count310
+\l__siunitx_unit_position_int=\count311
+\l__siunitx_unit_total_int=\count312
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
+Package: import 2020/04/01  v 6.2
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip65
+\enit@outerparindent=\dimen194
+\enit@toks=\toks35
+\enit@inbox=\box67
+\enit@count@id=\count313
+\enitdp@description=\count314
+)
+\c@theorem=\count315
+\c@axiom=\count316
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 54.
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx
+)) (first-principles-origins-spectroscopy.aux
+
+LaTeX Warning: Label `sec:discussion' multiply defined.
+
+)
+\openout1 = `first-principles-origins-spectroscopy.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count317
+\scratchdimen=\dimen195
+\scratchbox=\box68
+\nofMPsegments=\count318
+\nofMParguments=\count319
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count320
+\MPscratchDim=\dimen196
+\MPnumerator=\count321
+\makeMPintoPDFobject=\count322
+\everyMPtoPDFconversion=\toks37
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
+base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.
+cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring OFF on input line 54.
+ (first-principles-origins-spectroscopy.out)
+(first-principles-origins-spectroscopy.out)
+\@outlinefile=\write3
+\openout3 = `first-principles-origins-spectroscopy.out'.
+
+
+
+Package siunitx Warning: Detected the "physics" package:
+(siunitx)                omitting definition of \qty.
+(siunitx)                
+(siunitx)                If you want to use \qty with the siunitx definition,
+(siunitx)                add 
+(siunitx)                
+(siunitx)                    \AtBeginDocument{\RenewCommandCopy\qty\SI}
+(siunitx)                
+(siunitx)                to your preamble.
+
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tra
+nslations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 54.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 57.
+
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 57.
+
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
+7.
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+Overfull \hbox (8.97472pt too wide) in paragraph at lines 77--79
+\T1/cmr/m/n/10.95 The frame-work yields quan-ti-ta-tive pre-dic-tions for tran-
+si-tion fre-quen-cies $\OML/cmm/m/it/10.95 ![]$\T1/cmr/m/n/10.95 ,
+ []
+
+[1
+
+{C:/Users/kundai/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Overfull \hbox (23.81961pt too wide) in paragraph at lines 89--90
+[]\T1/cmr/bx/n/10.95 Measure-preserving dy-nam-i-cal sys-tems Cat-e-gor-i-cal o
+b-ser-va-tion Frequency-
+ []
+
+(first-principles-origins-spectroscopy.toc [2] [3])
+\tf@toc=\write4
+\openout4 = `first-principles-origins-spectroscopy.toc'.
+
+ [4] [5]
+Overfull \hbox (20.9872pt too wide) in paragraph at lines 149--150
+[]$\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12 O\OML/cmm/m/it/12 ; ^^W;  []\OT1/cmr/m/n/1
+2 )$ \T1/cmr/m/n/12 is an aux-il-iary measure-preserving dy-nam-i-cal sys-tem (
+the ob-server/apparatus), 
+ []
+
+[6]
+
+LaTeX Warning: Reference `sec:frequency_coordinate_duality' on page 7 undefined
+ on input line 174.
+
+[7]
+
+Package natbib Warning: Citation `vonNeumann1932' on page 8 undefined on input 
+line 222.
+
+
+Package natbib Warning: Citation `Zurek2003' on page 8 undefined on input line 
+222.
+
+
+Package natbib Warning: Citation `Schlosshauer2007' on page 8 undefined on inpu
+t line 222.
+
+
+Package natbib Warning: Citation `Herzberg1950' on page 8 undefined on input li
+ne 226.
+
+
+Package natbib Warning: Citation `Atkins2011' on page 8 undefined on input line
+ 226.
+
+
+LaTeX Warning: Reference `sec:bounded_systems' on page 8 undefined on input lin
+e 230.
+
+
+LaTeX Warning: Reference `sec:frequency_coordinate_duality' on page 8 undefined
+ on input line 230.
+
+
+LaTeX Warning: Reference `sec:minimal_hardware' on page 8 undefined on input li
+ne 230.
+
+[8]
+Overfull \hbox (4.9864pt too wide) in paragraph at lines 232--233
+[]\T1/cmr/m/n/12 Throughout, we main-tain math-e-mat-i-cal rigour while em-pha-
+sis-ing phys-i-cal in-ter-pretabil-
+ []
+
+(sections/bounded-oscillatory-systems.tex [9]
+<figures/molecular_dynamics_categorical_observation.png, id=495, 1416.9738pt x 
+1876.8519pt>
+File: figures/molecular_dynamics_categorical_observation.png Graphic file (type
+ png)
+<use figures/molecular_dynamics_categorical_observation.png>
+Package pdftex.def Info: figures/molecular_dynamics_categorical_observation.png
+  used on input line 30.
+(pdftex.def)             Requested size: 455.24411pt x 602.98187pt.
+
+
+LaTeX Warning: Reference `thm:zero_backaction' on page 10 undefined on input li
+ne 31.
+
+
+LaTeX Warning: Reference `thm:zero_backaction' on page 10 undefined on input li
+ne 31.
+
+
+LaTeX Warning: Float too large for page by 217.69806pt on input line 33.
+
+
+Overfull \hbox (8.92345pt too wide) in paragraph at lines 37--38
+[][]\T1/cmr/bx/n/12 Theorem 2.3 \T1/cmr/m/n/12 (Poincaré Re-cur-rence [[]Poinca
+ré[], []1890[]])\T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 Let $\OT1/cmr/m/n/12 (\OMS/
+cmsy/m/n/12 M\OML/cmm/m/it/12 ; ^^V; ^^^[]\OT1/cmr/m/n/12 )$ \T1/cmr/m/it/12 be
+ a bounded measure-
+ []
+
+
+Overfull \hbox (5.89328pt too wide) in paragraph at lines 54--55
+\T1/cmr/m/it/12 preserving sys-tems can-not ex-hibit sus-tained mono-tonic or e
+x-po-nen-tially di-ver-gent be-haviour.
+ []
+
+
+Overfull \hbox (5.70888pt too wide) in paragraph at lines 63--64
+[][]\T1/cmr/bx/n/12 Definition 2.5 \T1/cmr/m/n/12 (Dy-nam-i-cal Clas-si-fi-ca-t
+ion)\T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 Let $\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12 
+M\OML/cmm/m/it/12 ; ^^V; ^^^[]\OT1/cmr/m/n/12 )$ \T1/cmr/m/it/12 be a bounded m
+easure-preserving
+ []
+
+[10] [11 <./figures/molecular_dynamics_categorical_observation.png>]
+
+Package natbib Warning: Citation `Sard1942' on page 12 undefined on input line 
+96.
+
+
+Package natbib Warning: Citation `Federer1969' on page 12 undefined on input li
+ne 106.
+
+
+Package natbib Warning: Citation `Oseledets1968' on page 12 undefined on input 
+line 122.
+
+[12]
+Overfull \hbox (6.67735pt too wide) in paragraph at lines 134--135
+[][]\T1/cmr/m/it/12 Remark \T1/cmr/m/n/12 2.7\T1/cmr/m/it/12 . []\T1/cmr/m/n/12
+ The-o-rem []2.6[] es-tab-lishes os-cil-la-tory be-haviour as a \T1/cmr/m/it/12
+ generic \T1/cmr/m/n/12 prop-erty of bounded
+ []
+
+[13]
+<figures/molecular_vibration_extension_analysis.png, id=561, 1412.3967pt x 1107
+.4173pt>
+File: figures/molecular_vibration_extension_analysis.png Graphic file (type png
+)
+<use figures/molecular_vibration_extension_analysis.png>
+Package pdftex.def Info: figures/molecular_vibration_extension_analysis.png  us
+ed on input line 182.
+(pdftex.def)             Requested size: 455.24411pt x 356.93234pt.
+
+
+LaTeX Warning: Reference `thm:resolution_extension' on page 14 undefined on inp
+ut line 183.
+
+
+LaTeX Warning: Reference `thm:resolution_extension' on page 14 undefined on inp
+ut line 183.
+
+[14] [15 <./figures/molecular_vibration_extension_analysis.png>]
+
+LaTeX Warning: Reference `sec:frequency_coordinate_duality' on page 16 undefine
+d on input line 247.
+
+) (sections/partition-coordinates.tex [16] [17]
+<figures/topology_categories_panel.png, id=614, 916.8654pt x 674.2791pt>
+File: figures/topology_categories_panel.png Graphic file (type png)
+<use figures/topology_categories_panel.png>
+Package pdftex.def Info: figures/topology_categories_panel.png  used on input l
+ine 62.
+(pdftex.def)             Requested size: 455.24411pt x 334.79291pt.
+
+
+LaTeX Warning: Float too large for page by 35.84259pt on input line 65.
+
+[18] [19 <./figures/topology_categories_panel.png>] [20] [21]
+<figures/partition_coordinate_validation.png, id=657, 1402.038pt x 1142.1069pt>
+
+File: figures/partition_coordinate_validation.png Graphic file (type png)
+<use figures/partition_coordinate_validation.png>
+Package pdftex.def Info: figures/partition_coordinate_validation.png  used on i
+nput line 219.
+(pdftex.def)             Requested size: 455.24411pt x 370.8318pt.
+ [22] [23 <./figures/partition_coordinate_validation.png>]
+Overfull \hbox (30.66235pt too wide) in paragraph at lines 285--286
+\T1/cmr/m/n/12 For $\OML/cmm/m/it/12  \OMS/cmsy/m/n/12 ^^Y \OT1/cmr/m/n/12 0\O
+ML/cmm/m/it/12 :\OT1/cmr/m/n/12 7$\T1/cmr/m/n/12 , the or-der-ing changes sligh
+tly, pro-duc-ing shell clo-sures at $\OML/cmm/m/it/12 Z \OT1/cmr/m/n/12 = 2\OML
+/cmm/m/it/12 ; \OT1/cmr/m/n/12 10\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 18\OML/cmm/
+m/it/12 ; \OT1/cmr/m/n/12 36\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 54\OML/cmm/m/it/
+12 ; \OT1/cmr/m/n/12 86\OML/cmm/m/it/12 ; []$\T1/cmr/m/n/12 ,
+ []
+
+[24]) (sections/frequency-coordinate-duality.tex
+<figures/oscillatory_dynamics_panel.png, id=705, 971.0679pt x 835.6821pt>
+File: figures/oscillatory_dynamics_panel.png Graphic file (type png)
+<use figures/oscillatory_dynamics_panel.png>
+Package pdftex.def Info: figures/oscillatory_dynamics_panel.png  used on input 
+line 12.
+(pdftex.def)             Requested size: 455.24411pt x 391.76328pt.
+
+
+LaTeX Warning: Float too large for page by 179.81296pt on input line 15.
+
+[25] [26 <./figures/oscillatory_dynamics_panel.png>] [27]
+Overfull \hbox (1.7612pt too wide) in paragraph at lines 110--111
+[][]\T1/cmr/bx/n/12 Definition 4.4 \T1/cmr/m/n/12 (Spec-tral Regime)\T1/cmr/bx/
+n/12 . []\T1/cmr/m/it/12 A \T1/cmr/m/n/12 spec-tral regime \T1/cmr/m/it/12 is a
+ con-nected in-ter-val $\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 ![]; ![]\OT1/cmr/m/n/
+12 ] \OMS/cmsy/m/n/12 ^^Z
+ []
+
+[28] [29] [30]
+
+LaTeX Warning: File `figure/atomic_structure_panel.png' not found on input line
+ 289.
+
+
+! Package pdftex.def Error: File `figure/atomic_structure_panel.png' not found:
+ using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.289 ...width]{figure/atomic_structure_panel.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Float too large for page by 257.91919pt on input line 292.
+
+
+Overfull \hbox (18.75282pt too wide) in paragraph at lines 296--297
+[][]\T1/cmr/bx/n/12 Theorem 4.13 \T1/cmr/m/n/12 (Spec-tro-scopic Re-con-struc-t
+ion)\T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 Given the fre-quency fin-ger-print $\OM
+S/cmsy/m/n/12 F\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n; `; m; s\OT1/cmr/m/n/12 )$\T
+1/cmr/m/it/12 ,
+ []
+
+[31] [32]) (sections/instrument-necessity.tex
+Overfull \hbox (12.85991pt too wide) in paragraph at lines 12--13
+[][]\T1/cmr/bx/n/12 Definition 5.1 \T1/cmr/m/n/12 (In-for-ma-tion Ex-trac-tion)
+\T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 An \T1/cmr/m/n/12 in-for-ma-tion ex-trac-ti
+on \T1/cmr/m/it/12 from sys-tem $\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12 M\OML/cmm/m/
+it/12 ; ^^V; ^^^[]\OT1/cmr/m/n/12 )$
+ []
+
+<figures/hardware_synchronization.png, id=829, 1084.05pt x 361.35pt>
+File: figures/hardware_synchronization.png Graphic file (type png)
+<use figures/hardware_synchronization.png>
+Package pdftex.def Info: figures/hardware_synchronization.png  used on input li
+ne 30.
+(pdftex.def)             Requested size: 455.24411pt x 151.74942pt.
+[33] [34 <./figures/hardware_synchronization.png>] [35]
+<figures/dual_functionality.png, id=867, 867.24pt x 361.35pt>
+File: figures/dual_functionality.png Graphic file (type png)
+<use figures/dual_functionality.png>
+Package pdftex.def Info: figures/dual_functionality.png  used on input line 121
+.
+(pdftex.def)             Requested size: 455.24411pt x 189.68402pt.
+ [36] [37 <./figures/dual_functionality.png>]
+Overfull \hbox (20.18024pt too wide) in paragraph at lines 145--146
+[][]\T1/cmr/bx/n/12 Theorem 5.9 \T1/cmr/m/n/12 (In-stru-ment Ne-ces-sity The-o-
+rem)\T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 For each par-ti-tion co-or-di-nate $\OM
+L/cmm/m/it/12 ^^X \OMS/cmsy/m/n/12 2 f\OML/cmm/m/it/12 n; `; m; s\OMS/cmsy/m/n/
+12 g$\T1/cmr/m/it/12 ,
+ []
+
+[38] [39] [40]
+<figures/pixel_chemical_mapping.png, id=940, 722.7pt x 433.62pt>
+File: figures/pixel_chemical_mapping.png Graphic file (type png)
+<use figures/pixel_chemical_mapping.png>
+Package pdftex.def Info: figures/pixel_chemical_mapping.png  used on input line
+ 343.
+(pdftex.def)             Requested size: 455.24411pt x 273.14896pt.
+ [41] [42 <./figures/pixel_chemical_mapping.png>])
+(sections/resonance.tex [43]
+<figures/panel_zeeman_orientation_coordinate.png, id=976, 1194.6231pt x 1051.52
+85pt>
+File: figures/panel_zeeman_orientation_coordinate.png Graphic file (type png)
+<use figures/panel_zeeman_orientation_coordinate.png>
+Package pdftex.def Info: figures/panel_zeeman_orientation_coordinate.png  used 
+on input line 58.
+(pdftex.def)             Requested size: 455.24411pt x 400.70813pt.
+
+
+LaTeX Warning: Reference `thm:orientation_coupling' on page 44 undefined on inp
+ut line 59.
+
+
+LaTeX Warning: Reference `thm:orientation_coupling' on page 44 undefined on inp
+ut line 59.
+
+[44] [45 <./figures/panel_zeeman_orientation_coordinate.png>] [46]
+Overfull \hbox (4.99754pt too wide) in paragraph at lines 139--140
+[]\T1/cmr/m/n/12 For non-exponential de-cay (e.g., Gaus-sian, power-law), the F
+ourier trans-form is broader,
+ []
+
+[47] [48]
+<figures/panel_nmr_chirality_coordinate.png, id=1052, 1250.0301pt x 1051.5285pt
+>
+File: figures/panel_nmr_chirality_coordinate.png Graphic file (type png)
+<use figures/panel_nmr_chirality_coordinate.png>
+Package pdftex.def Info: figures/panel_nmr_chirality_coordinate.png  used on in
+put line 279.
+(pdftex.def)             Requested size: 455.24411pt x 382.9463pt.
+
+Overfull \hbox (45.97726pt too wide) in paragraph at lines 290--291
+\T1/cmr/m/it/12 sists of $\OML/cmm/m/it/12 N$ \T1/cmr/m/it/12 in-de-pen-dent os
+-cil-la-tors with fre-quen-cies $\OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 ![]; ![]; [
+] ; ![]\OMS/cmsy/m/n/12 g$ \T1/cmr/m/it/12 and linewidths $\OMS/cmsy/m/n/12 f\O
+T1/cmr/m/n/12 ^^@[]\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 ^^@[]\OML/cmm/m/it/12 ; [
+] ; \OT1/cmr/m/n/12 ^^@[]\OMS/cmsy/m/n/12 g$\T1/cmr/m/it/12 ,
+ []
+
+[49] [50 <./figures/panel_nmr_chirality_coordinate.png>]
+Overfull \hbox (32.05165pt too wide) in paragraph at lines 319--320
+[]\T1/cmr/m/n/12 By The-o-rem []6.13[], each cou-pling $\OML/cmm/m/it/12 ^^T[]$
+ \T1/cmr/m/n/12 ex-tracts co-or-di-nate $\OML/cmm/m/it/12 ^^X$ \T1/cmr/m/n/12 w
+ith se-lec-tiv-ity $\OML/cmm/m/it/12 S[] \OT1/cmr/m/n/12 = (2^^A[]\OML/cmm/m/it
+/12 =\OT1/cmr/m/n/12 ^^@[])[] \OMS/cmsy/m/n/12 ^^]
+ []
+
+[51]) (sections/spectrometers.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 6.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 6.
+
+[52]
+<figures/panel_uvvis_complexity_coordinate.png, id=1123, 1168.6059pt x 1051.528
+5pt>
+File: figures/panel_uvvis_complexity_coordinate.png Graphic file (type png)
+<use figures/panel_uvvis_complexity_coordinate.png>
+Package pdftex.def Info: figures/panel_uvvis_complexity_coordinate.png  used on
+ input line 35.
+(pdftex.def)             Requested size: 455.24411pt x 409.62917pt.
+
+
+LaTeX Warning: Reference `thm:complexity_coupling' on page 53 undefined on inpu
+t line 36.
+
+
+LaTeX Warning: Reference `thm:complexity_coupling' on page 53 undefined on inpu
+t line 36.
+
+[53] [54 <./figures/panel_uvvis_complexity_coordinate.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\ell' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 106.
+
+[55]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 181.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 181.
+
+[56] [57]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 256.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 256.
+
+[58]
+<figures/panel_xps_depth_coordinate.png, id=1213, 1165.2333pt x 1051.5285pt>
+File: figures/panel_xps_depth_coordinate.png Graphic file (type png)
+<use figures/panel_xps_depth_coordinate.png>
+Package pdftex.def Info: figures/panel_xps_depth_coordinate.png  used on input 
+line 329.
+(pdftex.def)             Requested size: 455.24411pt x 410.8165pt.
+
+
+LaTeX Warning: Reference `sec:applications' on page 59 undefined on input line 
+374.
+
+) [59] [60 <./figures/panel_xps_depth_coordinate.png>]
+(sections/virtual-instrument-completeness.tex
+Overfull \hbox (1.5437pt too wide) in paragraph at lines 4--5
+\T1/cmr/m/n/12 Sec-tion []7[], we now es-tab-lish their \T1/cmr/m/it/12 com-ple
+te-ness\T1/cmr/m/n/12 : the four cou-pling struc-tures $\OMS/cmsy/m/n/12 fI[]\O
+ML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 I[]\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 I[]\OM
+L/cmm/m/it/12 ; \OMS/cmsy/m/n/12 I[]g$
+ []
+
+LaTeX Font Info:    Trying to load font information for U+euf on input line 12.
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)
+[61]
+Overfull \hbox (5.03497pt too wide) in paragraph at lines 33--34
+[][]\T1/cmr/bx/n/12 Definition 8.4 \T1/cmr/m/n/12 (Mea-sure-ment Al-ge-bra Op-e
+r-a-tions)\T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 The mea-sure-ment space $\U/euf/m
+/n/12 M$ \T1/cmr/m/it/12 is equipped
+ []
+
+
+Overfull \hbox (72.16798pt too wide) in paragraph at lines 44--45
+[][]\T1/cmr/bx/n/12 Theorem 8.5 \T1/cmr/m/n/12 (Mea-sure-ment Al-ge-bra Gen-er-
+a-tion)\T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 The el-e-men-tary mea-sure-ments $\O
+MS/cmsy/m/n/12 fM[]\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 M[]\OML/cmm/m/it/12 ; \O
+MS/cmsy/m/n/12 M[]\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 M[]g$
+ []
+
+[62]
+<figures/multi_modal_detector_analysis.png, id=1280, 1323.5046pt x 1457.445pt>
+File: figures/multi_modal_detector_analysis.png Graphic file (type png)
+<use figures/multi_modal_detector_analysis.png>
+Package pdftex.def Info: figures/multi_modal_detector_analysis.png  used on inp
+ut line 112.
+(pdftex.def)             Requested size: 455.24411pt x 501.30684pt.
+
+
+LaTeX Warning: Reference `thm:multimodal_convergence' on page 63 undefined on i
+nput line 113.
+
+
+LaTeX Warning: Reference `thm:multimodal_convergence' on page 63 undefined on i
+nput line 113.
+
+
+LaTeX Warning: Float too large for page by 116.02303pt on input line 115.
+
+
+Overfull \hbox (2.30807pt too wide) in paragraph at lines 123--124
+[]\T1/cmr/m/n/12 By The-o-rem []3.13[], par-ti-tion el-e-ments are uniquely la-
+beled by the co-or-di-nate quadru-
+ []
+
+
+Overfull \hbox (56.55392pt too wide) in paragraph at lines 133--134
+\T1/cmr/m/n/12 (The-o-rem []5.9[]). Hence, knowl-edge of all four mea-sure-ment
+ out-comes $\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12 M[]\OT1/cmr/m/n/12 (\OML/cmm/m/it
+/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 M[]\OT1/cmr/m/n/12 (\
+OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 M[]\OT1/c
+mr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/
+12 M[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 ))$
+ []
+
+
+Overfull \hbox (3.7366pt too wide) in paragraph at lines 135--136
+[]\T1/cmr/m/n/12 Formally: if $\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12 M[]\OT1/cmr/m/
+n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 M[
+]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; \OMS/cm
+sy/m/n/12 M[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it/
+12 ; \OMS/cmsy/m/n/12 M[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )) 
+= (\OMS/cmsy/m/n/12 M[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 y\OT1/cmr/m/n/12 )\OML
+/cmm/m/it/12 ; \OMS/cmsy/m/n/12 M[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 y\OT1/cmr/
+m/n/12 )\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 M[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/1
+2 y\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 M[]\OT1/cmr/m/n/12 (\OM
+L/cmm/m/it/12 y\OT1/cmr/m/n/12 ))$\T1/cmr/m/n/12 , then
+ []
+
+[63] [64 <./figures/multi_modal_detector_analysis.png>] [65]
+Overfull \hbox (22.71468pt too wide) in paragraph at lines 208--209
+\T1/cmr/m/n/12 metic op-er-a-tions (ad-di-tion, mul-ti-pli-ca-tion, etc.). This
+ is clas-si-cal post-processing^^Vno
+ []
+
+
+Overfull \hbox (8.71832pt too wide) in paragraph at lines 237--238
+\T1/cmr/m/it/12 (The-o-rem []4.8[]) can be re-al-ized us-ing one of the el-e-me
+n-tary cou-pling struc-tures $\OMS/cmsy/m/n/12 fI[]\OML/cmm/m/it/12 ; \OMS/cmsy
+/m/n/12 I[]\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 I[]\OML/cmm/m/it/12 ; \OMS/cmsy/
+m/n/12 I[]g$
+ []
+
+[66] [67]
+Overfull \hbox (3.69925pt too wide) in paragraph at lines 328--329
+[]\T1/cmr/m/it/12 Information-optimal\T1/cmr/m/n/12 : they ex-tract ex-actly th
+e min-i-mum re-quired in-for-ma-tion (Corol-
+ []
+
+) (sections/zero-cost-spectroscopy.tex
+<figures/comprehensive_validation.png, id=1360, 1438.173pt x 1075.8594pt>
+File: figures/comprehensive_validation.png Graphic file (type png)
+<use figures/comprehensive_validation.png>
+Package pdftex.def Info: figures/comprehensive_validation.png  used on input li
+ne 8.
+(pdftex.def)             Requested size: 455.24411pt x 340.55554pt.
+ [68] [69 <./figures/comprehensive_validation.png>]
+Overfull \hbox (7.99277pt too wide) in paragraph at lines 59--60
+\T1/cmr/m/it/12 min-i-mum num-ber of hard-ware os-cil-la-tors re-quired for com
+-plete co-or-di-nate ex-trac-tion (unique
+ []
+
+[70] [71]
+Overfull \hbox (3.41594pt too wide) in paragraph at lines 177--178
+\T1/cmr/m/it/12 tains at least 4 os-cil-la-tors, with at least one os-cil-la-to
+r in each spec-tral regime $\OT1/cmr/m/n/12 
+[]\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 
+[]\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 
+[]\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 
+[]$\T1/cmr/m/it/12 . 
+ []
+
+[72]
+Overfull \hbox (3.06874pt too wide) in paragraph at lines 239--240
+[]\T1/cmr/m/it/12 Arithmetic op-er-a-tions\T1/cmr/m/n/12 : com-pute func-tions 
+of ex-tracted co-or-di-nates (post-processing). 
+ []
+
+[73]
+<figures/panel_unified_spectroscopy.png, id=1454, 1627.5204pt x 1146.2022pt>
+File: figures/panel_unified_spectroscopy.png Graphic file (type png)
+<use figures/panel_unified_spectroscopy.png>
+Package pdftex.def Info: figures/panel_unified_spectroscopy.png  used on input 
+line 282.
+(pdftex.def)             Requested size: 455.24411pt x 320.60213pt.
+ [74] [75 <./figures/panel_unified_spectroscopy.png>]
+Overfull \hbox (2.57695pt too wide) in paragraph at lines 342--343
+[][]\T1/cmr/bx/n/12 Theorem 9.21 \T1/cmr/m/n/12 (Bound Sat-u-ra-tion)\T1/cmr/bx
+/n/12 . []\T1/cmr/m/it/12 The fun-da-men-tal bounds es-tab-lished in The-o-rems
+ []9.6[],
+ []
+
+
+Package natbib Warning: Citation `Schawlow1958' on page 76 undefined on input l
+ine 350.
+
+
+Package natbib Warning: Citation `Berut2012' on page 76 undefined on input line
+ 354.
+
+
+Overfull \hbox (4.88234pt too wide) in paragraph at lines 354--355
+[]\T1/cmr/m/n/12 Reversible com-put-ing ar-chi-tec-tures [[]Ben-nett[], []1982[
+]] ap-proach the Lan-dauer limit asymp-
+ []
+
+[76])
+
+LaTeX Warning: Reference `ax:bounded' on page 77 undefined on input line 291.
+
+
+Overfull \hbox (1.32346pt too wide) in paragraph at lines 291--292
+\T1/cmr/m/n/12 We have es-tab-lished a chain of nec-es-sary im-pli-ca-tions be-
+gin-ning from two ax-ioms: bounded
+ []
+
+[77] [78] [79] [80]
+Overfull \hbox (18.8677pt too wide) in paragraph at lines 326--338
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `sec:partition_structure' on page 81 undefined on inpu
+t line 342.
+
+[81] [82]
+
+LaTeX Warning: Reference `ax:bounded' on page 83 undefined on input line 350.
+
+[83] [84] (first-principles-origins-spectroscopy.bbl)
+
+Package natbib Warning: There were undefined citations.
+
+[85] (first-principles-origins-spectroscopy.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `first-principles-origins-spectroscopy.out' h
+as not changed.
+(rerunfilecheck)             Checksum: 0E5340A64F58D33AC9D5A27393DF453B;15073.
+ ) 
+Here is how much of TeX's memory you used:
+ 17927 strings out of 474486
+ 343013 string characters out of 5743283
+ 1949542 words of memory out of 5000000
+ 39203 multiletter control sequences out of 15000+600000
+ 585016 words of font info for 106 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 79i,16n,93p,3918b,1342s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecr
+m0600.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
+600\ecbi1200.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
+/ec/dpi600\ectt1200.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/j
+knappen/ec/dpi600\ecti0800.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/l
+jfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\kundai\AppData\Local\MiK
+TeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\kundai\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\kundai\App
+Data\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\kun
+dai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Us
+ers\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk>
+ <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0
+800.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecrm1095.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
+c/dpi600\ecbx1095.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jkn
+appen/ec/dpi600\ectt1440.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljf
+our/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk><C:/Users/kundai/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/kundai/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/kundai/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/User
+s/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pf
+b><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmmi12.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmmi6.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmmi8.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/kundai/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb><C:/Users/kundai/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/kund
+ai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/U
+sers/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.p
+fb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmr8.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmsy6.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/kundai/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/euler/eufm10.pfb><C:/Users/kundai/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/ku
+ndai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.p
+fb>
+Output written on first-principles-origins-spectroscopy.pdf (85 pages, 16061660
+ bytes).
+PDF statistics:
+ 2498 PDF objects out of 2984 (max. 8388607)
+ 720 named destinations out of 1000 (max. 500000)
+ 652 words of extra memory for PDF output out of 10000 (max. 10000000)
+

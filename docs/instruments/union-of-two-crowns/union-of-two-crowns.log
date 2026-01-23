@@ -1,0 +1,2227 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.7.27)  7 JAN 2026 14:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./union-of-two-crowns.tex
+(union-of-two-crowns.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen141
+))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count195
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count196
+\leftroot@=\count197
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count198
+\DOTSCASE@=\count199
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count266
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count267
+\dotsspace@=\muskip16
+\c@parentequation=\count268
+\dspbrk@lvl=\count269
+\tag@help=\toks20
+\row@=\count270
+\column@=\count271
+\maxfields@=\count272
+\andhelp@=\toks21
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks22
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
+\thm@preskip=\skip53
+\thm@postskip=\skip54
+\thm@headsep=\skip55
+\dth@everypar=\toks29
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.st
+y
+Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
+ (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks30
+) (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count273
+\calc@Bcount=\count274
+\calc@Adimen=\dimen150
+\calc@Bdimen=\dimen151
+\calc@Askip=\skip56
+\calc@Bskip=\skip57
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count275
+\calc@Cskip=\skip58
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count276
+\l_MT_multwidth_dim=\dimen152
+\origjot=\skip59
+\l_MT_shortvdotswithinadjustabove_dim=\dimen153
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen154
+\l_MT_above_intertext_sep=\dimen155
+\l_MT_below_intertext_sep=\dimen156
+\l_MT_above_shortintertext_sep=\dimen157
+\l_MT_below_shortintertext_sep=\dimen158
+\xmathstrut@box=\box53
+\xmathstrut@dim=\dimen159
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.
+cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
+) (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count277
+\float@exts=\toks31
+\float@box=\box54
+\@float@everytoks=\toks32
+\@floatcapt=\box55
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen162
+\lightrulewidth=\dimen163
+\cmidrulewidth=\dimen164
+\belowrulesep=\dimen165
+\belowbottomsep=\dimen166
+\aboverulesep=\dimen167
+\abovetopsep=\dimen168
+\cmidrulesep=\dimen169
+\cmidrulekern=\dimen170
+\defaultaddspace=\dimen171
+\@cmidla=\count278
+\@cmidlb=\count279
+\@aboverulesep=\dimen172
+\@belowrulesep=\dimen173
+\@thisruleclass=\count280
+\@lastruleclass=\count281
+\@thisrulewidth=\dimen174
+) (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/physics\physics.sty
+Package: physics 
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpar
+se.sty
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-01-04 L3 programming layer (loader) 
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count282
+\l__pdf_internal_box=\box56
+))
+Package: xparse 2023-10-10 L3 Experimental document command parser
+))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.
+sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.st
+y
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefin
+ekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.
+sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmd
+s.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacr
+o.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\getti
+tlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.st
+y
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count283
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count284
+)
+\@linkdim=\dimen175
+\Hy@linkcounter=\count285
+\Hy@pagecounter=\count286
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count287
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4181.
+Package hyperref Info: Link nesting OFF on input line 4186.
+Package hyperref Info: Hyper index ON on input line 4189.
+Package hyperref Info: Plain pages OFF on input line 4196.
+Package hyperref Info: Backreferencing OFF on input line 4201.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4448.
+\c@Hy@tempcnt=\count288
+LaTeX Info: Redefining \url on input line 4786.
+\XeTeXLinkMargin=\dimen176
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcal
+c.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count289
+\Field@Width=\dimen177
+\Fld@charsize=\dimen178
+Package hyperref Info: Hyper figures OFF on input line 6065.
+Package hyperref Info: Link nesting OFF on input line 6070.
+Package hyperref Info: Hyper index ON on input line 6073.
+Package hyperref Info: backreferencing OFF on input line 6080.
+Package hyperref Info: Link coloring OFF on input line 6085.
+Package hyperref Info: Link coloring with OCG OFF on input line 6090.
+Package hyperref Info: PDF/A mode OFF on input line 6095.
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count290
+\c@Item=\count291
+\c@Hfootnote=\count292
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count293
+\c@bookmark@seq@number=\count294
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfi
+lecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\unique
+counter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip60
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count295
+\Gm@cntv=\count296
+\c@Gm@tempcnt=\count297
+\Gm@bindingoffset=\dimen179
+\Gm@wd@mp=\dimen180
+\Gm@odd@mp=\dimen181
+\Gm@even@mp=\dimen182
+\Gm@layoutwidth=\dimen183
+\Gm@layoutheight=\dimen184
+\Gm@layouthoffset=\dimen185
+\Gm@layoutvoffset=\dimen186
+\Gm@dimlist=\toks33
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)
+) (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.s
+ty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+ (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks34
+\c@algorithm=\count298
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz
+.sty
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.s
+ty
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfuti
+l-common.tex
+\pgfutil@everybye=\toks35
+\pgfutil@tempdima=\dimen187
+\pgfutil@tempdimb=\dimen188
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfuti
+l-latex.def
+\pgfutil@abb=\box57
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs
+.code.tex
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex
+)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore
+.sty
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys
+.sty
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+ys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkey
+s.code.tex
+\pgfkeys@pathtoks=\toks36
+\pgfkeys@temptoks=\toks37
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkey
+slibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks38
+))
+\pgf@x=\dimen189
+\pgf@y=\dimen190
+\pgf@xa=\dimen191
+\pgf@ya=\dimen192
+\pgf@xb=\dimen193
+\pgf@yb=\dimen194
+\pgf@xc=\dimen195
+\pgf@yc=\dimen196
+\pgf@xd=\dimen197
+\pgf@yd=\dimen198
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count299
+\c@pgf@countb=\count300
+\c@pgf@countc=\count301
+\c@pgf@countd=\count302
+\t@pgf@toka=\toks39
+\t@pgf@tokb=\toks40
+\t@pgf@tokc=\toks41
+\pgf@sys@id@count=\count303
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.
+cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+ys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+ys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+yssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count304
+\pgfsyssoftpath@bigbuffer@items=\count305
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+ysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+re.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.cod
+e.tex
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil
+.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpars
+er.code.tex
+\pgfmath@dimen=\dimen199
+\pgfmath@count=\count306
+\pgfmath@box=\box58
+\pgfmath@toks=\toks42
+\pgfmath@stack@operand=\toks43
+\pgfmath@stack@operation=\toks44
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.basic.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.trigonometric.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.random.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.comparison.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.base.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.round.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.misc.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.integerarithmetics.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc
+.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloa
+t.code.tex
+\c@pgfmathroundto@lastzeros=\count307
+))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code
+.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+repoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen256
+\pgf@picmaxx=\dimen257
+\pgf@picminy=\dimen258
+\pgf@picmaxy=\dimen259
+\pgf@pathminx=\dimen260
+\pgf@pathmaxx=\dimen261
+\pgf@pathminy=\dimen262
+\pgf@pathmaxy=\dimen263
+\pgf@xx=\dimen264
+\pgf@xy=\dimen265
+\pgf@yx=\dimen266
+\pgf@yy=\dimen267
+\pgf@zx=\dimen268
+\pgf@zy=\dimen269
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+repathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen270
+\pgf@path@lasty=\dimen271
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+repathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen272
+\pgf@shorten@start@additional=\dimen273
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+rescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box59
+\pgf@hbox=\box60
+\pgf@layerbox@main=\box61
+\pgf@picture@serial@count=\count308
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+regraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen274
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+retransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen275
+\pgf@pt@y=\dimen276
+\pgf@pt@temp=\dimen277
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+requick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+reobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+repathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+rearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen278
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+reshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen279
+\pgf@sys@shading@range@num=\count309
+\pgf@shadingcount=\count310
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+reimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+reexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box62
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+relayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+retransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+repatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+rerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodul
+eshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box63
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodul
+eplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfc
+omp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen280
+\pgf@nodesepend=\dimen281
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfc
+omp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.s
+ty
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.
+sty
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkey
+s.code.tex))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.cod
+e.tex))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor
+.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen282
+\pgffor@skip=\dimen283
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
+kz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflib
+raryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count311
+\pgfplotmarksize=\dimen284
+)
+\tikz@lastx=\dimen285
+\tikz@lasty=\dimen286
+\tikz@lastxsaved=\dimen287
+\tikz@lastysaved=\dimen288
+\tikz@lastmovetox=\dimen289
+\tikz@lastmovetoy=\dimen290
+\tikzleveldistance=\dimen291
+\tikzsiblingdistance=\dimen292
+\tikz@figbox=\box64
+\tikz@figbox@bg=\box65
+\tikz@tempbox=\box66
+\tikz@tempbox@bg=\box67
+\tikztreelevel=\count312
+\tikznumberofchildren=\count313
+\tikznumberofcurrentchild=\count314
+\tikz@fig@count=\count315
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodul
+ematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count316
+\pgfmatrixcurrentcolumn=\count317
+\pgf@matrix@numberofcolumns=\count318
+)
+\tikz@expandcount=\count319
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
+kz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+\c@theorem=\count320
+\c@convention=\count321
+ (union-of-two-crowns.aux
+
+LaTeX Warning: Label `cor:tof_resolution' multiply defined.
+
+
+LaTeX Warning: Label `cor:quadrupole_selectivity' multiply defined.
+
+
+LaTeX Warning: Label `cor:orbitrap_resolution' multiply defined.
+
+
+LaTeX Warning: Label `cor:fticr_resolution' multiply defined.
+
+)
+\openout1 = `union-of-two-crowns.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count322
+\scratchdimen=\dimen293
+\scratchbox=\box68
+\nofMPsegments=\count323
+\nofMParguments=\count324
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count325
+\MPscratchDim=\dimen294
+\MPnumerator=\count326
+\makeMPintoPDFobject=\count327
+\everyMPtoPDFconversion=\toks48
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
+base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.
+cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring OFF on input line 46.
+ (union-of-two-crowns.out) (union-of-two-crowns.out)
+\@outlinefile=\write4
+\openout4 = `union-of-two-crowns.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 49.
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 49.
+
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 4
+9.
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+[1
+
+{C:/Users/kundai/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Overfull \hbox (4.49591pt too wide) in paragraph at lines 65--66
+\T1/cmr/m/n/10.95 a-lence, in-ter-change-able ex-pla-na-tions, mass spec-trom-e
+-try val-i-da-tion, chro-mato-graphic
+ []
+
+(union-of-two-crowns.toc [2] [3] [4] [5] [6] [7] [8] [9] [10] [11])
+\tf@toc=\write5
+\openout5 = `union-of-two-crowns.toc'.
+
+ [12]
+[13] [14] [15] [16] [17] [18] [19] [20] (sections/fundamental-equivalence.tex
+[21] [22] [23] [24] [25] [26] [27] [28])
+Overfull \hbox (1.32387pt too wide) in paragraph at lines 416--447
+[]\T1/cmr/m/n/12 This es-tab-lishes that en-tropy^^Vthe cen-tral quan-tity of t
+her-mo-dy-nam-ics^^Vemerges iden-
+ []
+
+(sections/fundamental-axioms.tex [29]
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@* 
+l.18 \begin{enumerate}[label=(\roman*
+                                     )]
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19     \item \textbf
+                      {Spatial boundedness:} All position coordinates satisf...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19     \item \textbf
+                      {Spatial boundedness:} All position coordinates satisf...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19     \item \textbf
+                      {Spatial boundedness:} All position coordinates satisf...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20     \item \textbf
+                      {Energetic boundedness:} Total energy satisfies $E \le...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20     \item \textbf
+                      {Energetic boundedness:} Total energy satisfies $E \le...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20     \item \textbf
+                      {Energetic boundedness:} Total energy satisfies $E \le...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21     \item \textbf
+                      {Temporal boundedness:} Any distinguishable dynamical ...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21     \item \textbf
+                      {Temporal boundedness:} Any distinguishable dynamical ...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21     \item \textbf
+                      {Temporal boundedness:} Any distinguishable dynamical ...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \end{enumerate}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[30]
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@* 
+l.102 \begin{enumerate}[label=(\roman*
+                                      )]
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103     \item E
+                 ach $C_k$ is a measurable subset of $\mathcal{M}$
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103     \item E
+                 ach $C_k$ is a measurable subset of $\mathcal{M}$
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103     \item E
+                 ach $C_k$ is a measurable subset of $\mathcal{M}$
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104     \item C
+                 ells are mutually exclusive: $C_i \cap C_j = \emptyset$ for...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104     \item C
+                 ells are mutually exclusive: $C_i \cap C_j = \emptyset$ for...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104     \item C
+                 ells are mutually exclusive: $C_i \cap C_j = \emptyset$ for...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105     \item C
+                 ells are exhaustive: $\bigcup_{k=1}^{n} C_k = \mathcal{M}$
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105     \item C
+                 ells are exhaustive: $\bigcup_{k=1}^{n} C_k = \mathcal{M}$
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105     \item C
+                 ells are exhaustive: $\bigcup_{k=1}^{n} C_k = \mathcal{M}$
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106     \item T
+                 he number of cells is finite: $n < \infty$
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106     \item T
+                 he number of cells is finite: $n < \infty$
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106     \item T
+                 he number of cells is finite: $n < \infty$
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107 \end{enumerate}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[31] [32] [33] [34] [35] [36]) (sections/periodic-table.tex [37]
+Overfull \hbox (4.40894pt too wide) in paragraph at lines 47--48
+[]\T1/cmr/m/n/12 The par-ti-tion co-or-di-nate $\OML/cmm/m/it/12 n$ \T1/cmr/m/n
+/12 com-pletely spec-i-fies the res-o-lu-tion. Finer res-o-lu-tion (smaller
+ []
+
+
+Overfull \hbox (19.85602pt too wide) in paragraph at lines 64--65
+\T1/cmr/m/n/12 For a par-ti-cle in three-dimensional space, phase space has six
+ di-men-sions: $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 q[]; q[]; q[]; p[]; p[]; p[]\
+OT1/cmr/m/n/12 )$\T1/cmr/m/n/12 .
+ []
+
+[38] [39] [40] [41] [42]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 291.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 291.
+
+[43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53])
+(sections/gas-dynamics.tex
+Overfull \hbox (9.11194pt too wide) in paragraph at lines 7--8
+[]\T1/cmr/m/n/12 The key in-sight: a gas is a col-lec-tion of par-ti-cles, each
+ oc-cu-py-ing some state $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n[]; `[]; m[]; s[]\
+OT1/cmr/m/n/12 )$
+ []
+
+[54] [55] [56] [57] [58] [59] [60]
+Overfull \hbox (23.26318pt too wide) in paragraph at lines 393--394
+\T1/cmr/m/n/12 In the cat-e-gor-i-cal de-scrip-tion, each mo-men-tum com-po-nen
+t $\OML/cmm/m/it/12 p[]$ \T1/cmr/m/n/12 oc-cu-pies a cell $\OML/cmm/m/it/12 k[]
+ \OMS/cmsy/m/n/12 2 f\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 2\OML/
+cmm/m/it/12 ; [] ; n[]\OMS/cmsy/m/n/12 g$\T1/cmr/m/n/12 .
+ []
+
+[61] [62] [63] [64] [65] [66]) (sections/newtonian-mechanics.tex [67]
+Overfull \hbox (28.27368pt too wide) in paragraph at lines 31--33
+[]\T1/cmr/m/n/12 For fermions (Pauli ex-clu-sion): $\OML/cmm/m/it/12 N \OMS/cms
+y/m/n/12 2 f\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 1\OMS/cmsy/m/n/
+12 g$\T1/cmr/m/n/12 . For bosons (no ex-clu-sion): $\OML/cmm/m/it/12 N \OMS/cms
+y/m/n/12 2 f\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 1\OML/cmm/m/it/
+12 ; \OT1/cmr/m/n/12 2\OML/cmm/m/it/12 ; [] ; \OMS/cmsy/m/n/12 1g$\T1/cmr/m/n/1
+2 . 
+ []
+
+[68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79]
+Overfull \hbox (0.70963pt too wide) in paragraph at lines 822--823
+[][]\T1/cmr/bx/n/12 Theorem 11.33 \T1/cmr/m/n/12 (Hamil-ton's Equa-tions)\T1/cm
+r/bx/n/12 . []\T1/cmr/m/it/12 The equa-tions of mo-tion fol-low from the Hamil-
+
+ []
+
+[80] [81]
+Overfull \hbox (104.16162pt too wide) detected at line 916
+[][][][] \OMS/cmsy/m/n/12 ! [] ! [] ! [] ! [] ! [] ! []
+ []
+
+) (sections/transport-phenomena.tex [82] [83]
+Overfull \hbox (9.28697pt too wide) in paragraph at lines 114--115
+[]\T1/cmr/m/n/12 After a scat-ter-ing event, the elec-tron's state changes from
+ $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n; `; m; s\OT1/cmr/m/n/12 )$ \T1/cmr/m/n/12
+ to $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n[]; `[]; m[]; s[]\OT1/cmr/m/n/12 )$\T1/
+cmr/m/n/12 .
+ []
+
+[84] [85] [86] [87] [88]
+
+! LaTeX Error: Unicode character Ω (U+03A9)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.452     \item $\rho = 1.7 \times 10^{-8}$ Ω
+                                              ·m
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[89] [90] [91] [92]) (sections/measurement.tex [93] [94] [95] [96] [97]
+[98] [99] [100] [101] [102] [103] [104]
+Overfull \hbox (3.00938pt too wide) in paragraph at lines 682--683
+[]\T1/cmr/bx/n/12 Uncertainty: \T1/cmr/m/n/12 Mea-sur-ing po-si-tion es-tab-lis
+hes spa-tial par-ti-tion co-or-di-na-tion, which
+ []
+
+[105] [106]
+Overfull \hbox (45.80203pt too wide) in paragraph at lines 833--834
+[]\T1/cmr/bx/n/12 Physical in-ter-pre-ta-tion: \T1/cmr/m/n/12 Ra-dial tran-si-t
+ions (chang-ing $\OML/cmm/m/it/12 n$\T1/cmr/m/n/12 ) in-volve large en-ergy cha
+nges^^Vthese
+ []
+
+[107] [108]
+Overfull \hbox (3.95123pt too wide) in paragraph at lines 914--915
+[][]\T1/cmr/bx/n/12 Definition 15.20 \T1/cmr/m/n/12 (Min-i-mal Cou-pling Struc-
+ture)\T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 For par-ti-tion co-or-di-nate $\OML/cm
+m/m/it/12 ^^X \OMS/cmsy/m/n/12 2 f\OML/cmm/m/it/12 n; `; m; s\OMS/cmsy/m/n/12 g
+$\T1/cmr/m/it/12 ,
+ []
+
+[109] [110] [111] [112] [113] [114]
+Overfull \hbox (30.60753pt too wide) in paragraph at lines 1245--1246
+[]\T1/cmr/bx/n/12 Observer role: \T1/cmr/m/n/12 Ob-server is a phys-i-cal sys-t
+em with par-ti-tion co-or-di-nates $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n[]; `[];
+ m[]; s[]\OT1/cmr/m/n/12 )$\T1/cmr/m/n/12 .
+ []
+
+
+Overfull \hbox (4.28516pt too wide) in paragraph at lines 1247--1248
+\T1/cmr/m/n/12 (frequency-related co-or-di-nate). These are dif-fer-ent cat-e-g
+or-i-cal re-la-tion-ships^^Vneither
+ []
+
+[115]
+Overfull \hbox (77.99823pt too wide) detected at line 1286
+[][][][]  \OT1/cmr/m/n/12 =[]\OMS/cmsy/m/n/12 )  []  \OT1/cmr/m/n/12 =[]\OMS/cm
+sy/m/n/12 )  []
+ []
+
+[116]
+Overfull \hbox (18.76537pt too wide) in paragraph at lines 1322--1323
+[]\T1/cmr/bx/n/12 Deterministic: \T1/cmr/m/n/12 Given ob-server state $\OT1/cmr
+/m/n/12 (\OML/cmm/m/it/12 n[]; `[]; m[]; s[]\OT1/cmr/m/n/12 )$ \T1/cmr/m/n/12 a
+nd ob-served state $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n[]; `[]; m[]; s[]\OT1/cm
+r/m/n/12 )$\T1/cmr/m/n/12 ,
+ []
+
+[117] [118]
+Overfull \hbox (17.95984pt too wide) in paragraph at lines 1441--1442
+[]\T1/cmr/bx/n/12 Difference: \T1/cmr/m/n/12 Dis-cov-ery in-ter-pre-ta-tion pro
+-vides phys-i-cal mech-a-nism (frequency-selective
+ []
+
+[119]) [120] (sections/st-stellas-thermodynamics.tex
+Overfull \hbox (0.27138pt too wide) in paragraph at lines 30--31
+[]\T1/cmr/m/n/12 From Sec-tion 5 (Mea-sure-ment as Dis-cov-ery), mea-sure-ment 
+re-quires frequency-selective
+ []
+
+[121] [122]
+Overfull \hbox (31.49844pt too wide) in paragraph at lines 119--120
+[]\T1/cmr/m/it/12 For a sys-tem with $\OML/cmm/m/it/12 N$ \T1/cmr/m/it/12 ac-ce
+s-si-ble cat-e-gories $\OMS/cmsy/m/n/12 fC[]\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12
+ C[]\OML/cmm/m/it/12 ; [] ; \OMS/cmsy/m/n/12 C[]g$ \T1/cmr/m/it/12 with prob-a-
+bil-i-ties $\OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 P[]; P[]; [] ; P[]\OMS/cmsy/m/n/
+12 g$\T1/cmr/m/it/12 ,
+ []
+
+[123] [124] [125] [126] [127] [128] [129]
+LaTeX Font Info:    Trying to load font information for U+euf on input line 517
+.
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)
+[130] [131] [132] [133] [134]
+Overfull \hbox (0.38614pt too wide) in paragraph at lines 846--847
+[][]\T1/cmr/bx/n/12 Theorem 17.22 \T1/cmr/m/n/12 (S-En-tropy Co-or-di-nate In-v
+ari-ance)\T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 S-Entropy co-or-di-nates are platf
+orm-
+ []
+
+[135]
+
+! LaTeX Error: Unknown float option `S'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `S' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `-'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `-' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `E'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `E' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `n'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `n' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `r'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `r' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `o'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `o' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `y'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `y' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `C'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `C' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `o'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `o' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `o'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `o' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `r'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `r' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `d'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `d' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `i'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `i' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `n'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `n' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `a'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `a' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `e'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `e' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `E'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `E' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `x'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `x' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `r'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `r' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `a'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `a' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `c'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `c' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `i'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `i' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `o'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `o' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `n'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `n' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `f'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `f' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `r'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `r' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `o'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `o' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `m'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `m' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `M'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `M' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `S'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `S' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `D'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `D' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `a'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `a' ignored and `p' used.
+
+
+! LaTeX Error: Unknown float option `a'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.881 ...tropy Coordinate Extraction from MS Data]
+                                                  
+Option `a' ignored and `p' used.
+
+
+LaTeX Warning: Float too large for page by 206.34764pt on input line 957.
+
+[136] [137] [138] [139] [140]
+Overfull \hbox (8.54436pt too wide) in paragraph at lines 1162--1163
+[]\T1/cmr/bx/n/12 Completion dy-nam-ics: \T1/cmr/m/n/12 Ex-po-nen-tial ap-proac
+h to def-i-nite cat-e-gory (The-o-rem []17.18[]) 
+ []
+
+[141] [142] [143] [144] [145] [146]
+Overfull \hbox (2.5341pt too wide) in paragraph at lines 1465--1466
+[]\T1/cmr/m/n/12 Current the-ory as-sumes lin-ear re-la-tion-ships be-tween $\O
+MS/cmsy/m/n/12 f\OML/cmm/m/it/12 S[]; S[]; S[]\OMS/cmsy/m/n/12 g$ \T1/cmr/m/n/1
+2 and $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n; `; m; s\OT1/cmr/m/n/12 )$\T1/cmr/m/
+n/12 . Could
+ []
+
+[147] [148]) (sections/hardware-mapping.tex [149] [150] [151] [152] [153]
+[154] [155] [156]
+Overfull \hbox (15.28688pt too wide) in paragraph at lines 437--448
+ [][] 
+ []
+
+[157]
+Overfull \hbox (3.68884pt too wide) in paragraph at lines 500--501
+[]\T1/cmr/bx/n/12 Triangle in-equal-ity: \T1/cmr/m/n/12 Fol-lows from the Minko
+wski in-equal-ity for the $\OML/cmm/m/it/12 L[]$ \T1/cmr/m/n/12 norm weighted
+ []
+
+[158] [159]) (sections/mass-partitioning.tex [160] [161] [162] [163] [164]
+[165] [166] [167]
+Overfull \hbox (4.67146pt too wide) in paragraph at lines 547--548
+[][]\T1/cmr/bx/n/12 Theorem 21.32 \T1/cmr/m/n/12 (MALDI Soft Ion-iza-tion)\T1/c
+mr/bx/n/12 . []\T1/cmr/m/it/12 MALDI pro-duces pre-dom-i-nantly singly charged
+ []
+
+[168] [169]
+Overfull \hbox (6.44727pt too wide) in paragraph at lines 662--663
+[][]\T1/cmr/bx/n/12 Theorem 21.38 \T1/cmr/m/n/12 (MS as Par-ti-tion Co-or-di-na
+te Ex-trac-tor)\T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 Hard-ware os-cil-la-tors^^Vi
+ncluding
+ []
+
+[170]
+Overfull \hbox (3.25777pt too wide) in paragraph at lines 704--705
+[][]\T1/cmr/bx/n/12 Corollary 21.39 \T1/cmr/m/n/12 (Plat-form In-de-pen-dence)\
+T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 Dif-fer-ent mass spec-trom-e-ters mea-sur-in
+g iden-
+ []
+
+)
+Overfull \hbox (0.80174pt too wide) in paragraph at lines 733--483
+[]\T1/cmr/m/n/12 The frame-work yields platform-independent molec-u-lar char-ac
+-ter-i-za-tion: dif-fer-ent mass
+ []
+
+[171] (sections/geometric-arpetures.tex [172] [173]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[174] [175] [176]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 330.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 330.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 330.
+
+[177] [178]
+
+! LaTeX Error: Unicode character μ (U+03BC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.421 \textbf{Numerical example:} For $t = 100$ μ
+                                                  s and $\Delta t = 1$ ns:
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 431.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 431.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\ell' on input line 431.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 431.
+
+[179] [180]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 536.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 536.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\ell' on input line 536.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 536.
+
+[181]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 620.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 620.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 620.
+
+[182] [183]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 736.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 736.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 736.
+
+[184] [185]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 840.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 840.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\ell' on input line 840.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 840.
+
+[186]
+Overfull \hbox (17.07848pt too wide) in paragraph at lines 935--936
+[]\T1/cmr/m/n/12 (Fragmentation does not change hand-ed-ness^^Va D-enantiomer f
+rag-ments to D-fragments.) 
+ []
+
+[187] [188] [189]
+Overfull \hbox (21.60826pt too wide) in paragraph at lines 1090--1091
+[]\T1/cmr/m/n/12 Each par-ti-tion state $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n; `
+; m; s\OT1/cmr/m/n/12 )$ \T1/cmr/m/n/12 has a spe-cific mass $\OML/cmm/m/it/12 
+m\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n; `; m; s\OT1/cmr/m/n/12 )$ \T1/cmr/m/n/12 
+and charge $\OML/cmm/m/it/12 q\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n; `; m; s\OT1/
+cmr/m/n/12 )$\T1/cmr/m/n/12 .
+ []
+
+[190]
+Overfull \hbox (3.95616pt too wide) in paragraph at lines 1134--1135
+[]$\OML/cmm/m/it/12 S$\T1/cmr/m/it/12 : Ion source (par-ti-tion ini-tial-izer) 
+^^V pre-pares ini-tial cat-e-gor-i-cal state $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12
+ n[]; `[]; m[]; s[]\OT1/cmr/m/n/12 )$ 
+ []
+
+[191] [192]
+Overfull \hbox (0.77263pt too wide) in paragraph at lines 1256--1257
+[]\T1/cmr/m/it/12 The MS2 scans do not cre-ate new in-for-ma-tion^^Vthey re-vea
+l in-for-ma-tion al-ready present
+ []
+
+[193] [194] [195] [196] [197] [198] [199] [200]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[201] [202]) (sections/trajectory-completion.tex [203]
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 \end{equation}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{definition} on input line 44 ended by \end{equation}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 \end{equation}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.52 \end{equation}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.52 \end{equation}
+                   
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+[204]
+
+! LaTeX Error: \begin{document} ended by \end{definition}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 \end{definition}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.53 \end{definition}
+                     
+Things are pretty mixed up, but I think the worst is over.
+
+
+LaTeX Warning: Reference `thm:information_conservation' on page 205 undefined o
+n input line 60.
+
+
+LaTeX Warning: Reference `thm:information_conservation' on page 205 undefined o
+n input line 72.
+
+
+LaTeX Warning: Reference `thm:cascade_mechanism' on page 205 undefined on input
+ line 80.
+
+[205]
+Overfull \hbox (3.6985pt too wide) in paragraph at lines 117--119
+[]\T1/cmr/bx/n/12 Forward di-rec-tion: \T1/cmr/m/n/12 Given molec-u-lar struc-t
+ure $\OML/cmm/m/it/12 M$\T1/cmr/m/n/12 , com-pute the-o-ret-i-cal S-Entropy
+ []
+
+[206] [207]
+
+LaTeX Warning: Reference `thm:platform_independent' on page 208 undefined on in
+put line 261.
+
+
+LaTeX Warning: Reference `thm:platform_independent' on page 208 undefined on in
+put line 265.
+
+
+Overfull \hbox (2.71396pt too wide) in paragraph at lines 270--271
+[]\T1/cmr/m/n/12 Platform $\OML/cmm/m/it/12 B$ \T1/cmr/m/n/12 would mea-sure th
+e same $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n; `; m; s\OT1/cmr/m/n/12 )$ \T1/cmr/
+m/n/12 via aper-ture ar-ray $\OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 A[]; A[]; A[]; 
+A[]\OMS/cmsy/m/n/12 g$ 
+ []
+
+[208] [209] [210] [211]
+
+LaTeX Warning: Reference `thm:experimental_platform' on page 212 undefined on i
+nput line 512.
+
+[212] [213]
+Overfull \hbox (165.9586pt too wide) detected at line 635
+[][][]\OML/cmm/m/it/12 ^^M[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 
+) = \OMS/cmsy/m/n/12 f\OT1/cmr/m/n/12 (5\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 094\O
+ML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 5\OML/cmm/m/it/12 :\OT1/cm
+r/m/n/12 991\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 7\OML/cmm/m/it/12 :\OT1/cmr/m/n/
+12 033)\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 (5\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 3
+98\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 5\OML/cmm/m/it/12 :\OT
+1/cmr/m/n/12 298\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 7\OML/cmm/m/it/12 :\OT1/cmr/
+m/n/12 018)\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 (5\OML/cmm/m/it/12 :\OT1/cmr/m/n/
+12 629\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 
+:\OT1/cmr/m/n/12 787\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 7\OML/cmm/m/it/12 :\OT1/
+cmr/m/n/12 004)\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 (6\OML/cmm/m/it/12 :\OT1/cmr/
+m/n/12 054\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 4\OML/cmm/m/it
+/12 :\OT1/cmr/m/n/12 382\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 6\OML/cmm/m/it/12 :\
+OT1/cmr/m/n/12 995)\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 (6\OML/cmm/m/it/12 :\OT1/
+cmr/m/n/12 289\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 3\OML/cmm/
+m/it/12 :\OT1/cmr/m/n/12 912\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 6\OML/cmm/m/it/1
+2 :\OT1/cmr/m/n/12 987)\OMS/cmsy/m/n/12 g
+ []
+
+
+Overfull \hbox (157.47755pt too wide) detected at line 640
+[][][]\OML/cmm/m/it/12 ^^M[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 
+) = \OMS/cmsy/m/n/12 f\OT1/cmr/m/n/12 (4\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 876\O
+ML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 6\OML/cmm/m/it/12 :\OT1/cm
+r/m/n/12 201\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 7\OML/cmm/m/it/12 :\OT1/cmr/m/n/
+12 040)\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 (5\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 6
+30\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 5\OML/cmm/m/it/12 :\OT
+1/cmr/m/n/12 412\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 7\OML/cmm/m/it/12 :\OT1/cmr/
+m/n/12 011)\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 (6\OML/cmm/m/it/12 :\OT1/cmr/m/n/
+12 055\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 
+:\OT1/cmr/m/n/12 823\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 6\OML/cmm/m/it/12 :\OT1/
+cmr/m/n/12 998)\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 (6\OML/cmm/m/it/12 :\OT1/cmr/
+m/n/12 181\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 4\OML/cmm/m/it
+/12 :\OT1/cmr/m/n/12 298\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 6\OML/cmm/m/it/12 :\
+OT1/cmr/m/n/12 989)\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 (6\OML/cmm/m/it/12 :\OT1/
+cmr/m/n/12 313\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 1\OML/cmm/m/it/12 :\OT1/cmr/m/
+n/12 856\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 7\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 0
+51)\OMS/cmsy/m/n/12 g
+ []
+
+[214] [215]
+Overfull \hbox (24.28918pt too wide) in paragraph at lines 698--700
+[]\T1/cmr/bx/n/12 Virtual Q-TOF spec-trum: \T1/cmr/m/n/12 Ex-tract par-ti-tion 
+co-or-di-nates: $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n; `; m; s\OT1/cmr/m/n/12 ) 
+= (12\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 1\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 24\
+OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 =\OT1/c
+mr/m/n/12 2)$ 
+ []
+
+[216] [217])
+Overfull \hbox (26.33446pt too wide) in paragraph at lines 491--491
+[]\T1/cmr/bx/n/17.28 First-Principles Spec-troscopy and the Val-i-da-tion Chain
+ 
+ []
+
+(sections/spectroscopy.tex [218]
+Overfull \hbox (17.04788pt too wide) in paragraph at lines 57--58
+\T1/cmr/m/n/12 (Schr�dinger equa-tion), the par-ti-tion struc-ture^^Vand hence 
+the fre-quency spec-trum^^Vremains
+ []
+
+[219] [220] [221] [222] [223]
+Overfull \hbox (33.84183pt too wide) in paragraph at lines 251--252
+\T1/cmr/m/n/12 cas-cade of par-ti-tion op-er-a-tions. The cas-cade ter-mi-nates
+ at par-ti-tion ter-mi-na-tors^^Vconfigurations
+ []
+
+[224] [225] [226] [227] [228] [229] [230] [231] [232]
+Overfull \hbox (10.93042pt too wide) in paragraph at lines 739--760
+ [][] 
+ []
+
+
+Overfull \hbox (6.13516pt too wide) in paragraph at lines 764--765
+[]\T1/cmr/bx/n/12 Key Re-sult: \T1/cmr/m/n/12 At ev-ery stage of the an-a-lyt-i
+-cal work-flow, the three frame-works^^Vclassical
+ []
+
+[233]) (sections/experimental-validation.tex
+Overfull \hbox (11.64058pt too wide) in paragraph at lines 1--1
+[]\T1/cmr/bx/n/14.4 Experimental Val-i-da-tion Strat-egy: Quantum-Classical Equ
+iv-
+ []
+
+[234] [235] [236] [237] [238] [239] [240] [241] [242]
+Overfull \hbox (12.58986pt too wide) in paragraph at lines 499--500
+[]\T1/cmr/m/n/12 Partition: $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n; \OT1/cmr/m/n/
+12 1\OML/cmm/m/it/12 ; m; s\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ! \OT1/cmr/m/n/12
+ (\OML/cmm/m/it/12 n[]; \OT1/cmr/m/n/12 0\OML/cmm/m/it/12 ; m[]; s[]\OT1/cmr/m/
+n/12 ) + (\OML/cmm/m/it/12 n[]; \OT1/cmr/m/n/12 0\OML/cmm/m/it/12 ; m[]; s[]\OT
+1/cmr/m/n/12 )$ \T1/cmr/m/n/12 or $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n; \OT1/cm
+r/m/n/12 1\OML/cmm/m/it/12 ; m; s\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ! \OT1/cmr/
+m/n/12 (\OML/cmm/m/it/12 n[]; \OT1/cmr/m/n/12 1\OML/cmm/m/it/12 ; m[]; s[]\OT1/
+cmr/m/n/12 ) +
+ []
+
+
+Overfull \hbox (6.06004pt too wide) in paragraph at lines 513--514
+[]\T1/cmr/bx/n/12 Mass mea-sure-ments \T1/cmr/m/n/12 on dif-fer-ent plat-forms 
+(TOF, Or-bi-trap, FT-ICR, Quadrupole)
+ []
+
+[243] [244] [245] [246]
+Overfull \hbox (3.83868pt too wide) in paragraph at lines 719--720
+[]\T1/cmr/bx/n/12 Visual BMD Cas-cade: \T1/cmr/m/n/12 Spec-trum $\OMS/cmsy/m/n/
+12 !$ \T1/cmr/m/n/12 S-Entropy co-ords $\OMS/cmsy/m/n/12 !$ \T1/cmr/m/n/12 ther
+-mo-dy-namic droplets
+ []
+
+[247]
+Overfull \hbox (2.43597pt too wide) in paragraph at lines 756--757
+[]\T1/cmr/m/n/12 The bi-jec-tive trans-for-ma-tion proves that clas-si-cal (tra
+-jec-tory), quan-tum (fre-quency),
+ []
+
+[248] [249]
+Overfull \hbox (9.28156pt too wide) in paragraph at lines 836--837
+\T1/cmr/m/n/12 quantum-classical uni-fi-ca-tion is not merely the-o-ret-i-cal b
+ut ex-per-i-men-tally val-i-dated through
+ []
+
+[250] [251]) [252] [253]
+Overfull \hbox (3.42592pt too wide) in paragraph at lines 533--534
+[]\T1/cmr/bx/n/12 Platform in-de-pen-dence: \T1/cmr/m/n/12 Dif-fer-ent an-a-lyz
+-ers (TOF, Or-bi-trap, FT-ICR, Quadrupole,
+ []
+
+[254] (union-of-two-crowns.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [255] (union-of-two-crowns.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+
+Package rerunfilecheck Warning: File `union-of-two-crowns.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `union-of-two-crowns.out':
+(rerunfilecheck)             Before: EE0BA0AED059C38F09988CEE79B09E0E;103250
+(rerunfilecheck)             After:  92110C4D9F52F1A1755A5E1B731C3708;103899.
+ ) 
+Here is how much of TeX's memory you used:
+ 26199 strings out of 474486
+ 473790 string characters out of 5743283
+ 1947542 words of memory out of 5000000
+ 45397 multiletter control sequences out of 15000+600000
+ 584881 words of font info for 107 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,16n,93p,934b,716s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tct
+i1200.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
+600\ecti0600.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
+/ec/dpi600\ecrm0600.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/j
+knappen/ec/dpi600\tcbx1200.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/l
+jfour/jknappen/ec/dpi600\ecti0800.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecbi1200.pk> <C:\Users\kundai\AppData\Local\MiK
+TeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\kundai\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\kundai\App
+Data\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\kun
+dai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Us
+ers\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk>
+ <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1
+200.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecrm0800.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
+c/dpi600\ecrm1095.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jkn
+appen/ec/dpi600\ecbx1095.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljf
+our/jknappen/ec/dpi600\ectt1440.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\kundai\AppData\Local\MiKTe
+X\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk><C:/Users/kundai/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/kundai/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/k
+undai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmmi12.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi6.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/kundai/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/kundai/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/kundai/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/kundai
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/User
+s/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmsy6.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmsy8.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/euler/eufm10.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/kundai/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on union-of-two-crowns.pdf (255 pages, 1892124 bytes).
+PDF statistics:
+ 6809 PDF objects out of 7423 (max. 8388607)
+ 2620 named destinations out of 2984 (max. 500000)
+ 3629 words of extra memory for PDF output out of 10000 (max. 10000000)
+
