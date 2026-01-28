@@ -1,0 +1,31 @@
+{
+  "experiment": "Hydrogen 1s\u21922p Transition Simulation",
+  "date": "2026-01-27T15:42:48.607300",
+  "theory": "Deterministic trajectory through partition space",
+  "data": {
+    "trajectory_summary": {
+      "duration": 1e-08,
+      "n_points": 10000,
+      "initial_state": {
+        "n": 1.0,
+        "l": 0.0,
+        "m": 0.0,
+        "r_a0": 1.0,
+        "E_eV": -13.6
+      },
+      "final_state": {
+        "n": 2.0167603994558108,
+        "l": 1.0,
+        "m": 0.0,
+        "r_a0": 3.9922819101082614,
+        "E_eV": -3.406573059273562
+      },
+      "recurrence_amplitude": 0.05,
+      "recurrence_period": 4.0999999999999995e-09
+    },
+    "determinism": {
+      "n_trials": 100,
+      "mean_final_n": 1.9980695785347173,
+      "std_final_n": 9.319213162700667e-07,
+      "relative_std": 4.664108428864076e-07,
+      "passed": 

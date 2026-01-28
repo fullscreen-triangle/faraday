@@ -1,0 +1,122 @@
+{
+  "experiment": "Omnidirectional Trajectory Validation",
+  "date": "2026-01-27T16:06:50.973180",
+  "theory": "8-direction validation of electron trajectory observation",
+  "data": {
+    "direction_1_forward": {
+      "transition_duration": 1e-08,
+      "n_measurements": 10000,
+      "mean_radius_measured": 1.8631400949133904e-10,
+      "mean_radius_theory": 1.863139940903509e-10,
+      "relative_deviation": 8.266146739223933e-08,
+      "position_uncertainty": 3.7071340321404735e-11,
+      "passed": true
+    },
+    "direction_2_backward": {
+      "r_1s_predicted": 5.29177210903e-11,
+      "r_1s_measured": 5.29177210903e-11,
+      "deviation_1s": 0.0,
+      "r_2p_predicted": 2.116708843612e-10,
+      "r_2p_measured": 2.1124754259247758e-10,
+      "deviation_2p": 0.0020040080160321017,
+      "passed": true
+    },
+    "direction_3_sideways": {
+      "tau_H": 1.0179835306607447e-08,
+      "tau_D": 1.3942166943062742e-08,
+      "measured_ratio": 1.369586690072802,
+      "theory_ratio": 1.413670406796056,
+      "deviation": 0.03118387179311855,
+      "passed": false
+    },
+    "direction_4_inside_out": {
+      "initial_state": [
+        1,
+        0,
+        0,
+        0.5
+      ],
+      "final_state": [
+        2,
+        1,
+        0,
+        0.5
+      ],
+      "delta_n": 1,
+      "delta_l": 1,
+      "delta_m": 0,
+      "delta_s": 0.0,
+      "selection_rules_satisfied": true,
+      "passed": true
+    },
+    "direction_5_outside_in": {
+      "N_ions": 10000,
+      "temperature": 4,
+      "volume": 1e-09,
+      "pressure_theory": 5.522596e-10,
+      "pressure_measured": 5.354324343071711e-10,
+      "deviation": 0.030469666245419587,
+      "v_thermal": 289.9303792761486,
+      "passed": true
+    },
+    "direction_6_temporal": {
+      "n_timepoints": 100,
+      "duration": 1e-08,
+      "mean_velocity": 0.016007762583165733,
+      "max_velocity": 0.06606331450224301,
+      "v_max_over_c": 2.2035795364323886e-10,
+      "causality_preserved": true,
+      "passed": true
+    },
+    "direction_7_spectral": {
+      "modalities": {
+        "Optical": {
+          "r_final": 2.1220006157210298e-10,
+          "uncertainty": 2.645886054515e-12
+        },
+        "Raman": {
+          "r_final": 2.1061252993939399e-10,
+          "uncertainty": 3.175063265418e-12
+        },
+        "MRI": {
+          "r_final": 2.1272923878300597e-10,
+          "uncertainty": 2.116708843612e-12
+        },
+        "CD": {
+          "r_final": 2.11141707150297e-10,
+          "uncertainty": 2.645886054515e-12
+        },
+        "Mass_Spec": {
+          "r_final": 2.116708843612e-10,
+          "uncertainty": 1.587531632709e-12
+        }
+      },
+      "mean_r": 2.1167088436119997e-10,
+      "std_r": 7.483695885577841e-13,
+      "rsd": 0.003535533905932709,
+      "passed": true
+    },
+    "direction_8_computational": {
+      "initial_state": [
+        0.23,
+        0.15,
+        0.08
+      ],
+      "final_state": [
+        0.23,
+        0.1499999999999,
+        0.08
+      ],
+      "recurrence_error": 1.0000333894311098e-13,
+      "n_steps": 10000,
+      "passed": true
+    }
+  },
+  "combined_confidence": {
+    "n_passed": 7,
+    "n_total": 8,
+    "p_combined": 0.9320653479069899,
+    "p_failure": 0.06793465209301008,
+    "bayesian_posterior": 0.12171775051284765
+  }
+}

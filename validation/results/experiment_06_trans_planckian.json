@@ -1,0 +1,257 @@
+{
+  "experiment": "Trans-Planckian Temporal Resolution Validation",
+  "date": "2026-01-27T15:42:48.532268",
+  "theory": "\u03b4t = 10\u207b\u00b9\u00b3\u2078 s via categorical state counting",
+  "data": {
+    "resolution_scaling": [
+      {
+        "n_max": 5,
+        "M_modalities": 1,
+        "N_states": 110,
+        "N_total": 110.0,
+        "delta_t": 9.587016518181818e-28,
+        "ratio_to_planck": 1.7782558503036158e+16,
+        "orders_below_planck": 0
+      },
+      {
+        "n_max": 5,
+        "M_modalities": 2,
+        "N_states": 110,
+        "N_total": 12100.0,
+        "delta_t": 8.71546956198347e-30,
+        "ratio_to_planck": 161659622754874.16,
+        "orders_below_planck": 0
+      },
+      {
+        "n_max": 5,
+        "M_modalities": 3,
+        "N_states": 110,
+        "N_total": 1331000.0,
+        "delta_t": 7.9231541472577e-32,
+        "ratio_to_planck": 1469632934135.2195,
+        "orders_below_planck": 0
+      },
+      {
+        "n_max": 5,
+        "M_modalities": 4,
+        "N_states": 110,
+        "N_total": 146410000.0,
+        "delta_t": 7.202867406597909e-34,
+        "ratio_to_planck": 13360299401.229269,
+        "orders_below_planck": 0
+      },
+      {
+        "n_max": 5,
+        "M_modalities": 5,
+        "N_states": 110,
+        "N_total": 16105100000.0,
+        "delta_t": 6.548061278725373e-36,
+        "ratio_to_planck": 121457267.28390247,
+        "orders_below_planck": 0
+      },
+      {
+        "n_max": 10,
+        "M_modalities": 1,
+        "N_states": 770,
+        "N_total": 770.0,
+        "delta_t": 1.3695737883116881e-28,
+        "ratio_to_planck": 2540365500433736.5,
+        "orders_below_planck": 0
+      },
+      {
+        "n_max": 10,
+        "M_modalities": 2,
+        "N_states": 770,
+        "N_total": 592900.0,
+        "delta_t": 1.778667257547647e-31,
+        "ratio_to_planck": 3299175974589.2686,
+        "orders_below_planck": 0
+      },
+      {
+        "n_max": 10,
+        "M_modalities": 3,
+        "N_states": 770,
+        "N_total": 456533000.0,
+        "delta_t": 2.3099574773346064e-34,
+        "ratio_to_planck": 4284644122.8432055,
+        "orders_below_planck": 0
+      },
+      {
+        "n_max": 10,
+        "M_modalities": 4,
+        "N_states": 770,
+        "N_total": 351530410000.0,
+        "delta_t": 2.999944775759229e-37,
+        "ratio_to_planck": 5564472.886809358,
+        "orders_below_planck": 0
+      },
+      {
+        "n_max": 10,
+        "M_modalities": 5,
+        "N_states": 770,
+        "N_total": 270678415700000.0,
+        "delta_t": 3.896032176310687e-40,
+        "ratio_to_planck": 7226.588164687478,
+        "orders_below_planck": 0
+      },
+      {
+        "n_max": 15,
+        "M_modalities": 1,
+        "N_states": 2480,
+        "N_total": 2480.0,
+        "delta_t": 4.2523057137096775e-29,
+        "ratio_to_planck": 788742514247571.5,
+        "orders_below_planck": 0
+      },
+      {
+        "n_max": 15,
+        "M_modalities": 2,
+        "N_states": 2480,
+        "N_total": 6150400.0,
+        "delta_t": 1.714639400689386e-32,
+        "ratio_to_planck": 318041336390.1498,
+        "orders_below_planck": 0
+      },
+      {
+        "n_max": 15,
+        "M_modalities": 3,
+        "N_states": 2480,
+        "N_total": 15252992000.0,
+        "delta_t": 6.913868551166879e-36,
+        "ratio_to_planck": 128242474.35086685,
+        "orders_below_planck": 0
+      },
+      {
+        "n_max": 15,
+        "M_modalities": 4,
+        "N_states": 2480,
+        "N_total": 37827420160000.0,
+        "delta_t": 2.787850222244709e-39,
+        "ratio_to_planck": 51710.67514147857,
+        "orders_below_planck": 0
+      },
+      {
+        "n_max": 15,
+        "M_modalities": 5,
+        "N_states": 2480,
+        "N_total": 9.38120019968e+16,
+        "delta_t": 1.1241331541309311e-42,
+        "ratio_to_planck": 20.85107868608007,
+        "orders_below_planck": 0
+      },
+      {
+        "n_max": 20,
+        "M_modalities": 1,
+        "N_states": 5740,
+        "N_total": 5740.0,
+        "delta_t": 1.8372331306620207e-29,
+        "ratio_to_planck": 340780737863062.25,
+        "orders_below_planck": 0
+      },
+      {
+        "n_max": 20,
+        "M_modalities": 2,
+        "N_states": 5740,
+        "N_total": 32947600.0,
+        "delta_t": 3.2007545830348796e-33,
+        "ratio_to_planck": 59369466526.6659,
+        "orders_below_planck": 0
+      },
+      {
+        "n_max": 20,
+        "M_modalities": 3,
+        "N_states": 5740,
+        "N_total": 189119224000.0,
+        "delta_t": 5.576227496576445e-37,
+        "ratio_to_planck": 10343112.635307647,
+        "orders_below_planck": 0
+      },
+      {
+        "n_max": 20,
+        "M_modalities": 4,
+        "N_states": 5740,
+        "N_total": 1085544345760000.0,
+        "delta_t": 9.714682049784746e-41,
+        "ratio_to_planck": 1801.9359991825168,
+        "orders_below_planck": 0
+      },
+      {
+        "n_max": 20,
+        "M_modalities": 5,
+        "N_states": 5740,
+        "N_total": 6.2310245446624e+18,
+        "delta_t": 1.6924533187778305e-44,
+        "ratio_to_planck": 0.3139261322617625,
+        "orders_below_planck": 0.5031725306691783
+      }
+    ],
+    "measurement_rate": [
+      {
+        "configuration": "Conservative",
+        "n_max": 10,
+        "M_modalities": 3,
+        "delta_t": 2.3099574773346064e-34,
+        "N_measurements": 4.3290840191303924e+24,
+        "transition_duration": 1e-09
+      },
+      {
+        "configuration": "Moderate",
+        "n_max": 15,
+        "M_modalities": 4,
+        "delta_t": 2.787850222244709e-39,
+        "N_measurements": 3.586993275394919e+29,
+        "transition_duration": 1e-09
+      },
+      {
+        "configuration": "Aggressive",
+        "n_max": 20,
+        "M_modalities": 5,
+        "delta_t": 1.6924533187778305e-44,
+        "N_measurements": 5.908582463722716e+34,
+        "transition_duration": 1e-09
+      }
+    ],
+    "information_gain": {
+      "modalities": [
+        {
+          "coordinate": "n",
+          "name": "Principal",
+          "n_states": 20,
+          "information_bits": 4.321928094887363,
+          "information_nats": 2.995732273553991
+        },
+        {
+          "coordinate": "l",
+          "name": "Angular",
+          "n_states": 10,
+          "information_bits": 3.321928094887362,
+          "information_nats": 2.302585092994046
+        },
+        {
+          "coordinate": "m",
+          "name": "Orientation",
+          "n_states": 21,
+          "information_bits": 4.392317422778761,
+          "information_nats": 3.044522437723423
+        },
+        {
+          "coordinate": "s",
+          "name": "Chirality",
+          "n_states": 2,
+          "information_bits": 1.0,
+          "information_nats": 0.6931471805599453
+        },
+        {
+          "coordinate": "tau",
+          "name": "Temporal",
+          "n_states": 100,
+          "information_bits": 6.643856189774724,
+          "information_nats": 4.605170185988092
+        }
+      ],
+      "total_bits": 19.68002980232821,
+      "total_nats": 13.641157170819497,
+      "mean_per_modality": 3.936005960465642
+    }
+  }
+}

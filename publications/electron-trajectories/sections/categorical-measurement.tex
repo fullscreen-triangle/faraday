@@ -43,6 +43,13 @@ By scanning $\omega$ and observing absorption, we determine $(n_i, n_f)$. If the
 
 The selection rule for optical transitions is $\Delta \ell = \pm 1$ (electric dipole selection rule). This is a geometric constraint: the dipole operator $\mathbf{r}$ couples only partitions differing by one unit of angular complexity.
 
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=\textwidth]{figures/panel_uvvis_complexity_coordinate.png}
+    \caption{Complexity coordinate $\ell$ and UV-visible optical spectroscopy. \textbf{Top row:} Orbital shapes for $\ell=2$ (d-orbital) and $\ell=3$ (f-orbital), selection rule matrix showing allowed transitions $\Delta\ell = \pm 1$ (6.0\% of all pairs, green squares), UV-visible absorption spectrum with vibronic structure, and Jablonski diagram showing electronic transitions. \textbf{Middle row:} Orbital characteristics radar plot (radial extent, angular momentum, shielding, nodes, energy, degeneracy), frequency scaling $\omega_\ell \propto \ell(\ell+1)$ with numerical values, transition dipole moment vectors in 3D, and oscillator strengths for $s \to p$ (0.876), $p \to d$ (0.122), $d \to f$ (0.637) transitions. \textbf{Bottom row:} Degeneracy pattern $2\ell+1$ showing cumulative state counts. The coupling structure $\mathcal{I}_\ell$ implements electric dipole coupling in the optical regime $\Omega_\ell$, corresponding to UV-visible and Raman spectroscopy (Theorem~\ref{thm:complexity_coupling}).}
+    \label{fig:complexity_uvvis}
+    \end{figure}
+
 \subsubsection{Raman Scattering: Measuring $\ell$}
 
 The Raman modality couples to vibrational modes through inelastic scattering. Incident light at frequency $\omega_0$ is scattered to frequency $\omega = \omega_0 \pm \omega_{\text{vib}}$, where $\omega_{\text{vib}}$ is the vibrational frequency. The coupling is:
@@ -78,6 +85,13 @@ where $m$ is the magnetic quantum number (orientation coordinate). Transitions o
 
 By measuring the resonance frequency $\omega$, we determine $\Delta m$, and if the initial $m$ is known, we determine $m$ directly. The selection rule is $\Delta m = \pm 1$ (magnetic dipole). This measures the orientation coordinate.
 
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=\textwidth]{figures/panel_nmr_chirality_coordinate.png}
+    \caption{Chirality coordinate $s$ and nuclear magnetic resonance (NMR) spectroscopy. \textbf{Top row:} Bloch sphere representation of spin states $|\uparrow\rangle$ and $|\downarrow\rangle$, Zeeman energy splitting $\Delta E = \gamma \hbar B$ linear in magnetic field, Boltzmann spin population distribution at various temperatures (100--500 K), and $^1$H NMR spectrum showing chemical shift peaks for different molecular environments. \textbf{Middle row:} NMR relaxation curves for longitudinal ($T_1 = 1.0$ s, blue) and transverse ($T_2 = 0.5$ s, red) magnetization, free induction decay (FID) signal with exponential envelope, spin echo pulse sequence (90°--180°--acquisition), and tissue-dependent NMR properties radar plot (water, fat, brain) showing $T_1$, $T_2$, $T_2^*$, chemical shift, and J-coupling variations. \textbf{Bottom row:} 2D COSY correlation map showing through-bond connectivity, J-coupling multiplet patterns (singlet, doublet, triplet, quartet), Larmor frequency $\omega = \gamma B$ for different nuclei ($^1$H, $^{13}$C, $^{19}$F, $^{31}$P), and two-spin energy level diagram. The coupling structure $\mathcal{I}_s$ implements radio-frequency magnetic resonance at the Larmor frequency in regime $\Omega_s$, corresponding to NMR and ESR spectroscopy (Theorem~\ref{thm:chirality_resonance}).}
+    \label{fig:chirality_nmr}
+    \end{figure}
+
 \subsubsection{Circular Dichroism: Measuring $s$}
 
 The circular dichroism (CD) modality couples left- and right-circularly polarized light differently to chiral systems. The coupling is:
@@ -103,6 +117,12 @@ For a given ion (fixed $m, e, V, L$), the TOF $\tau$ is constant. However, when 
 
 In the context of electron trajectory observation, the drift modality measures the evolution time: at which point during the transition are we observing the system. By synchronizing the drift measurement with optical/Raman/magnetic/CD measurements, we timestamp each categorical snapshot.
 
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=\textwidth]{figures/panel_unified_spectroscopy.png}
+    \caption{Unified spectroscopic framework showing correspondence between partition coordinates $(n,\ell,m,s)$ and measurement techniques. \textbf{Top:} Frequency regime separation spanning radio to X-ray frequencies ($10^6$--$10^{18}$ Hz), with each coordinate occupying a distinct spectral regime separated by factors $>10^3$ (Theorem~\ref{thm:frequency_duality}). \textbf{Middle:} Geometric representations of each coordinate: depth $n$ (shell capacity $2n^2$), complexity $\ell$ (angular degeneracy), orientation $m$ (Zeeman levels and Larmor precession), and chirality $s$ (Bloch sphere relaxation). \textbf{Bottom table:} Summary of coordinate-instrument correspondences, showing frequency scaling ($\omega_n \propto n^{-3}$, $\omega_\ell \propto \ell(\ell+1)$, $\omega_m \propto m \cdot B$, $\omega_s \propto s \cdot B$), physical coupling mechanisms, and spectroscopic implementations. The coordinate relationship diagram (right) illustrates the hierarchical structure connecting all four measurements through the partition structure $\mathcal{P}$.}
+    \label{fig:unified_spectroscopy}
+    \end{figure}
 \subsection{Orthogonality of Modalities}
 
 We now prove that the five modalities measure orthogonal categorical observables, following from empirical reliability and observer invariance.
@@ -148,6 +168,17 @@ The same argument applies to any pair of modalities. Since all five techniques w
 \end{proof}
 
 This theorem is the foundation of multi-modal measurement. Because the modalities are orthogonal, we can apply all five simultaneously without mutual interference. Each extracts independent information, over-constraining the system and enabling unique state identification.
+
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=\textwidth]{figures/panel_06_multi_modal.png}
+    \caption{\textbf{Multi-modal consistency and redundancy validation.} 
+    (\textbf{A}) Cross-modal correlation matrix showing pairwise correlation coefficients $$r$$ between all five measurement modalities (optical, Raman, MRI, circular dichroism, mass spectrometry). All off-diagonal elements satisfy $$r > 0.94$$, with most $$r > 0.95$$, demonstrating high inter-modal consistency. Perfect diagonal ($$r = 1.000$$) confirms self-consistency. Color scale from red ($$r = 0$$) to green ($$r = 1$$). 
+    (\textbf{B}) Measurement accuracy as a function of number of modalities used simultaneously. Blue line with circles shows mean accuracy increasing from 50\% (single modality, random guess baseline) to 97\% (all five modalities). Blue shaded region indicates 95\% confidence interval. Gray circles show individual trial results. Redundancy enables error correction: accuracy improves logarithmically with modality count. 
+    (\textbf{C}) Measurement timing synchronization across all five modalities over 10 μs observation window. Each row represents one modality; vertical colored bars indicate measurement events (optical: pink, Raman: orange, MRI: green, dichroism: cyan, mass spec: blue). Red vertical lines show atomic clock timing references. Yellow box annotation indicates timing jitter $$< 100$$ ns, ensuring sub-nanosecond synchronization across all channels. 
+    (\textbf{D}) Three-dimensional consistency space showing measured quantum numbers $$(n, \ell, m)$$ from $$>10^4$$ simultaneous multi-modal measurements. Point cloud (colored by modality combination) clusters tightly around true value (yellow star) at $$(n, \ell, m) = (2, 1, 0)$$. Scatter width $$\sigma < 0.05$$ in all dimensions demonstrates consistency. Legend indicates single modalities (optical, Raman, MRI), dual combination (optical+Raman), and all five modalities.}
+    \label{fig:multimodal}
+    \end{figure}
 
 \subsection{Multi-Modal Constraint Satisfaction}
 
@@ -246,6 +277,17 @@ Because measurement is a relationship, not an interaction, there is no physical 
 When we measure the categorical state (read the outcome), the system responds by revealing which partition it occupies. This response may involve emission or absorption of photons (for optical modality) or precession of magnetic moment (for magnetic modality). But the response is not caused by the measurement; it is the system's natural behavior under the coupling geometry.
 
 The critical point is that categorical measurement does not perturb the system beyond forcing it into an eigenstate of the coupling Hamiltonian. And since the categorical observable commutes with physical observables, this forcing does not disturb position or momentum.
+
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=\textwidth]{figures/panel_09_measurement_ontology.png}
+    \caption{\textbf{Measurement ontology: coupling geometry as categorical relationship.} 
+    (\textbf{A}) Measurement time versus coupling strength for all five modalities. Colored circles indicate measured values: optical (red), Raman (green), MRI (blue), dichroism (purple), mass spectrometry (orange). Black dashed line shows theoretical scaling $$T \propto g^{-2}$$ (perturbation theory). Cyan box marks categorical limit: as coupling strength $$g \rightarrow 0$$, measurement time $$T \rightarrow 0$$ (instantaneous observable definition). Vertical cyan dashed line indicates zero-coupling asymptote. 
+    (\textbf{B}) Information transfer mechanism schematic illustrating measurement as relationship rather than interaction. Blue oval (left) represents ion/system; green oval (right) represents detector/instrument. Black rectangle (center) represents coupling geometry that defines the categorical observable. Blue arrow: no energy transfer from system to instrument. Green arrow: categorical state revealed through geometric relationship. Brown box annotation emphasizes: "Information extracted without physical disturbance." 
+    (\textbf{C}) Backaction versus precision phase diagram. Red line marks Heisenberg limit $$\Delta x \cdot \Delta p \geq \hbar/2$$. Red circles show physical measurements (position/momentum), falling on Heisenberg boundary. Green circles show categorical measurements, falling $$\sim 10^3$$ below Heisenberg limit in forbidden region (pink shaded). Beige region (bottom) marks categorical regime where $$\Delta p < \hbar/(2\Delta x)$$ is achievable because measurement does not involve complementary observables. Green shaded region labeled "Forbidden (Heisenberg)" indicates classically inaccessible parameter space. 
+    (\textbf{D}) Three-dimensional coupling geometry visualization. Central blue/green sphere represents ion with $$n=1$$ (blue inner) and $$n=2$$ (green outer) spatial regions. Red lines radiating outward show optical coupling geometry (dipole radiation pattern). Blue lines radiating vertically show magnetic coupling geometry (axial field lines). Yellow shaded disk represents spatial mode structure. Coordinate axes in field coordinates (arbitrary units). Geometry defines which categorical observable is measured without physically perturbing the system.}
+    \label{fig:ontology}
+    \end{figure}
 
 \subsection{Selection of Modalities: Bijection to Partition Coordinates}
 

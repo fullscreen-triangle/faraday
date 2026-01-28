@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.7.27)  24 JAN 2026 08:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.7.27)  28 JAN 2026 00:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -324,45 +324,373 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
 (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)
 )
-\c@theorem=\count289
-\c@definition=\count290
-\c@axiom=\count291
- (electron-trajectories.aux)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.st
+y
+Package: tcolorbox 2024/01/10 version 6.2.0 text color boxes
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.s
+ty
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfuti
+l-common.tex
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen164
+\pgfutil@tempdimb=\dimen165
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfuti
+l-latex.def
+\pgfutil@abb=\box54
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs
+.code.tex
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex
+)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore
+.sty
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys
+.sty
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+ys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkey
+s.code.tex
+\pgfkeys@pathtoks=\toks31
+\pgfkeys@temptoks=\toks32
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkey
+slibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks33
+))
+\pgf@x=\dimen166
+\pgf@y=\dimen167
+\pgf@xa=\dimen168
+\pgf@ya=\dimen169
+\pgf@xb=\dimen170
+\pgf@yb=\dimen171
+\pgf@xc=\dimen172
+\pgf@yc=\dimen173
+\pgf@xd=\dimen174
+\pgf@yd=\dimen175
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count289
+\c@pgf@countb=\count290
+\c@pgf@countc=\count291
+\c@pgf@countd=\count292
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+\pgf@sys@id@count=\count293
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.
+cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+ys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+ys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+yssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count294
+\pgfsyssoftpath@bigbuffer@items=\count295
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+ysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+re.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.cod
+e.tex
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil
+.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpars
+er.code.tex
+\pgfmath@dimen=\dimen176
+\pgfmath@count=\count296
+\pgfmath@box=\box55
+\pgfmath@toks=\toks37
+\pgfmath@stack@operand=\toks38
+\pgfmath@stack@operation=\toks39
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.basic.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.trigonometric.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.random.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.comparison.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.base.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.round.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.misc.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.integerarithmetics.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc
+.code.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloa
+t.code.tex
+\c@pgfmathroundto@lastzeros=\count297
+))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code
+.tex)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+repoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen177
+\pgf@picmaxx=\dimen178
+\pgf@picminy=\dimen179
+\pgf@picmaxy=\dimen180
+\pgf@pathminx=\dimen181
+\pgf@pathmaxx=\dimen182
+\pgf@pathminy=\dimen183
+\pgf@pathmaxy=\dimen184
+\pgf@xx=\dimen185
+\pgf@xy=\dimen186
+\pgf@yx=\dimen187
+\pgf@yy=\dimen188
+\pgf@zx=\dimen189
+\pgf@zy=\dimen190
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+repathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen191
+\pgf@path@lasty=\dimen192
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+repathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen193
+\pgf@shorten@start@additional=\dimen194
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+rescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count298
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+regraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen195
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+retransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen196
+\pgf@pt@y=\dimen197
+\pgf@pt@temp=\dimen198
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+requick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+reobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+repathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+rearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen199
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+reshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen256
+\pgf@sys@shading@range@num=\count299
+\pgf@shadingcount=\count300
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+reimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+reexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box59
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+relayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+retransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+repatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+rerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodul
+eshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box60
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodul
+eplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfc
+omp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen257
+\pgf@nodesepend=\dimen258
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfc
+omp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks40
+\verbatim@line=\toks41
+\verbatim@in@stream=\read3
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.
+sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box61
+\tcb@upperbox=\box62
+\tcb@lowerbox=\box63
+\tcb@phantombox=\box64
+\c@tcbbreakpart=\count301
+\c@tcblayer=\count302
+\c@tcolorbox@number=\count303
+\l__tcobox_tmpa_box=\box65
+\l__tcobox_tmpa_dim=\dimen259
+\tcb@temp=\box66
+\tcb@temp=\box67
+\tcb@temp=\box68
+\tcb@temp=\box69
+)
+(C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen260
+\lightrulewidth=\dimen261
+\cmidrulewidth=\dimen262
+\belowrulesep=\dimen263
+\belowbottomsep=\dimen264
+\aboverulesep=\dimen265
+\abovetopsep=\dimen266
+\cmidrulesep=\dimen267
+\cmidrulekern=\dimen268
+\defaultaddspace=\dimen269
+\@cmidla=\count304
+\@cmidlb=\count305
+\@aboverulesep=\dimen270
+\@belowrulesep=\dimen271
+\@thisruleclass=\count306
+\@lastruleclass=\count307
+\@thisrulewidth=\dimen272
+) (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count308
+\float@exts=\toks42
+\float@box=\box70
+\@float@everytoks=\toks43
+\@floatcapt=\box71
+)
+\c@theorem=\count309
+\c@definition=\count310
+\c@axiom=\count311
+
+(electron-trajectories.aux
+
+LaTeX Warning: Label `fig:poincare_success' multiply defined.
+
+)
 \openout1 = `electron-trajectories.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
 kii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count292
-\scratchdimen=\dimen164
-\scratchbox=\box54
-\nofMPsegments=\count293
-\nofMParguments=\count294
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count295
-\MPscratchDim=\dimen165
-\MPnumerator=\count296
-\makeMPintoPDFobject=\count297
-\everyMPtoPDFconversion=\toks31
+\scratchcounter=\count312
+\scratchdimen=\dimen273
+\scratchbox=\box72
+\nofMPsegments=\count313
+\nofMParguments=\count314
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count315
+\MPscratchDim=\dimen274
+\MPnumerator=\count316
+\makeMPintoPDFobject=\count317
+\everyMPtoPDFconversion=\toks45
 )
 (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
 base.sty
@@ -374,10 +702,10 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 24.
+Package hyperref Info: Link coloring OFF on input line 28.
  (electron-trajectories.out) (electron-trajectories.out)
-\@outlinefile=\write3
-\openout3 = `electron-trajectories.out'.
+\@outlinefile=\write4
+\openout4 = `electron-trajectories.out'.
 
 
 *geometry* driver: auto-detecting
@@ -414,12 +742,12 @@ Package hyperref Info: Link coloring OFF on input line 24.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 27.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
 
 (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
 
 
 (C:\Users\kundai\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -428,259 +756,736 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [1
 
 {C:/Users/kundai/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
-(electron-trajectories.toc [3] [4] [5])
-\tf@toc=\write4
-\openout4 = `electron-trajectories.toc'.
+(electron-trajectories.toc [3] [4] [5] [6] [7] [8])
+\tf@toc=\write5
+\openout5 = `electron-trajectories.toc'.
 
- [6] [7] [8]
-Overfull \hbox (5.24059pt too wide) in paragraph at lines 89--90
+ [9] [10] [11]
+Overfull \hbox (5.24059pt too wide) in paragraph at lines 93--94
 []\OT1/cmr/bx/n/12 Minimal mo-men-tum dis-tur-bance\OT1/cmr/m/n/12 : Mea-sured 
 mo-men-tum per-tur-ba-tion is $^^A\OML/cmm/m/it/12 p=p \OMS/cmsy/m/n/12 ^^X
  []
 
-[9] [10] [11] [12] [13]
-Overfull \hbox (9.01062pt too wide) in paragraph at lines 184--185
-[]\OT1/cmr/m/n/12 The tran-si-tion from 1s to 2p in-volves a change in par-ti-t
-ion co-or-di-nates from $(\OML/cmm/m/it/12 n; `; m; s\OT1/cmr/m/n/12 ) =
+[12] [13] (sections/atom-derivation.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 55.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 55.
+
+[14]
+<figures/partition_coordinates_panel.png, id=1627, 910.602pt x 674.52pt>
+File: figures/partition_coordinates_panel.png Graphic file (type png)
+<use figures/partition_coordinates_panel.png>
+Package pdftex.def Info: figures/partition_coordinates_panel.png  used on input
+ line 78.
+(pdftex.def)             Requested size: 452.9679pt x 335.53006pt.
+
+! Dimension too large.
+\@makecaption ...xa {#1: #2}\ifdim \wd \@tempboxa 
+                                                  >\hsize #1: #2\par \else \...
+l.86 ...ions of bounded phase space partitioning.}
+                                                  
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+
+LaTeX Warning: Float too large for page by 343.3565pt on input line 88.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 90.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\ell' on input line 90.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 90.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 116.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 116.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 135.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 135.
+
+
+Overfull \hbox (2.60818pt too wide) in paragraph at lines 139--140
+[][]\OT1/cmr/bx/n/12 Definition 5 \OT1/cmr/m/n/12 (Bound-ary Chi-ral-ity)\OT1/c
+mr/bx/n/12 . []\OT1/cmr/m/it/12 Each par-ti-tion bound-ary has a \OT1/cmr/m/n/1
+2 chi-ral-ity $\OML/cmm/m/it/12 s \OMS/cmsy/m/n/12 2 f^^@[]\OML/cmm/m/it/12 ; \
+OT1/cmr/m/n/12 +[]\OMS/cmsy/m/n/12 g$
  []
 
-[14] [15] [16] (sections/theoretical-framework.tex [17] [18] [19] [20] [21]
-[22]) [23] (sections/categorical-measurement.tex
+[15] [16
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.140 \end{definition}
+                       <./figures/partition_coordinates_panel.png>] [17]
+[18]
+Overfull \hbox (0.72546pt too wide) in paragraph at lines 306--307
+[]\OT1/cmr/m/n/12 These se-lec-tion rules are \OT1/cmr/m/it/12 iden-ti-cal \OT1
+/cmr/m/n/12 to the spec-tro-scopic se-lec-tion rules in atomic physics.
+ []
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 29.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 46.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\ell' on input line 46.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 46.
-
-[24]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 62.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 62.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 81.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 81.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 94.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\tau' on input line 94.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 94.
-
-[25]
-Overfull \hbox (3.64542pt too wide) in paragraph at lines 125--126
-[]\OT1/cmr/m/n/12 Optical spec-troscopy (ab-sorp-tion/emission) has mea-sured e
-lec-tronic tran-si-tions since
+[19]
+Overfull \hbox (5.19911pt too wide) in paragraph at lines 344--345
+[]\OT1/cmr/m/n/12 This cor-re-spon-dence is not su-per-fi-cial. Ev-ery struc-tu
+ral fea-ture of atomic physics|shell
  []
 
 
-Overfull \hbox (4.98999pt too wide) in paragraph at lines 127--128
-[]\OT1/cmr/m/n/12 Magnetic res-o-nance (NMR/EPR) has mapped spin states since B
-loch/Purcell (1946),
+Overfull \hbox (2.45331pt too wide) in paragraph at lines 348--349
+\OT1/cmr/m/n/12 Atoms are bounded sys-tems. Elec-trons oc-cupy fi-nite re-gions
+ around nu-clei due to Coulomb
  []
 
-[26] [27] [28] [29] [30]) [31] (sections/experimental-setup.tex [32]
+[20]
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 62.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\alpha' on input line 62.
+LaTeX Warning: File `figures/partition_coordinate_validation.png' not found on 
+input line 369.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 62.
+! Package pdftex.def Error: File `figures/partition_coordinate_validation.png' 
+not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.369 ...ures/partition_coordinate_validation.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 78.
+LaTeX Warning: Reference `thm:partition_structure' on page 21 undefined on inpu
+t line 370.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mu' on input line 78.
+LaTeX Warning: Reference `thm:frequency_duality' on page 21 undefined on input 
+line 370.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 78.
+LaTeX Warning: Reference `thm:partition_structure' on page 21 undefined on inpu
+t line 370.
 
-[33]
-Overfull \hbox (15.10579pt too wide) in paragraph at lines 84--85
-[]\OT1/cmr/bx/n/12 Detector: \OT1/cmr/m/n/12 A liquid-nitrogen-cooled HgCdTe (M
-CT) de-tec-tor mea-sures Raman-scattered
+
+LaTeX Warning: Reference `thm:frequency_duality' on page 21 undefined on input 
+line 370.
+
+) [21] [22
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.136 \newpage
+              ] (sections/classical-mechanics.tex
+Overfull \hbox (28.34535pt too wide) in paragraph at lines 15--17
+[]\OT1/cmr/m/n/12 For fermions (Pauli ex-clu-sion): $\OML/cmm/m/it/12 N \OMS/cm
+sy/m/n/12 2 f\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 1\OMS/cmsy/m/n
+/12 g$\OT1/cmr/m/n/12 . For bosons (no ex-clu-sion): $\OML/cmm/m/it/12 N \OMS/c
+msy/m/n/12 2 f\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 1\OML/cmm/m/i
+t/12 ; \OT1/cmr/m/n/12 2\OML/cmm/m/it/12 ; [] ; \OMS/cmsy/m/n/12 1g$\OT1/cmr/m/
+n/12 . 
  []
 
-[34] [35] [36] [37]) [38] (sections/measurement-protocol.tex [39] [40]
-Overfull \hbox (5.5789pt too wide) in paragraph at lines 95--96
-[]\OT1/cmr/m/n/12 A \OT1/cmr/m/it/12 ternary search \OT1/cmr/m/n/12 di-vides th
-e space into three re-gions $[0\OML/cmm/m/it/12 ; L=\OT1/cmr/m/n/12 3]$, $[\OML
-/cmm/m/it/12 L=\OT1/cmr/m/n/12 3\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 2\OML/cmm/m/
-it/12 L=\OT1/cmr/m/n/12 3]$, and $[2\OML/cmm/m/it/12 L=\OT1/cmr/m/n/12 3\OML/cm
-m/m/it/12 ; L\OT1/cmr/m/n/12 ]$,
- []
 
-[41] [42] [43] [44] [45]) [46] (sections/ternary-representation.tex [47]
-[48] [49]
-Overfull \hbox (12.86821pt too wide) in paragraph at lines 184--185
-[]\OT1/cmr/bx/n/12 Position\OT1/cmr/m/n/12 : The par-ti-tion con-tain-ing the p
-ar-ti-cle is $[\OML/cmm/m/it/12 S; S \OT1/cmr/m/n/12 + 3[]]$, where $\OML/cmm/m
-/it/12 S \OT1/cmr/m/n/12 = [][] \OML/cmm/m/it/12 t[]=\OT1/cmr/m/n/12 3[]$. 
- []
+! LaTeX Error: Environment proposition undefined.
 
-[50]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 200.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 \begin{proposition}
+                        [Weight Function]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 200.
+! LaTeX Error: \begin{document} ended by \end{proposition}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 \end{proposition}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<figures/oscillatory_dynamics_panel.png, id=1710, 971.0679pt x 835.6821pt>
+File: figures/oscillatory_dynamics_panel.png Graphic file (type png)
+<use figures/oscillatory_dynamics_panel.png>
+Package pdftex.def Info: figures/oscillatory_dynamics_panel.png  used on input 
+line 68.
+(pdftex.def)             Requested size: 452.9679pt x 389.8123pt.
+! Dimension too large.
+\@makecaption ...xa {#1: #2}\ifdim \wd \@tempboxa 
+                                                  >\hsize #1: #2\par \else \...
+l.78 ...dentification through action measurement.}
+                                                  
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 200.
+LaTeX Warning: Float too large for page by 380.80544pt on input line 80.
+
+[23] [24
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.84 \subsection
+                {Position and Momentum from Partition Traversal} <./figures/osc
+illatory_dynamics_panel.png>]
+
+! LaTeX Error: Environment proposition undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117 \begin{proposition}
+                         [Momentum-Velocity Relation]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 210.
+! LaTeX Error: \begin{document} ended by \end{proposition}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.128 \end{proposition}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[25] [26]
+
+LaTeX Warning: File `figures/panel_partition_lag.pdf' not found on input line 2
+60.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 210.
+! Package pdftex.def Error: File `figures/panel_partition_lag.pdf' not found: u
+sing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.260 ...xtwidth]{figures/panel_partition_lag.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 210.
+! LaTeX Error: Environment proposition undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.283 \begin{proposition}
+                         [Coulomb Force]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[27] [28
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.288 \end{equation}
+                    ]
+
+! LaTeX Error: \begin{document} ended by \end{proposition}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.290 \end{proposition}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 220.
+! LaTeX Error: Environment proposition undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.311 \begin{proposition}
+                         [Lorentz Force Law]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 220.
+! LaTeX Error: \begin{document} ended by \end{proposition}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.317 \end{proposition}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[29]
+<figures/panel_force_field_mapping.png, id=1797, 956.373pt x 507.0945pt>
+File: figures/panel_force_field_mapping.png Graphic file (type png)
+<use figures/panel_force_field_mapping.png>
+Package pdftex.def Info: figures/panel_force_field_mapping.png  used on input l
+ine 391.
+(pdftex.def)             Requested size: 452.9679pt x 240.176pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.400 ...y levels through scattering experiments.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 220.
+! LaTeX Error: Unicode character α (U+03B1)
+               not set up for use with LaTeX.
 
-[51] [52] [53]) [54] (sections/trajectory-completion.tex [55]
-Overfull \hbox (12.33972pt too wide) detected at line 75
-[][][][]\OT1/cmr/bx/n/12 r\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )[
-]\OMS/cmsy/m/n/12 A\OT1/cmr/m/n/12 [\OT1/cmr/bx/n/12 r\OT1/cmr/m/n/12 ][]
- []
-
-[56] [57]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 134.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\epsilon' on input line 134.
+! LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 134.
+! LaTeX Error: Unicode character α (U+03B1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
 
 
-Overfull \hbox (8.3551pt too wide) in paragraph at lines 136--137
-\OT1/cmr/m/n/12 Solutions in Poincar^^Se com-put-ing are rec-og-nized when the 
-tra-jec-tory reaches the $\OML/cmm/m/it/12 ^^O$\OT1/cmr/m/n/12 -boundary:
- []
+! LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
 
-[58]
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 197.
+
+LaTeX Warning: Command \texttimes invalid in math mode on input line 400.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 197.
+LaTeX Warning: Command \texttimes invalid in math mode on input line 400.
 
-[59] [60]
-Overfull \hbox (5.31029pt too wide) in paragraph at lines 273--274
-[]\OT1/cmr/m/n/12 This is the clas-si-cal or-bital pe-riod, much shorter than t
-he tran-si-tion du-ra-tion $\OML/cmm/m/it/12 ^^\[] \OMS/cmsy/m/n/12 ^^X
- []
 
-[61]) [62] (electron-trajectories.bbl
+! LaTeX Error: Unicode character ⁻ (U+207B)
+               not set up for use with LaTeX.
 
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
 
-) [63] (electron-trajectories.aux)
- ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
- ***********
-Package rerunfilecheck Info: File `electron-trajectories.out' has not changed.
-(rerunfilecheck)             Checksum: 78452FF64D3A1D34B308520482CE81C1;38674.
- ) 
-Here is how much of TeX's memory you used:
- 11636 strings out of 474486
- 178568 string characters out of 5743283
- 1944542 words of memory out of 5000000
- 33263 multiletter control sequences out of 15000+600000
- 573409 words of font info for 92 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 79i,13n,93p,1006b,579s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
-m1200.pk><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmbx10.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmbx12.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/kundai/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/kundai/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/kundai/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users
-/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb
-><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmmi6.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmmi8.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmmib10.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/kundai/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/kundai/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/kundai/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/kund
-ai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Us
-ers/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.
-pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmsy8.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmti10.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmti12.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Users/kundai/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/kundai/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on electron-trajectories.pdf (63 pages, 653211 bytes).
-PDF statistics:
- 1637 PDF objects out of 1728 (max. 8388607)
- 492 named destinations out of 1000 (max. 500000)
- 1441 words of extra memory for PDF output out of 10000 (max. 10000000)
 
+LaTeX Warning: Command \textthreesuperior invalid in math mode on input line 40
+0.
+
+
+LaTeX Warning: Command \textthreesuperior invalid in math mode on input line 40
+0.
+
+
+! LaTeX Error: Unicode character α (U+03B1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ⁻ (U+207B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ⁶ (U+2076)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character α (U+03B1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ⁻ (U+207B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+LaTeX Warning: Command \textthreesuperior invalid in math mode on input line 40
+0.
+
+
+LaTeX Warning: Command \textthreesuperior invalid in math mode on input line 40
+0.
+
+
+! LaTeX Error: Unicode character ⁹ (U+2079)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character γ (U+03B3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+LaTeX Warning: Command \texttimes invalid in math mode on input line 400.
+
+
+LaTeX Warning: Command \texttimes invalid in math mode on input line 400.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.400 ...y levels through scattering experiments.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr12!
+
+! LaTeX Error: Unicode character α (U+03B1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character α (U+03B1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ⁻ (U+207B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character α (U+03B1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ⁻ (U+207B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ⁶ (U+2076)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character α (U+03B1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ≈ (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ⁻ (U+207B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ⁹ (U+2079)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character γ (U+03B3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 ...y levels through scattering experiments.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+LaTeX Warning: Float too large for page by 189.50244pt on input line 402.
+
+[30] [31
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.430 S
+    

@@ -4,11 +4,16 @@ The top-level auxiliary file: electron-trajectories.aux
 Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: plain.bst
 Reallocating 'name_of_file' (item size: 1) to 11 items.
-I found no \citation commands---while reading file electron-trajectories.aux
 Database file #1: references.bib
+Warning--I didn't find a database entry for "Popper1959"
+Warning--I didn't find a database entry for "Kuhn1962"
+Warning--I didn't find a database entry for "Wimsatt2007"
+Warning--I didn't find a database entry for "Mitchell2009"
+Warning--I didn't find a database entry for "Sachikonye2026tomography"
+Warning--I didn't find a database entry for "Sachikonye2025poincare"
 You've used 0 entries,
             2118 wiz_defined-function locations,
-            497 strings with 4025 characters,
+            509 strings with 4199 characters,
 and the built_in function-call counts, 18 in all, are:
 = -- 0
 > -- 0
@@ -47,4 +52,4 @@ warning$ -- 0
 while$ -- 0
 width$ -- 0
 write$ -- 2
-(There was 1 error message)
+(There were 6 warnings)

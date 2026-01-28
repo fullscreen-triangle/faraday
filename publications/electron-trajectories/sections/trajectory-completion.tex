@@ -34,6 +34,17 @@ where $\Gamma \sim 6 \times 10^8$ s$^{-1}$ is the spontaneous emission rate of t
 
 This matches the observed transition duration $\tau_{\text{transition}} \sim 10^{-9}$-$10^{-7}$ s, confirming that the transition involves recurrence dynamics.
 
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=\textwidth]{figures/panel_08_recurrence.png}
+    \caption{\textbf{Poincaré recurrence patterns in bounded phase space.} 
+    (\textbf{A}) Poincaré section at $$\theta = 0$$ crossings showing trajectory in $$(r, p_r)$$ phase space. Green circle indicates initial state; red square indicates recurrence point after $$\tau_{\text{rec}} \sim 4.1$$ ns. Blue dashed line shows trajectory between start and recurrence. Red circles mark intermediate Poincaré section crossings, demonstrating quasi-periodic structure. Coordinate $$r$$ in Bohr radii; $$p_r$$ in atomic momentum units. 
+    (\textbf{B}) Recurrence plot showing temporal correlation structure. Black regions indicate times $$(t_1, t_2)$$ when trajectory returns to within $$\epsilon = 0.1 a_0$$ of previous position. Diagonal line ($$t_1 = t_2$$) represents trivial self-recurrence. Off-diagonal black bands reveal quasi-periodic recurrence with primary period $$\tau_{\text{rec}} = 4.10$$ ns (yellow box annotation). Checkerboard pattern indicates multiple incommensurate frequencies characteristic of torus dynamics. 
+    (\textbf{C}) Phase space volume conservation test of Liouville's theorem. Blue trace shows normalized phase space volume $$V(t)/V(0)$$ measured over 10 ns. Purple shaded region indicates $$\pm 0.001$$ uncertainty band. Red dashed line marks theoretical prediction $$V(t)/V(0) = 1$$ (exact conservation). Green box annotation confirms measured value $$V(t)/V(0) = 1.0000 \pm 0.0010$$, validating Hamiltonian dynamics. Small fluctuations arise from finite sampling statistics, not physical dissipation. 
+    (\textbf{D}) Three-dimensional phase space trajectory on torus manifold. Colored curves (purple, green, yellow, cyan) show trajectory evolution in cylindrical coordinates $$(r, \theta, p_r)$$. Green sphere marks starting position; trajectory winds around torus surface, demonstrating bounded quasi-periodic motion. Torus structure emerges from two incommensurate frequencies (radial and angular). Axes: $$r$$ (position), $$\theta$$ (angle), $$p_r$$ (momentum), all in atomic units.}
+    \label{fig:recurrence}
+    \end{figure}
+
 \subsection{Trajectory Completion as Optimization}
 
 The trajectory from 1s to 2p can be viewed as a path optimization problem: find the path through partition space that minimizes a cost functional while satisfying geometric constraints.
@@ -53,6 +64,7 @@ The physical trajectory minimizes (or extremizes) the action, according to Hamil
 \begin{equation}
 \delta \mathcal{A} = 0
 \end{equation}
+
 
 \subsubsection{Constraints}
 
@@ -123,6 +135,7 @@ where $\hat{a}^\dagger, \hat{a}$ are creation/annihilation operators for the osc
 
 The instrument oscillates at $\omega$, and this oscillation \emph{is} the processing: each oscillation cycle extracts one bit (or trit) of information about the electron's state.
 
+
 \subsubsection{Non-Halting Dynamics}
 
 Conventional computers halt when the computation completes (they reach a terminating instruction). Poincaré computers do not halt; they continue evolving indefinitely, exhibiting recurrence.
@@ -141,6 +154,19 @@ For the electron trajectory:
 \end{equation}
 
 Once within the $\epsilon$-boundary, the trajectory is considered to have "arrived" at the 2p state. The exact value of $\epsilon$ depends on the measurement precision; for our experiment, $\epsilon \sim 10^{-3}$ (relative uncertainty in $n, \ell, m$).
+
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=\textwidth]{figures/panel_prm_N100.png}
+    \caption{Poincar\'{e} Recurrence Monitor: N=100 particles, T=300.0 K. 
+    \textbf{Top left:} Continuous phase space distance showing fluctuations around 0.4 with epsilon threshold at 0.3 (red dashed line). The system maintains stable distance from initial state over 5000 time steps.
+    \textbf{Top right:} Categorical phase space distance exhibiting characteristic oscillations around 0.9 with epsilon threshold at 0.3. The categorical distance shows more structured behavior than continuous phase space.
+    \textbf{Top right (3D):} S-entropy trajectory in 3D categorical space showing systematic evolution through knowledge (S_k), temporal (S_t), and evolutionary (S_e) entropy coordinates. The trajectory demonstrates directional entropy evolution with characteristic clustering patterns.
+    \textbf{Bottom left:} Distance distribution comparing continuous (blue) and categorical (green) phase space metrics. Continuous distances peak around 0.4, while categorical distances show broader distribution around 0.8-0.9, with epsilon threshold clearly separating the regimes.
+    \textbf{Bottom center:} Recurrence count over 5000 steps showing 3 recurrences in continuous space vs 1 recurrence in categorical space, demonstrating that categorical phase space has longer recurrence times due to its higher-dimensional structure.
+    \textbf{Bottom right:} Recurrence time scaling with system size showing exponential growth characteristic of Poincar\'{e} recurrence theorem. For N=100 system, recurrence time $\approx$ $10^{21}$ time units, confirming the fundamental irreversibility of large systems.}
+    \label{fig:poincare_success}
+    \end{figure}
 
 \subsection{Recurrence Patterns in the Observed Trajectory}
 
@@ -220,6 +246,17 @@ Trajectories violating selection rules (e.g., $\Delta \ell = 0$ or $\Delta \ell 
 
 The observed trajectories naturally respect selection rules because they minimize action, not because selection rules are forbidden.
 
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=\textwidth]{figures/panel_10_trajectory_reconstruction.png}
+    \caption{\textbf{Trajectory reconstruction via hierarchical ternary encoding maps molecular degrees of freedom to partition coordinates.}
+    \textbf{Top Left:} Hierarchical ternary encoding structure shows three-level decomposition of molecular state space. Level 1 (Temporal, blue): three temporal bins $t \in \{0,1,2\}$ divide the transition into initial, intermediate, and final phases. Level 2 (Spatial, orange): three spatial partitions $p \in \{0,1,2\}$ encode radial, angular, and mixed coordinates. Level 3 (Molecular, colored): four molecular degrees of freedom map to partition coordinates: electronic ($n$, green), vibrational ($\ell$, pink), rotational ($m$, purple), spin ($s$, brown). Each coordinate takes trit values $\{0,1,2\}$. Example for H $1s \to 2p$ transition: Initial state $[0][0][1][2] = 0012_3$ (base-3 encoding). Final state $[1][1][1][2] = 1112_3$. The ternary encoding provides $3^4 = 81$ distinct categorical states, sufficient to uniquely identify all relevant quantum states in the hydrogen $n \leq 3$ manifold.
+    \textbf{Top Right:} Electron trajectory in S-entropy space $(S_k, S_t, S_e)$ for $1s \to 2p$ transition shows deterministic path (blue curve) from initial state (green sphere, $1s$) through intermediate states (blue triangles) to final state (red square, $2p$). Knowledge entropy $S_k$ increases from 0.25 to 0.45 as information about the electron's state accumulates. Temporal entropy $S_t$ increases from 0.30 to 0.40 as the transition progresses. Evolution entropy $S_e$ increases from 0.08 to 0.24 as the trajectory explores phase space. The trajectory is smooth and continuous, with no discontinuous jumps, confirming deterministic evolution through partition space. Total S-entropy increases $\Delta S_{\text{total}} = \sqrt{\Delta S_k^2 + \Delta S_t^2 + \Delta S_e^2} = 0.28$, consistent with the second law of categorical thermodynamics.
+    \textbf{Middle Left:} Trit sequence evolution during $1s \to 2p$ transition shows temporal evolution of all four partition coordinates. Horizontal axis: time from 0 ns (initial) to 10 ns (final). Vertical axis: molecular degree of freedom. Color indicates trit value: purple (0), pink (1), cyan (2), yellow (2 with emphasis). Electronic coordinate ($n$, top row): transitions from 0 (purple) to 2 (cyan) at $t \approx 2.5$ ns, with brief intermediate state. Vibrational coordinate ($\ell$, second row): shows complex evolution with multiple transitions between 0, 1, and 2 (red box highlights region of rapid switching at $t = 2.5$--$7.5$ ns). Rotational coordinate ($m$, third row): transitions from 0 to 2 with intermediate states. Spin coordinate ($s$, bottom row): remains constant at 2 (yellow) throughout, confirming $\Delta s = 0$ selection rule. The trit sequence provides a complete categorical description of the electron trajectory with temporal resolution $\delta t = 10^{-138}$ s (achieved through state counting, not shown at this coarse-grained timescale).
+    \textbf{Middle Right:} Measurement modality to trit mapping shows how each experimental technique maps to partition coordinates. Optical spectroscopy $\to$ Electronic state $\to$ $n \in \{0,1,2\}$: measures electronic transitions via absorption/emission spectra. Raman spectroscopy $\to$ Vibrational mode $\to$ $\ell \in \{0,1,2\}$: measures vibrational transitions via inelastic scattering. Microwave spectroscopy $\to$ Rotational state $\to$ $m \in \{0,1,2\}$: measures rotational transitions via pure rotational spectra. Magnetic resonance $\to$ Spin projection $\to$ $s \in \{0,1,2\}$: measures spin states via Zeeman splitting (note: $s$ actually takes values $\{-1/2, +1/2\}$ but is mapped to trits for encoding). S-entropy coupling (bottom): shows how different S-entropy components couple to different coordinates: $S_t \leftrightarrow$ Electronic (blue), $S_k \leftrightarrow$ Vibrational (orange), $S_e \leftrightarrow$ Rotational (green). This coupling structure enables cross-coordinate information catalysis observed in Figure 5E.}
+    \label{fig:trajectory_reconstruction}
+    \end{figure}
+
 \subsection{Trajectory Interpolation and Smoothing}
 
 The discrete measurement sequence yields a piecewise-constant trajectory at the partition level. To produce a smooth trajectory, we interpolate.
@@ -280,6 +317,18 @@ To compare quantum and classical trajectories, we average the quantum trajectory
 \end{equation}
 
 This averaged trajectory evolves slowly from $\langle r \rangle_{1s} \sim a_0$ to $\langle r \rangle_{2p} \sim 4 a_0$ over the transition duration.
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=\textwidth]{figures/panel_sece_CO2.png}
+    \caption{\textbf{S-Entropy Coordinate Extractor (SECE) - CO$_2$.} 
+    \textbf{Top Left - Navigation in S-space:} Three-dimensional trajectory showing moon landing algorithm in S-entropy coordinates. Axes: $S_k$ (knowledge, range 0.00-2.25), $S_t$ (time, range 0.00-2.25), $S_e$ (evolution, range 0.00-2.25). Green sphere: start position at $(\sim$1.0, $\sim$1.0, $\sim$1.0). Red star: end position (target) at $(\sim$1.5, $\sim$1.5, $\sim$1.5). Black curve: trajectory path connecting start to target. 
+    \textbf{Top Center - S-coordinates versus temperature:} S-entropy (J/(N·$k_B$), range 0-25) versus temperature (0-1000 K). Four curves: blue solid ($S_k$, knowledge), green solid ($S_t$, temporal), black solid ($S_e$, evolution), red dashed ($S_{\text{total}}$). Text annotation: ``All increase with T.'' All three S-coordinates increase monotonically with temperature: $S_k$ from 0 to $\sim$22, $S_t$ from 0 to $\sim$24, $S_e$ from 0 to $\sim$25. Total entropy $S_{\text{total}} = S_k + S_t + S_e$ increases from 0 to $\sim$25 (not sum of components—normalized differently).
+    \textbf{Top Right - 3×3 S-entropy matrix:} Heat map showing triple equivalence. Three columns: Oscillatory, Categorical, Partition. Three rows: $S_k$, $S_t$, $S_e$. Color coding: dark red (high entropy $\sim$1.0 in top-left cell), yellow (medium entropy $\sim$0.4 in middle cells), light yellow (low entropy $\sim$0.0 in bottom-right cell). 
+    \textbf{Middle Left - Knowledge entropy surface:} Three-dimensional surface showing $S_k$ (J/(N·$k_B$), range 19-25) versus temperature (100-500 K) and another variable (range $-4.00$ to $-2.00$, possibly $\log_{10}$ of density or volume). Color gradient: purple/blue (low $S_k \sim 19$) to yellow/green (high $S_k \sim 25$). Surface shows smooth increase in knowledge entropy with temperature.
+    \textbf{Middle Center - Infinite recursion:} Number of cells/$9^k(2k)$ (logarithmic scale 10$^0$ to 10$^7$) versus recursion depth (1-7). Blue circles connected by line: exponential growth from $\sim$10 cells at depth 1 to $\sim$10$^7$ cells at depth 7. Blue shaded region: accessible phase space grows as $9^k$ where $k$ is recursion depth. 
+    \textbf{Bottom Right - Multi-system S-space trajectories:} Three-dimensional plot showing trajectories for three gases in S-space. Axes: $S_k$ (range 0.0000-0.0134), $S_t$ (range 0.0000-0.0075), $S_e$ (range 18-23). Three colored trajectories: blue (He, shortest path), green (N$_2$, medium path), red (CO$_2$, longest path).}
+    \label{fig:sece_CO2}
+    \end{figure}
 
 \subsubsection{Agreement}
 

@@ -1,0 +1,883 @@
+{
+  "validation_suite": "Electron Trajectories - Complete Validation",
+  "date": "2026-01-27T15:42:48.802098",
+  "total_experiments": 7,
+  "passed_experiments": 3,
+  "success_rate": 0.42857142857142855,
+  "experiment_status": [
+    {
+      "number": 1,
+      "name": "Partition Capacity Theorem",
+      "status": "PASS"
+    },
+    {
+      "number": 2,
+      "name": "Selection Rules",
+      "status": "FAIL"
+    },
+    {
+      "number": 3,
+      "name": "Categorical-Physical Commutation",
+      "status": "FAIL"
+    },
+    {
+      "number": 4,
+      "name": "Ternary Trisection Algorithm",
+      "status": "FAIL"
+    },
+    {
+      "number": 5,
+      "name": "Zero-Backaction Measurement",
+      "status": "PASS"
+    },
+    {
+      "number": 6,
+      "name": "Trans-Planckian Resolution",
+      "status": "PASS"
+    },
+    {
+      "number": 7,
+      "name": "Hydrogen 1s->2p Transition",
+      "status": "FAIL"
+    }
+  ],
+  "detailed_results": {
+    "experiment_1": {
+      "name": "Partition Capacity Theorem",
+      "filename": "01_partition_capacity_validation.py",
+      "status": "SUCCESS",
+      "result": {
+        "experiment": "Partition Capacity Theorem Validation",
+        "date": "2026-01-27T15:42:47.738806",
+        "theory": "C(n) = 2n\u00b2",
+        "data": {
+          "capacity_validation": [
+            {
+              "n": 1,
+              "counted": 2,
+              "theoretical": 2,
+              "error": 0,
+              "relative_error": 0.0,
+              "states": [
+                [
+                  1,
+                  0,
+                  0,
+                  -0.5
+                ],
+                [
+                  1,
+                  0,
+                  0,
+                  0.5
+                ]
+              ]
+            },
+            {
+              "n": 2,
+              "counted": 8,
+              "theoretical": 8,
+              "error": 0,
+              "relative_error": 0.0,
+              "states": [
+                [
+                  2,
+                  0,
+                  0,
+                  -0.5
+                ],
+                [
+                  2,
+                  0,
+                  0,
+                  0.5
+                ],
+                [
+                  2,
+                  1,
+                  -1,
+                  -0.5
+                ],
+                [
+                  2,
+                  1,
+                  -1,
+                  0.5
+                ],
+                [
+                  2,
+                  1,
+                  0,
+                  -0.5
+                ]
+              ]
+            },
+            {
+              "n": 3,
+              "counted": 18,
+              "theoretical": 18,
+              "error": 0,
+              "relative_error": 0.0,
+              "states": [
+                [
+                  3,
+                  0,
+                  0,
+                  -0.5
+                ],
+                [
+                  3,
+                  0,
+                  0,
+                  0.5
+                ],
+                [
+                  3,
+                  1,
+                  -1,
+                  -0.5
+                ],
+                [
+                  3,
+                  1,
+                  -1,
+                  0.5
+                ],
+                [
+                  3,
+                  1,
+                  0,
+                  -0.5
+                ]
+              ]
+            },
+            {
+              "n": 4,
+              "counted": 32,
+              "theoretical": 32,
+              "error": 0,
+              "relative_error": 0.0,
+              "states": [
+                [
+                  4,
+                  0,
+                  0,
+                  -0.5
+                ],
+                [
+                  4,
+                  0,
+                  0,
+                  0.5
+                ],
+                [
+                  4,
+                  1,
+                  -1,
+                  -0.5
+                ],
+                [
+                  4,
+                  1,
+                  -1,
+                  0.5
+                ],
+                [
+                  4,
+                  1,
+                  0,
+                  -0.5
+                ]
+              ]
+            },
+            {
+              "n": 5,
+              "counted": 50,
+              "theoretical": 50,
+              "error": 0,
+              "relative_error": 0.0,
+              "states": [
+                [
+                  5,
+                  0,
+                  0,
+                  -0.5
+                ],
+                [
+                  5,
+                  0,
+                  0,
+                  0.5
+                ],
+                [
+                  5,
+                  1,
+                  -1,
+                  -0.5
+                ],
+                [
+                  5,
+                  1,
+                  -1,
+                  0.5
+                ],
+                [
+                  5,
+                  1,
+                  0,
+                  -0.5
+                ]
+              ]
+            },
+            {
+              "n": 6,
+              "counted": 72,
+              "theoretical": 72,
+              "error": 0,
+              "relative_error": 0.0,
+              "states": [
+                [
+                  6,
+                  0,
+                  0,
+                  -0.5
+                ],
+                [
+                  6,
+                  0,
+                  0,
+                  0.5
+                ],
+                [
+                  6,
+                  1,
+                  -1,
+                  -0.5
+                ],
+                [
+                  6,
+                  1,
+                  -1,
+                  0.5
+                ],
+                [
+                  6,
+                  1,
+                  0,
+                  -0.5
+                ]
+              ]
+            },
+            {
+              "n": 7,
+              "counted": 98,
+              "theoretical": 98,
+              "error": 0,
+              "relative_error": 0.0,
+              "states": [
+                [
+                  7,
+                  0,
+                  0,
+                  -0.5
+                ],
+                [
+                  7,
+                  0,
+                  0,
+                  0.5
+                ],
+                [
+                  7,
+                  1,
+                  -1,
+                  -0.5
+                ],
+                [
+                  7,
+                  1,
+                  -1,
+                  0.5
+                ],
+                [
+                  7,
+                  1,
+                  0,
+                  -0.5
+                ]
+              ]
+            },
+            {
+              "n": 8,
+              "counted": 128,
+              "theoretical": 128,
+              "error": 0,
+              "relative_error": 0.0,
+              "states": [
+                [
+                  8,
+                  0,
+                  0,
+                  -0.5
+                ],
+                [
+                  8,
+                  0,
+                  0,
+                  0.5
+                ],
+                [
+                  8,
+                  1,
+                  -1,
+                  -0.5
+                ],
+                [
+                  8,
+                  1,
+                  -1,
+                  0.5
+                ],
+                [
+                  8,
+                  1,
+                  0,
+                  -0.5
+                ]
+              ]
+            },
+            {
+              "n": 9,
+              "counted": 162,
+              "theoretical": 162,
+              "error": 0,
+              "relative_error": 0.0,
+              "states": [
+                [
+                  9,
+                  0,
+                  0,
+                  -0.5
+                ],
+                [
+                  9,
+                  0,
+                  0,
+                  0.5
+                ],
+                [
+                  9,
+                  1,
+                  -1,
+                  -0.5
+                ],
+                [
+                  9,
+                  1,
+                  -1,
+                  0.5
+                ],
+                [
+                  9,
+                  1,
+                  0,
+                  -0.5
+                ]
+              ]
+            },
+            {
+              "n": 10,
+              "counted": 200,
+              "theoretical": 200,
+              "error": 0,
+              "relative_error": 0.0,
+              "states": [
+                [
+                  10,
+                  0,
+                  0,
+                  -0.5
+                ],
+                [
+                  10,
+                  0,
+                  0,
+                  0.5
+                ],
+                [
+                  10,
+                  1,
+                  -1,
+                  -0.5
+                ],
+                [
+                  10,
+                  1,
+                  -1,
+                  0.5
+                ],
+                [
+                  10,
+                  1,
+                  0,
+                  -0.5
+                ]
+              ]
+            }
+          ],
+          "subshell_validation": [
+            {
+              "subshell": "s",
+              "l": 0,
+              "counted": 2,
+              "expected": 2,
+              "error": 0
+            },
+            {
+              "subshell": "p",
+              "l": 1,
+              "counted": 6,
+              "expected": 6,
+              "error": 0
+            },
+            {
+              "subshell": "d",
+              "l": 2,
+              "counted": 10,
+              "expected": 10,
+              "error": 0
+            },
+            {
+              "subshell": "f",
+              "l": 3,
+              "counted": 14,
+              "expected": 14,
+              "error": 0
+            },
+            {
+              "subshell": "g",
+              "l": 4,
+              "counted": 18,
+              "expected": 18,
+              "error": 0
+            }
+          ],
+          "cumulative_validation": [
+            {
+              "N": 1,
+              "counted": 2,
+              "theoretical": 2,
+              "error": 0
+            },
+            {
+              "N": 2,
+              "counted": 10,
+              "theoretical": 10,
+              "error": 0
+            },
+            {
+              "N": 3,
+              "counted": 28,
+              "theoretical": 28,
+              "error": 0
+            },
+            {
+              "N": 4,
+              "counted": 60,
+              "theoretical": 60,
+              "error": 0
+            },
+            {
+              "N": 5,
+              "counted": 110,
+              "theoretical": 110,
+              "error": 0
+            },
+            {
+              "N": 6,
+              "counted": 182,
+              "theoretical": 182,
+              "error": 0
+            },
+            {
+              "N": 7,
+              "counted": 280,
+              "theoretical": 280,
+              "error": 0
+            }
+          ]
+        },
+        "summary": {
+          "max_error": 0,
+          "mean_error": 0.0,
+          "all_passed": true,
+          "n_max": 10,
+          "total_tests": 10
+        }
+      }
+    },
+    "experiment_2": {
+      "name": "Selection Rules",
+      "filename": "02_selection_rules_validation.py",
+      "status": "FAILED",
+      "error": "'charmap' codec can't encode character '\\u0394' in position 8: character maps to <undefined>"
+    },
+    "experiment_3": {
+      "name": "Categorical-Physical Commutation",
+      "filename": "03_commutation_validation.py",
+      "status": "FAILED",
+      "error": "'charmap' codec can't encode character '\\u210f' in position 18: character maps to <undefined>"
+    },
+    "experiment_4": {
+      "name": "Ternary Trisection Algorithm",
+      "filename": "04_ternary_algorithm_validation.py",
+      "status": "FAILED",
+      "error": "'charmap' codec can't encode character '\\u03bc' in position 19: character maps to <undefined>"
+    },
+    "experiment_5": {
+      "name": "Zero-Backaction Measurement",
+      "filename": "05_zero_backaction_validation.py",
+      "status": "SUCCESS",
+      "result": {
+        "experiment": "Zero-Backaction Measurement Validation",
+        "date": "2026-01-27T15:42:48.002827",
+        "theory": "Categorical: \u0394p/p ~ 10\u207b\u00b3, Physical: \u0394p/p ~ 10\u00b2",
+        "data": {
+          "comparison": {
+            "physical": {
+              "delta_x": 5.29177210903e-11,
+              "p_initial": 1.992851912878967e-24,
+              "delta_p_heisenberg": 9.964259564394835e-25,
+              "delta_p_measured": 9.983801330875305e-25,
+              "relative_disturbance": 0.5009805930061426,
+              "n_trials": 10000
+            },
+            "categorical": {
+              "p_initial": 1.992851912878967e-24,
+              "delta_p_measured": 2.3108967511903723e-30,
+              "relative_disturbance": 1.1595928108134954e-06,
+              "n_trials": 10000,
+              "disturbance_sources": {
+                "perturbation": 1e-06,
+                "thermal": 5e-07,
+                "detection": 3e-07,
+                "trap": 2e-07
+              }
+            },
+            "improvement_factor": 432031.4754751601
+          },
+          "backaction_scaling": [
+            {
+              "n": 1,
+              "partition_size": 2.800285205390781e-21,
+              "theory_backaction": 0.001,
+              "measured_backaction": 0.0009741219496361189,
+              "relative_error": 0.025878050363881154,
+              "passed": true
+            },
+            {
+              "n": 2,
+              "partition_size": 1.1201140821563125e-20,
+              "theory_backaction": 0.00025,
+              "measured_backaction": 0.0002532500047443368,
+              "relative_error": 0.013000018977347245,
+              "passed": true
+            },
+            {
+              "n": 3,
+              "partition_size": 2.5202566848517028e-20,
+              "theory_backaction": 0.00011111111111111112,
+              "measured_backaction": 0.00010862782174455549,
+              "relative_error": 0.022349604299000663,
+              "passed": true
+            },
+            {
+              "n": 4,
+              "partition_size": 4.48045632862525e-20,
+              "theory_backaction": 6.25e-05,
+              "measured_backaction": 5.969074333092942e-05,
+              "relative_error": 0.044948106705129276,
+              "passed": true
+            },
+            {
+              "n": 5,
+              "partition_size": 7.000713013476953e-20,
+              "theory_backaction": 4e-05,
+              "measured_backaction": 3.862346763590924e-05,
+              "relative_error": 0.034413309102268995,
+              "passed": true
+            }
+          ]
+        }
+      }
+    },
+    "experiment_6": {
+      "name": "Trans-Planckian Resolution",
+      "filename": "06_trans_planckian_resolution_validation.py",
+      "status": "SUCCESS",
+      "result": {
+        "experiment": "Trans-Planckian Temporal Resolution Validation",
+        "date": "2026-01-27T15:42:48.532268",
+        "theory": "\u03b4t = 10\u207b\u00b9\u00b3\u2078 s via categorical state counting",
+        "data": {
+          "resolution_scaling": [
+            {
+              "n_max": 5,
+              "M_modalities": 1,
+              "N_states": 110,
+              "N_total": 110.0,
+              "delta_t": 9.587016518181818e-28,
+              "ratio_to_planck": 1.7782558503036158e+16,
+              "orders_below_planck": 0
+            },
+            {
+              "n_max": 5,
+              "M_modalities": 2,
+              "N_states": 110,
+              "N_total": 12100.0,
+              "delta_t": 8.71546956198347e-30,
+              "ratio_to_planck": 161659622754874.16,
+              "orders_below_planck": 0
+            },
+            {
+              "n_max": 5,
+              "M_modalities": 3,
+              "N_states": 110,
+              "N_total": 1331000.0,
+              "delta_t": 7.9231541472577e-32,
+              "ratio_to_planck": 1469632934135.2195,
+              "orders_below_planck": 0
+            },
+            {
+              "n_max": 5,
+              "M_modalities": 4,
+              "N_states": 110,
+              "N_total": 146410000.0,
+              "delta_t": 7.202867406597909e-34,
+              "ratio_to_planck": 13360299401.229269,
+              "orders_below_planck": 0
+            },
+            {
+              "n_max": 5,
+              "M_modalities": 5,
+              "N_states": 110,
+              "N_total": 16105100000.0,
+              "delta_t": 6.548061278725373e-36,
+              "ratio_to_planck": 121457267.28390247,
+              "orders_below_planck": 0
+            },
+            {
+              "n_max": 10,
+              "M_modalities": 1,
+              "N_states": 770,
+              "N_total": 770.0,
+              "delta_t": 1.3695737883116881e-28,
+              "ratio_to_planck": 2540365500433736.5,
+              "orders_below_planck": 0
+            },
+            {
+              "n_max": 10,
+              "M_modalities": 2,
+              "N_states": 770,
+              "N_total": 592900.0,
+              "delta_t": 1.778667257547647e-31,
+              "ratio_to_planck": 3299175974589.2686,
+              "orders_below_planck": 0
+            },
+            {
+              "n_max": 10,
+              "M_modalities": 3,
+              "N_states": 770,
+              "N_total": 456533000.0,
+              "delta_t": 2.3099574773346064e-34,
+              "ratio_to_planck": 4284644122.8432055,
+              "orders_below_planck": 0
+            },
+            {
+              "n_max": 10,
+              "M_modalities": 4,
+              "N_states": 770,
+              "N_total": 351530410000.0,
+              "delta_t": 2.999944775759229e-37,
+              "ratio_to_planck": 5564472.886809358,
+              "orders_below_planck": 0
+            },
+            {
+              "n_max": 10,
+              "M_modalities": 5,
+              "N_states": 770,
+              "N_total": 270678415700000.0,
+              "delta_t": 3.896032176310687e-40,
+              "ratio_to_planck": 7226.588164687478,
+              "orders_below_planck": 0
+            },
+            {
+              "n_max": 15,
+              "M_modalities": 1,
+              "N_states": 2480,
+              "N_total": 2480.0,
+              "delta_t": 4.2523057137096775e-29,
+              "ratio_to_planck": 788742514247571.5,
+              "orders_below_planck": 0
+            },
+            {
+              "n_max": 15,
+              "M_modalities": 2,
+              "N_states": 2480,
+              "N_total": 6150400.0,
+              "delta_t": 1.714639400689386e-32,
+              "ratio_to_planck": 318041336390.1498,
+              "orders_below_planck": 0
+            },
+            {
+              "n_max": 15,
+              "M_modalities": 3,
+              "N_states": 2480,
+              "N_total": 15252992000.0,
+              "delta_t": 6.913868551166879e-36,
+              "ratio_to_planck": 128242474.35086685,
+              "orders_below_planck": 0
+            },
+            {
+              "n_max": 15,
+              "M_modalities": 4,
+              "N_states": 2480,
+              "N_total": 37827420160000.0,
+              "delta_t": 2.787850222244709e-39,
+              "ratio_to_planck": 51710.67514147857,
+              "orders_below_planck": 0
+            },
+            {
+              "n_max": 15,
+              "M_modalities": 5,
+              "N_states": 2480,
+              "N_total": 9.38120019968e+16,
+              "delta_t": 1.1241331541309311e-42,
+              "ratio_to_planck": 20.85107868608007,
+              "orders_below_planck": 0
+            },
+            {
+              "n_max": 20,
+              "M_modalities": 1,
+              "N_states": 5740,
+              "N_total": 5740.0,
+              "delta_t": 1.8372331306620207e-29,
+              "ratio_to_planck": 340780737863062.25,
+              "orders_below_planck": 0
+            },
+            {
+              "n_max": 20,
+              "M_modalities": 2,
+              "N_states": 5740,
+              "N_total": 32947600.0,
+              "delta_t": 3.2007545830348796e-33,
+              "ratio_to_planck": 59369466526.6659,
+              "orders_below_planck": 0
+            },
+            {
+              "n_max": 20,
+              "M_modalities": 3,
+              "N_states": 5740,
+              "N_total": 189119224000.0,
+              "delta_t": 5.576227496576445e-37,
+              "ratio_to_planck": 10343112.635307647,
+              "orders_below_planck": 0
+            },
+            {
+              "n_max": 20,
+              "M_modalities": 4,
+              "N_states": 5740,
+              "N_total": 1085544345760000.0,
+              "delta_t": 9.714682049784746e-41,
+              "ratio_to_planck": 1801.9359991825168,
+              "orders_below_planck": 0
+            },
+            {
+              "n_max": 20,
+              "M_modalities": 5,
+              "N_states": 5740,
+              "N_total": 6.2310245446624e+18,
+              "delta_t": 1.6924533187778305e-44,
+              "ratio_to_planck": 0.3139261322617625,
+              "orders_below_planck": 0.5031725306691783
+            }
+          ],
+          "measurement_rate": [
+            {
+              "configuration": "Conservative",
+              "n_max": 10,
+              "M_modalities": 3,
+              "delta_t": 2.3099574773346064e-34,
+              "N_measurements": 4.3290840191303924e+24,
+              "transition_duration": 1e-09
+            },
+            {
+              "configuration": "Moderate",
+              "n_max": 15,
+              "M_modalities": 4,
+              "delta_t": 2.787850222244709e-39,
+              "N_measurements": 3.586993275394919e+29,
+              "transition_duration": 1e-09
+            },
+            {
+              "configuration": "Aggressive",
+              "n_max": 20,
+              "M_modalities": 5,
+              "delta_t": 1.6924533187778305e-44,
+              "N_measurements": 5.908582463722716e+34,
+              "transition_duration": 1e-09
+            }
+          ],
+          "information_gain": {
+            "modalities": [
+              {
+                "coordinate": "n",
+                "name": "Principal",
+                "n_states": 20,
+                "information_bits": 4.321928094887363,
+                "information_nats": 2.995732273553991
+              },
+              {
+                "coordinate": "l",
+                "name": "Angular",
+                "n_states": 10,
+                "information_bits": 3.321928094887362,
+                "information_nats": 2.302585092994046
+              },
+              {
+                "coordinate": "m",
+                "name": "Orientation",
+                "n_states": 21,
+                "information_bits": 4.392317422778761,
+                "information_nats": 3.044522437723423
+              },
+              {
+                "coordinate": "s",
+                "name": "Chirality",
+                "n_states": 2,
+                "information_bits": 1.0,
+                "information_nats": 0.6931471805599453
+              },
+              {
+                "coordinate": "tau",
+                "name": "Temporal",
+                "n_states": 100,
+                "information_bits": 6.643856189774724,
+                "information_nats": 4.605170185988092
+              }
+            ],
+            "total_bits": 19.68002980232821,
+            "total_nats": 13.641157170819497,
+            "mean_per_modality": 3.936005960465642
+          }
+        }
+      }
+    },
+    "experiment_7": {
+      "name": "Hydrogen 1s->2p Transition",
+      "filename": "07_hydrogen_transition_simulation.py",
+      "status": "FAILED",
+      "error": "Object of type bool is not JSON serializable"
+    }
+  }
+}
