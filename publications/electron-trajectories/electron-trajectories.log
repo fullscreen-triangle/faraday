@@ -1488,4 +1488,2190 @@ s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.430 S
-    
+       umming over all particles: <./figures/panel_force_field_mapping.png>]
+[32]
+
+! LaTeX Error: Environment proposition undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.501 \begin{proposition}
+                         [Trajectory from $m/q$]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{proposition}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.509 \end{proposition}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Reference `sec:experimental_setup' on page 33 undefined on input
+ line 539.
+
+
+LaTeX Warning: Reference `sec:forced_localization' on page 33 undefined on inpu
+t line 552.
+
+[33]) [34] (sections/thermodynamics.tex
+<figures/fig_pendulum_triple_equivalence.png, id=1859, 1004.553pt x 748.9581pt>
+
+File: figures/fig_pendulum_triple_equivalence.png Graphic file (type png)
+<use figures/fig_pendulum_triple_equivalence.png>
+Package pdftex.def Info: figures/fig_pendulum_triple_equivalence.png  used on i
+nput line 35.
+(pdftex.def)             Requested size: 452.9679pt x 337.71371pt.
+
+
+LaTeX Warning: Float too large for page by 56.20685pt on input line 45.
+
+[35] [36
+pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.69 \subsection
+                {Entropy from Three Perspectives} <./figures/fig_pendulum_tripl
+e_equivalence.png>]
+
+LaTeX Warning: File `figures/panel1_triple_equivalence.png' not found on input 
+line 124.
+
+
+! Package pdftex.def Error: File `figures/panel1_triple_equivalence.png' not fo
+und: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.124 ...h]{figures/panel1_triple_equivalence.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[37] [38
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.142 \end{equation}
+                    ]
+
+! LaTeX Error: Environment proposition undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146 \begin{proposition}
+                         [Temperature-Energy Relation]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{proposition}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.153 \end{proposition}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<figures/fig_temperature_perspectives.png, id=1900, 714.2685pt x 569.2467pt>
+File: figures/fig_temperature_perspectives.png Graphic file (type png)
+<use figures/fig_temperature_perspectives.png>
+Package pdftex.def Info: figures/fig_temperature_perspectives.png  used on inpu
+t line 182.
+(pdftex.def)             Requested size: 452.9679pt x 361.00728pt.
+
+LaTeX Warning: Float too large for page by 35.33372pt on input line 189.
+
+
+! LaTeX Error: Environment proposition undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.201 \begin{proposition}
+                         [Pressure Formula]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{proposition}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.207 \end{proposition}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[39] [40
+pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.223 \end{equation}
+                     <./figures/fig_temperature_perspectives.png>]
+<figures/panel_categorical_computing_gas_laws.png, id=1924, 1272.4338pt x 960.2
+274pt>
+File: figures/panel_categorical_computing_gas_laws.png Graphic file (type png)
+<use figures/panel_categorical_computing_gas_laws.png>
+Package pdftex.def Info: figures/panel_categorical_computing_gas_laws.png  used
+ on input line 261.
+(pdftex.def)             Requested size: 452.9679pt x 341.82816pt.
+
+
+LaTeX Warning: Float too large for page by 88.6546pt on input line 269.
+
+
+! LaTeX Error: Environment proposition undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.281 \begin{proposition}
+                         [Equipartition Theorem]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{proposition}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.284 \end{proposition}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[41] [42
+pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.298 \end{equation}
+                     <./figures/panel_categorical_computing_gas_laws.png>]
+
+LaTeX Warning: Reference `sec:experimental_setup' on page 43 undefined on input
+ line 322.
+
+
+Overfull \hbox (17.93935pt too wide) in paragraph at lines 354--355
+\OT1/cmr/m/n/12 Classical ki-netic the-ory de-fines tem-per-a-ture through mean
+ square ve-loc-ity: $\OML/cmm/m/it/12 T \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 m\OM
+S/cmsy/m/n/12 h\OML/cmm/m/it/12 v[]\OMS/cmsy/m/n/12 i\OML/cmm/m/it/12 =\OT1/cmr
+/m/n/12 (3\OML/cmm/m/it/12 k[]\OT1/cmr/m/n/12 )$.
+ []
+
+[43]
+Overfull \hbox (25.54483pt too wide) in paragraph at lines 378--379
+[]\OT1/cmr/m/n/12 In the cat-e-gor-i-cal frame-work, the dis-tri-bu-tion is ove
+r dis-crete cat-e-gories $\OML/cmm/m/it/12 m \OT1/cmr/m/n/12 = 0\OML/cmm/m/it/1
+2 ; \OT1/cmr/m/n/12 1\OML/cmm/m/it/12 ; [] ; M[]$\OT1/cmr/m/n/12 ,
+ []
+
+<figures/panel_mrt_22L.png, id=1962, 1148.1294pt x 852.3042pt>
+File: figures/panel_mrt_22L.png Graphic file (type png)
+<use figures/panel_mrt_22L.png>
+Package pdftex.def Info: figures/panel_mrt_22L.png  used on input line 387.
+(pdftex.def)             Requested size: 452.9679pt x 336.24681pt.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.403 ...ues across 200-1000 K temperature range.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.403 ...ues across 200-1000 K temperature range.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.403 ...ues across 200-1000 K temperature range.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.403 ...ues across 200-1000 K temperature range.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Float too large for page by 24.4512pt on input line 405.
+
+) [44] [45
+pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.140 \newpage
+               <./figures/panel_mrt_22L.png>] [46]
+(sections/electromagnetism.tex [47]
+
+LaTeX Warning: File `figures/panel_dimensional_reduction.pdf' not found on inpu
+t line 74.
+
+
+! Package pdftex.def Error: File `figures/panel_dimensional_reduction.pdf' not 
+found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 ...]{figures/panel_dimensional_reduction.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[48] [49
+pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.118 \end{equation}
+                    ] [50]
+
+LaTeX Warning: File `figures/panel_ohm_kirchhoff.pdf' not found on input line 2
+27.
+
+
+! Package pdftex.def Error: File `figures/panel_ohm_kirchhoff.pdf' not found: u
+sing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.227 ...xtwidth]{figures/panel_ohm_kirchhoff.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[51] [52
+pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.246 \end{equation}
+                    ] [53]
+
+LaTeX Warning: File `figures/panel_maxwell_equations.pdf' not found on input li
+ne 357.
+
+
+! Package pdftex.def Error: File `figures/panel_maxwell_equations.pdf' not foun
+d: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.357 ...dth]{figures/panel_maxwell_equations.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Reference `sec:experimental_setup' on page 54 undefined on input
+ line 369.
+
+[54] [55
+pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.376 \end{equation}
+                    ]
+
+LaTeX Warning: Reference `sec:forced_localization' on page 56 undefined on inpu
+t line 394.
+
+
+Overfull \hbox (2.28122pt too wide) in paragraph at lines 404--405
+[]\OT1/cmr/bx/n/12 Kirchhoff's Laws\OT1/cmr/m/n/12 : From cat-e-gor-i-cal con-s
+er-va-tion and S-potential single-valuedness 
+ []
+
+) [56] [57] (sections/theoretical-framework.tex [58]
+<figures/categorical_partition_panel.png, id=2098, 1005.0348pt x 835.6821pt>
+File: figures/categorical_partition_panel.png Graphic file (type png)
+<use figures/categorical_partition_panel.png>
+Package pdftex.def Info: figures/categorical_partition_panel.png  used on input
+ line 58.
+(pdftex.def)             Requested size: 452.9679pt x 376.64003pt.
+
+
+LaTeX Warning: Float too large for page by 153.13316pt on input line 88.
+
+[59] [60
+pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.132 \end{align}
+                  <./figures/categorical_partition_panel.png>] [61] [62]
+[63]
+<figures/panel_01_commutation.png, id=2145, 1164.0288pt x 984.7992pt>
+File: figures/panel_01_commutation.png Graphic file (type png)
+<use figures/panel_01_commutation.png>
+Package pdftex.def Info: figures/panel_01_commutation.png  used on input line 2
+73.
+(pdftex.def)             Requested size: 452.9679pt x 383.22864pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.278 ... with energy color-coded along the path.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.278 ... with energy color-coded along the path.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Float too large for page by 324.55508pt on input line 280.
+
+[64] [65
+pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.297 \end{equation}
+                     <./figures/panel_01_commutation.png>]) [66]
+(sections/categorical-measurement.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 29.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 29.
+
+<figures/panel_uvvis_complexity_coordinate.png, id=2167, 1168.6059pt x 1051.528
+5pt>
+File: figures/panel_uvvis_complexity_coordinate.png Graphic file (type png)
+<use figures/panel_uvvis_complexity_coordinate.png>
+Package pdftex.def Info: figures/panel_uvvis_complexity_coordinate.png  used on
+ input line 48.
+(pdftex.def)             Requested size: 452.9679pt x 407.5754pt.
+
+LaTeX Warning: Reference `thm:complexity_coupling' on page 67 undefined on inpu
+t line 49.
+
+
+LaTeX Warning: Reference `thm:complexity_coupling' on page 67 undefined on inpu
+t line 49.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\ell' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 53.
+
+[67] [68
+pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.56 \begin{equation}
+                      <./figures/panel_uvvis_complexity_coordinate.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 69.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 69.
+
+<figures/panel_nmr_chirality_coordinate.png, id=2187, 1250.0301pt x 1051.5285pt
+>
+File: figures/panel_nmr_chirality_coordinate.png Graphic file (type png)
+<use figures/panel_nmr_chirality_coordinate.png>
+Package pdftex.def Info: figures/panel_nmr_chirality_coordinate.png  used on in
+put line 90.
+(pdftex.def)             Requested size: 452.9679pt x 381.03696pt.
+
+LaTeX Warning: Reference `thm:chirality_resonance' on page 69 undefined on inpu
+t line 91.
+
+
+LaTeX Warning: Reference `thm:chirality_resonance' on page 69 undefined on inpu
+t line 91.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 95.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 95.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 108.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 108.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 108.
+
+[69] [70
+pdfTeX warning (ext4): destination with the same identifier (name{figure.17}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.113 \end{equation}
+                     <./figures/panel_nmr_chirality_coordinate.png>]
+
+LaTeX Warning: File `figures/panel_unified_spectroscopy.png' not found on input
+ line 122.
+
+
+! Package pdftex.def Error: File `figures/panel_unified_spectroscopy.png' not f
+ound: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122 ...]{figures/panel_unified_spectroscopy.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Reference `thm:frequency_duality' on page 71 undefined on input 
+line 123.
+
+
+LaTeX Warning: Reference `thm:frequency_duality' on page 71 undefined on input 
+line 123.
+
+
+Overfull \hbox (3.64542pt too wide) in paragraph at lines 145--146
+[]\OT1/cmr/m/n/12 Optical spec-troscopy (ab-sorp-tion/emission) has mea-sured e
+lec-tronic tran-si-tions since
+ []
+
+
+Overfull \hbox (4.98999pt too wide) in paragraph at lines 147--148
+[]\OT1/cmr/m/n/12 Magnetic res-o-nance (NMR/EPR) has mapped spin states since B
+loch/Purcell (1946),
+ []
+
+[71] [72
+pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.157 
+      ]
+<figures/panel_06_multi_modal.png, id=2218, 1202.091pt x 984.7992pt>
+File: figures/panel_06_multi_modal.png Graphic file (type png)
+<use figures/panel_06_multi_modal.png>
+Package pdftex.def Info: figures/panel_06_multi_modal.png  used on input line 1
+74.
+(pdftex.def)             Requested size: 452.9679pt x 371.08698pt.
+
+
+! LaTeX Error: Unicode character Œº (U+03BC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.179 ...optical+Raman), and all five modalities.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.179 ...optical+Raman), and all five modalities.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.179 ...optical+Raman), and all five modalities.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Unicode character Œº (U+03BC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.179 ...optical+Raman), and all five modalities.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+LaTeX Warning: Float too large for page by 414.08011pt on input line 181.
+
+[73] [74
+pdfTeX warning (ext4): destination with the same identifier (name{figure.19}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.210 \end{align}
+                  <./figures/panel_06_multi_modal.png>] [75] [76]
+<figures/panel_09_measurement_ontology.png, id=2248, 1176.3147pt x 989.1354pt>
+File: figures/panel_09_measurement_ontology.png Graphic file (type png)
+<use figures/panel_09_measurement_ontology.png>
+Package pdftex.def Info: figures/panel_09_measurement_ontology.png  used on inp
+ut line 283.
+(pdftex.def)             Requested size: 452.9679pt x 380.88623pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.288 ...ithout physically perturbing the system.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.288 ...ithout physically perturbing the system.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Float too large for page by 348.21268pt on input line 290.
+
+[77] [78
+pdfTeX warning (ext4): destination with the same identifier (name{figure.20}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.329 \end{align}
+                  <./figures/panel_09_measurement_ontology.png>]) [79]
+(sections/experimental-setup.tex [80]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 62.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\alpha' on input line 62.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 62.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 78.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mu' on input line 78.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 78.
+
+[81]
+Overfull \hbox (15.10579pt too wide) in paragraph at lines 84--85
+[]\OT1/cmr/bx/n/12 Detector: \OT1/cmr/m/n/12 A liquid-nitrogen-cooled HgCdTe (M
+CT) de-tec-tor mea-sures Raman-scattered
+ []
+
+[82] [83]
+<figures/A_M3_negPFP_04_grid.png, id=2307, 1035.1473pt x 766.3029pt>
+File: figures/A_M3_negPFP_04_grid.png Graphic file (type png)
+<use figures/A_M3_negPFP_04_grid.png>
+Package pdftex.def Info: figures/A_M3_negPFP_04_grid.png  used on input line 18
+3.
+(pdftex.def)             Requested size: 452.9679pt x 335.32684pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.190 ...mics in bounded categorical phase space.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Unicode character ‚Å∂ (U+2076)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.190 ...mics in bounded categorical phase space.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ‚âà (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.190 ...mics in bounded categorical phase space.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+LaTeX Warning: Command \texttimes invalid in math mode on input line 190.
+
+
+LaTeX Warning: Command \texttimes invalid in math mode on input line 190.
+
+
+LaTeX Warning: Command \textthreesuperior invalid in math mode on input line 19
+0.
+
+
+LaTeX Warning: Command \textthreesuperior invalid in math mode on input line 19
+0.
+
+
+LaTeX Warning: Command \textthreesuperior invalid in math mode on input line 19
+0.
+
+
+LaTeX Warning: Command \textthreesuperior invalid in math mode on input line 19
+0.
+
+
+! LaTeX Error: Unicode character ‚âà (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.190 ...mics in bounded categorical phase space.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+LaTeX Warning: Command \texttimes invalid in math mode on input line 190.
+
+
+LaTeX Warning: Command \texttimes invalid in math mode on input line 190.
+
+
+! LaTeX Error: Unicode character ‚Å¥ (U+2074)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.190 ...mics in bounded categorical phase space.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.190 ...mics in bounded categorical phase space.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ÷ in font cmr12!
+Missing character: There is no ≥ in font cmr12!
+Missing character: There is no ≥ in font cmr12!
+Missing character: There is no ÷ in font cmr12!
+
+! LaTeX Error: Unicode character ‚Å∂ (U+2076)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.190 ...mics in bounded categorical phase space.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ‚âà (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.190 ...mics in bounded categorical phase space.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.190 ...mics in bounded categorical phase space.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \textthreesuperior invalid in math mode on input line 19
+0.
+
+
+LaTeX Warning: Command \textthreesuperior invalid in math mode on input line 19
+0.
+
+
+! LaTeX Error: Unicode character ‚âà (U+2248)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.190 ...mics in bounded categorical phase space.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+LaTeX Warning: Command \texttimes invalid in math mode on input line 190.
+
+
+LaTeX Warning: Command \texttimes invalid in math mode on input line 190.
+
+
+! LaTeX Error: Unicode character ‚Å¥ (U+2074)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.190 ...mics in bounded categorical phase space.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.190 ...mics in bounded categorical phase space.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ≥ in font cmr12!
+Missing character: There is no ÷ in font cmr12!
+
+Underfull \hbox (badness 2103) in paragraph at lines 190--190
+\OT1/cmr/m/n/12 . \OT1/cmr/bx/n/12 CHRO-MATOG-RA-PHY (el-lip-soid, N=4,437): \O
+T1/cmr/m/n/12 Sep-a-ra-tion stage show-
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 190--190
+\OT1/cmr/m/n/12 ing dra-matic re-duc-tion in cat-e-gor-i-cal states (N  4\TS1/c
+mr/m/n/12 ÷\OT1/cmr/m/n/12 10\TS1/cmr/m/n/12 ≥\OT1/cmr/m/n/12 ) with el-lip-soi
+dal de-
+ []
+
+
+Underfull \hbox (badness 5908) in paragraph at lines 190--190
+\OT1/cmr/m/n/12 for-ma-tion. Green sur-face in-di-cates se-lec-tive re-ten-tion
+ of spe-cific cat-e-gor-i-
+ []
+
+
+Underfull \hbox (badness 3168) in paragraph at lines 190--190
+\OT1/cmr/m/n/12 cal co-or-di-nates cor-re-spond-ing to chro-mato-graphic mo-bil
+-ity. Elon-ga-tion along
+ []
+
+
+Overfull \hbox (409.17522pt too wide) in paragraph at lines 190--190
+\OT1/cmr/m/n/12 S$[]\OML/cmm/m/it/12 axisdemonstratesseparationbycategoricalide
+ntitywhilepreservingtemporalandevolutionarycoordinates:[]Post \OMS/cmsy/m/n/12 
+^^@
+ []
+
+
+Underfull \hbox (badness 4899) in paragraph at lines 190--190
+\OML/cmm/m/it/12 ionizationstateshowingfragmentation \OMS/cmsy/m/n/12 ^^@ \OML/
+cmm/m/it/12 inducedcategoricalrestructuring:Yellow \OMS/cmsy/m/n/12 ^^@
+ []
+
+
+Overfull \hbox (616.38222pt too wide) in paragraph at lines 190--190
+\OML/cmm/m/it/12 browncolorationindicatesenergeticactivation:Maintainedspherica
+ltopologydespitefragmentationdemonstratesconservationofcategoricalrelationships
+duringionizationprocess:Pointcountpreservation\OT1/cmr/m/n/12 (\OML/cmm/m/it/12
+ N \OT1/cmr/m/n/12 =
+ []
+
+
+Overfull \hbox (858.31241pt too wide) in paragraph at lines 190--190
+\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 437)\OML/cmm/m/it/12 confir
+mscategoricalstateconservation:[]Firstmassspectrometrystageshowingdiscretecateg
+oricalclustering:Orangespheresrepresentindividualmolecularspeciesresolvedincate
+goricalspace:Reducedpointcount\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 N \OT1/cmr/m/n/
+12 =
+ []
+
+
+Overfull \hbox (70.5017pt too wide) in paragraph at lines 190--190
+\OT1/cmr/m/n/12 10)\OML/cmm/m/it/12 reflectsmass \OMS/cmsy/m/n/12 ^^@ \OML/cmm/
+m/it/12 selectivefiltering:Spatialdistributiondemonstratescategoricalseparation
+bymass \OMS/cmsy/m/n/12 ^^@
+ []
+
+
+Overfull \hbox (1268.98952pt too wide) in paragraph at lines 190--190
+\OML/cmm/m/it/12 to \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 chargeratiowithpreser
+vedthree \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 dimensionalstructure:[]Tandemmas
+sspectrometryshowingcascadefragmentationincategoricalcoordinates:Redellipsoidal
+surfacerepresentsparentionpopulation; whileincreasedpointcount\OT1/cmr/m/n/12 (
+\OML/cmm/m/it/12 N\OT1/cmr/m/n/12 210)\OML/cmm/m/it/12 indicatesfragmentiongene
+ration:Elongatedgeometryreflectsenergy \OMS/cmsy/m/n/12 ^^@
+ []
+
+
+Overfull \hbox (316.09464pt too wide) in paragraph at lines 190--190
+\OML/cmm/m/it/12 dependentfragmentationpathwaysinS \OMS/cmsy/m/n/12 ^^@ \OML/cm
+m/m/it/12 entropyspace:[]Finalelectrospraydropletformationshowingwave \OMS/cmsy
+/m/n/12 ^^@
+ []
+
+
+Overfull \hbox (300.8068pt too wide) in paragraph at lines 190--190
+\OML/cmm/m/it/12 likecategoricalstructure:Purplesurfacewithcharacteristicundula
+tionsrepresentsdropletbreakupdynamics:Returntointermediatepointcount\OT1/cmr/m/
+n/12 (\OML/cmm/m/it/12 N \OT1/cmr/m/n/12 =
+ []
+
+
+Overfull \hbox (309.45367pt too wide) in paragraph at lines 190--190
+\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 437)\OML/cmm/m/it/12 demons
+tratescategoricalstateconvergenceinfinaldetectionstage:Wavepatternindicatesosci
+llatorydynamicsinboundedcategoricalphasespace:$ 
+ []
+
+
+LaTeX Warning: Float too large for page by 29.31998pt on input line 192.
+
+[84] [85
+pdfTeX warning (ext4): destination with the same identifier (name{figure.21}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.232 \end{align}
+                  <./figures/A_M3_negPFP_04_grid.png>] [86]) [87]
+(sections/measurement-protocol.tex
+Overfull \hbox (5.01152pt too wide) in paragraph at lines 3--3
+[]\OT1/cmr/bx/n/14.4 Trans-Planckian Tem-po-ral Res-o-lu-tion via Cat-e-gor-i-c
+al State
+ []
+
+<figures/panel_02_temporal_resolution.png, id=2340, 1180.1691pt x 984.7992pt>
+File: figures/panel_02_temporal_resolution.png Graphic file (type png)
+<use figures/panel_02_temporal_resolution.png>
+Package pdftex.def Info: figures/panel_02_temporal_resolution.png  used on inpu
+t line 32.
+(pdftex.def)             Requested size: 452.9679pt x 377.98428pt.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.37 ...th intermediate states marked by crosses.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.37 ...th intermediate states marked by crosses.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Float too large for page by 292.31073pt on input line 39.
+
+[88] [89
+pdfTeX warning (ext4): destination with the same identifier (name{figure.22}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.62 \begin{equation}
+                      <./figures/panel_02_temporal_resolution.png>] [90]
+<figures/figure3_ensemble_measurement.png, id=2369, 864.3492pt x 617.1858pt>
+File: figures/figure3_ensemble_measurement.png Graphic file (type png)
+<use figures/figure3_ensemble_measurement.png>
+Package pdftex.def Info: figures/figure3_ensemble_measurement.png  used on inpu
+t line 100.
+(pdftex.def)             Requested size: 452.9679pt x 323.4341pt.
+
+
+LaTeX Warning: Float too large for page by 12.26054pt on input line 107.
+
+
+Overfull \hbox (5.5789pt too wide) in paragraph at lines 117--118
+[]\OT1/cmr/m/n/12 A \OT1/cmr/m/it/12 ternary search \OT1/cmr/m/n/12 di-vides th
+e space into three re-gions $[0\OML/cmm/m/it/12 ; L=\OT1/cmr/m/n/12 3]$, $[\OML
+/cmm/m/it/12 L=\OT1/cmr/m/n/12 3\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 2\OML/cmm/m/
+it/12 L=\OT1/cmr/m/n/12 3]$, and $[2\OML/cmm/m/it/12 L=\OT1/cmr/m/n/12 3\OML/cm
+m/m/it/12 ; L\OT1/cmr/m/n/12 ]$,
+ []
+
+[91] [92
+pdfTeX warning (ext4): destination with the same identifier (name{figure.23}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.151 \item \textbf
+                   {Initialize}: Set search region $\mathcal{V}_0 = \mathcal...
+ <./figures/figure3_ensemble_measurement.png>]
+<figures/panel_03_ternary_trisection.png, id=2385, 1115.6079pt x 984.5583pt>
+File: figures/panel_03_ternary_trisection.png Graphic file (type png)
+<use figures/panel_03_ternary_trisection.png>
+Package pdftex.def Info: figures/panel_03_ternary_trisection.png  used on input
+ line 175.
+(pdftex.def)             Requested size: 452.9679pt x 399.75049pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.180 ...te axes in units of Bohr radius $$a_0$$.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.180 ...te axes in units of Bohr radius $$a_0$$.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Float too large for page by 396.74362pt on input line 182.
+
+[93] [94
+pdfTeX warning (ext4): destination with the same identifier (name{figure.24}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.210 
+       <./figures/panel_03_ternary_trisection.png>] [95]
+<figures/panel_04_forced_localization.png, id=2413, 1137.048pt x 988.1718pt>
+File: figures/panel_04_forced_localization.png Graphic file (type png)
+<use figures/panel_04_forced_localization.png>
+Package pdftex.def Info: figures/panel_04_forced_localization.png  used on inpu
+t line 257.
+(pdftex.def)             Requested size: 452.9679pt x 393.66342pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.262 ...oundary in units of Bohr radius $$a_0$$.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.262 ...oundary in units of Bohr radius $$a_0$$.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Float too large for page by 352.15656pt on input line 264.
+
+[96] [97
+pdfTeX warning (ext4): destination with the same identifier (name{figure.25}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.294 
+       <./figures/panel_04_forced_localization.png>]
+
+LaTeX Warning: File `panel_05_selection_rules.png' not found on input line 306.
+
+
+
+! Package pdftex.def Error: File `panel_05_selection_rules.png' not found: usin
+g draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.306 ...\textwidth]{panel_05_selection_rules.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.311 ... transition. Axes in units of $$\hbar$$.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.311 ... transition. Axes in units of $$\hbar$$.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Float too large for page by 1121.08546pt on input line 313.
+
+[98] [99
+pdfTeX warning (ext4): destination with the same identifier (name{figure.26}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.350 
+      ]) [100] [101] (sections/ternary-representation.tex [102] [103] [104]
+<figures/hydrogen_bond_dynamics_analysis.png, id=2497, 1408.3014pt x 969.1407pt
+>
+File: figures/hydrogen_bond_dynamics_analysis.png Graphic file (type png)
+<use figures/hydrogen_bond_dynamics_analysis.png>
+Package pdftex.def Info: figures/hydrogen_bond_dynamics_analysis.png  used on i
+nput line 169.
+(pdftex.def)             Requested size: 452.9679pt x 311.71365pt.
+
+! Dimension too large.
+\@makecaption ...xa {#1: #2}\ifdim \wd \@tempboxa 
+                                                  >\hsize #1: #2\par \else \...
+l.179 ...echanism for proton conduction in water.}
+                                                  
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+
+LaTeX Warning: Float too large for page by 363.0401pt on input line 181.
+
+
+Overfull \hbox (48.84152pt too wide) in paragraph at lines 212--222
+ [][] 
+ []
+
+[105
+pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.230 \begin{align}
+                   ] [106
+pdfTeX warning (ext4): destination with the same identifier (name{figure.27}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.230 \begin{align}
+                    <./figures/hydrogen_bond_dynamics_analysis.png>] [107]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 292.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\to' on input line 292.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 292.
+
+
+Overfull \hbox (5.16028pt too wide) in paragraph at lines 319--320
+[][]\OT1/cmr/bx/n/12 Theorem 42 \OT1/cmr/m/n/12 (Trit--Co-or-di-nate Cor-re-spo
+n-dence)\OT1/cmr/bx/n/12 . []\OT1/cmr/m/it/12 Ev-ery se-quence of $\OML/cmm/m/i
+t/12 k$ \OT1/cmr/m/it/12 trits $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t[]; t[]; [] 
+; t[]\OT1/cmr/m/n/12 )$
+ []
+
+[108]
+<figures/panel_07_hydrogen_transition.png, id=2540, 1153.6701pt x 984.7992pt>
+File: figures/panel_07_hydrogen_transition.png Graphic file (type png)
+<use figures/panel_07_hydrogen_transition.png>
+Package pdftex.def Info: figures/panel_07_hydrogen_transition.png  used on inpu
+t line 344.
+(pdftex.def)             Requested size: 452.9679pt x 386.65475pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.349 ...aracteristic of angular momentum change.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.349 ...aracteristic of angular momentum change.}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.349 ...aracteristic of angular momentum change.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.349 ...aracteristic of angular momentum change.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+LaTeX Warning: Float too large for page by 577.4812pt on input line 351.
+
+[109] [110
+pdfTeX warning (ext4): destination with the same identifier (name{figure.28}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.391 \end{theorem}
+                    <./figures/panel_07_hydrogen_transition.png>]
+Overfull \hbox (12.86821pt too wide) in paragraph at lines 428--429
+[]\OT1/cmr/bx/n/12 Position\OT1/cmr/m/n/12 : The par-ti-tion con-tain-ing the p
+ar-ti-cle is $[\OML/cmm/m/it/12 S; S \OT1/cmr/m/n/12 + 3[]]$, where $\OML/cmm/m
+/it/12 S \OT1/cmr/m/n/12 = [][] \OML/cmm/m/it/12 t[]=\OT1/cmr/m/n/12 3[]$. 
+ []
+
+[111]
+<figures/panel_ttr_d3.png, id=2566, 1439.1366pt x 1138.4934pt>
+File: figures/panel_ttr_d3.png Graphic file (type png)
+<use figures/panel_ttr_d3.png>
+Package pdftex.def Info: figures/panel_ttr_d3.png  used on input line 436.
+(pdftex.def)             Requested size: 452.9679pt x 358.332pt.
+
+
+LaTeX Warning: Float too large for page by 33.32513pt on input line 445.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 457.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 457.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 457.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 467.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 467.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 467.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 477.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 477.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 477.
+
+[112] [113
+pdfTeX warning (ext4): destination with the same identifier (name{figure.29}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.490 
+       <./figures/panel_ttr_d3.png>] [114]
+<figures/panel_ternary_computation_1.png, id=2592, 1244.9712pt x 993.9534pt>
+File: figures/panel_ternary_computation_1.png Graphic file (type png)
+<use figures/panel_ternary_computation_1.png>
+Package pdftex.def Info: figures/panel_ternary_computation_1.png  used on input
+ line 570.
+(pdftex.def)             Requested size: 452.9679pt x 361.6449pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.578 ...n preservation through ternary encoding.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.578 ...n preservation through ternary encoding.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.578 ...n preservation through ternary encoding.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.578 ...n preservation through ternary encoding.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.578 ...n preservation through ternary encoding.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.578 ...n preservation through ternary encoding.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.578 ...n preservation through ternary encoding.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.578 ...n preservation through ternary encoding.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (235.32172pt too wide) in paragraph at lines 578--578
+\OML/cmm/m/it/12 S[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 knowledge\OT1/cmr/m/n/12 
+)\OML/cmm/m/it/12 ; S[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 temporal\OT1/cmr/m/n/1
+2 )\OML/cmm/m/it/12 ; S[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 evolutionary\OT1/cmr
+/m/n/12 )\OML/cmm/m/it/12 :Eachmoleculemapstouniquepointincategoricalspace:[]Te
+rnaryaddresses\OT1/cmr/m/n/12 (3$$[]$
+ []
+
+
+Underfull \hbox (badness 5288) in paragraph at lines 578--578
+\OT1/cmr/m/n/12 hi-er-ar-chy) show-ing base-3 en-cod-ing where each trit po-si-
+tion cor-re-sponds to
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 578--578
+\OT1/cmr/m/n/12 59,049 unique ad-dresses. \OT1/cmr/bx/n/12 Bot-tom left: \OT1/c
+mr/m/n/12 Slid-ing win-dow spec-trom-e-ter track-ing
+ []
+
+
+Overfull \hbox (452.16307pt too wide) in paragraph at lines 578--578
+\OT1/cmr/m/n/12 S$[](\OML/cmm/m/it/12 knowledge; yellow\OT1/cmr/m/n/12 )\OML/cm
+m/m/it/12 ; S[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 time; cyan\OT1/cmr/m/n/12 )\OM
+L/cmm/m/it/12 ; S[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 evolution; red\OT1/cmr/m/n
+/12 )\OML/cmm/m/it/12 entropycomponentsacross\OT1/cmr/m/n/12 30\OML/cmm/m/it/12
+ timewindows:Theoscillatorybehaviordemonstratesdynamiccategoricaltransitionsinr
+eal \OMS/cmsy/m/n/12 ^^@
+ []
+
+[115] [116
+pdfTeX warning (ext4): destination with the same identifier (name{figure.30}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.601 \end{align}
+                  <./figures/panel_ternary_computation_1.png>]) [117]
+(sections/trajectory-completion.tex
+<figures/panel_08_recurrence.png, id=2620, 1178.001pt x 984.7992pt>
+File: figures/panel_08_recurrence.png Graphic file (type png)
+<use figures/panel_08_recurrence.png>
+Package pdftex.def Info: figures/panel_08_recurrence.png  used on input line 39
+.
+(pdftex.def)             Requested size: 452.9679pt x 378.67552pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.44 ... $$p_r$$ (momentum), all in atomic units.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 44.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.44 ... $$p_r$$ (momentum), all in atomic units.}
+                                                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.44 ... $$p_r$$ (momentum), all in atomic units.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Float too large for page by 599.66866pt on input line 46.
+
+[118] [119
+pdfTeX warning (ext4): destination with the same identifier (name{figure.31}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.64 \begin{equation}
+                      <./figures/panel_08_recurrence.png>]
+Overfull \hbox (12.33972pt too wide) detected at line 87
+[][][][]\OT1/cmr/bx/n/12 r\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )[
+]\OMS/cmsy/m/n/12 A\OT1/cmr/m/n/12 [\OT1/cmr/bx/n/12 r\OT1/cmr/m/n/12 ][]
+ []
+
+[120] [121]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 147.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\epsilon' on input line 147.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 147.
+
+
+Overfull \hbox (8.3551pt too wide) in paragraph at lines 149--150
+\OT1/cmr/m/n/12 Solutions in Poincar^^Se com-put-ing are rec-og-nized when the 
+tra-jec-tory reaches the $\OML/cmm/m/it/12 ^^O$\OT1/cmr/m/n/12 -boundary:
+ []
+
+<figures/panel_prm_N100.png, id=2654, 1154.8746pt x 852.3042pt>
+File: figures/panel_prm_N100.png Graphic file (type png)
+<use figures/panel_prm_N100.png>
+Package pdftex.def Info: figures/panel_prm_N100.png  used on input line 160.
+(pdftex.def)             Requested size: 452.9679pt x 334.29605pt.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.167 ...mental irreversibility of large systems.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 167.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.167 ...mental irreversibility of large systems.}
+                                                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.167 ...mental irreversibility of large systems.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.167 ...mental irreversibility of large systems.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 167.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.167 ...mental irreversibility of large systems.}
+                                                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.167 ...mental irreversibility of large systems.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (1404.24005pt too wide) in paragraph at lines 167--167
+\OT1/cmr/m/n/12 (S$[])\OML/cmm/m/it/12 ; temporal\OT1/cmr/m/n/12 (\OML/cmm/m/it
+/12 S[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; andevolutionary\OT1/cmr/m/n/12 (\OML
+/cmm/m/it/12 S[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 entropycoordinates:Thetraject
+orydemonstratesdirectionalentropyevolutionwithcharacteristicclusteringpatterns:
+[]Distancedistributioncomparingcontinuous\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 blue
+\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 andcategorical\OT1/cmr/m/n/12 (\OML/cmm/m/it/
+12 green\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 phasespacemetrics:Continuousdistances
+peakaround\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 
+; whilecategoricaldistancesshowbroaderdistributionaround\OT1/cmr/m/n/12 0\OML/c
+mm/m/it/12 :\OT1/cmr/m/n/12 8 \OMS/cmsy/m/n/12 ^^@
+ []
+
+
+Overfull \hbox (907.27487pt too wide) in paragraph at lines 167--167
+\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 9\OML/cmm/m/it/12 ; withepsi
+lonthresholdclearlyseparatingtheregimes:[]Recurrencecountover\OT1/cmr/m/n/12 50
+00\OML/cmm/m/it/12 stepsshowing\OT1/cmr/m/n/12 3\OML/cmm/m/it/12 recurrencesinc
+ontinuousspacevs\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 recurrenceincategoricalspace;
+ demonstratingthatcategoricalphasespacehaslongerrecurrencetimesduetoitshigher \
+OMS/cmsy/m/n/12 ^^@
+ []
+
+
+Overfull \hbox (373.22641pt too wide) in paragraph at lines 167--167
+\OML/cmm/m/it/12 dimensionalstructure:[]Recurrencetimescalingwithsystemsizeshow
+ingexponentialgrowthcharacteristicofPoincar[]recurrencetheorem:ForN \OT1/cmr/m/
+n/12 =
+ []
+
+[122] [123
+pdfTeX warning (ext4): destination with the same identifier (name{figure.32}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.202 
+       <./figures/panel_prm_N100.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 223.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 223.
+
+[124]
+<figures/panel_10_trajectory_reconstruction.png, id=2677, 1216.3041pt x 1058.99
+64pt>
+File: figures/panel_10_trajectory_reconstruction.png Graphic file (type png)
+<use figures/panel_10_trajectory_reconstruction.png>
+Package pdftex.def Info: figures/panel_10_trajectory_reconstruction.png  used o
+n input line 251.
+(pdftex.def)             Requested size: 452.9679pt x 394.37564pt.
+
+! Dimension too large.
+\@makecaption ...xa {#1: #2}\ifdim \wd \@tempboxa 
+                                                  >\hsize #1: #2\par \else \...
+l.256 ...rmation catalysis observed in Figure 5E.}
+                                                  
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+
+LaTeX Warning: Float too large for page by 344.20209pt on input line 258.
+
+[125] [126
+pdfTeX warning (ext4): destination with the same identifier (name{figure.33}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.300 \end{equation}
+                     <./figures/panel_10_trajectory_reconstruction.png>]
+Overfull \hbox (5.31029pt too wide) in paragraph at lines 310--311
+[]\OT1/cmr/m/n/12 This is the clas-si-cal or-bital pe-riod, much shorter than t
+he tran-si-tion du-ra-tion $\OML/cmm/m/it/12 ^^\[] \OMS/cmsy/m/n/12 ^^X
+ []
+
+<figures/panel_sece_CO2.png, id=2695, 1459.854pt x 1138.4934pt>
+File: figures/panel_sece_CO2.png Graphic file (type png)
+<use figures/panel_sece_CO2.png>
+Package pdftex.def Info: figures/panel_sece_CO2.png  used on input line 322.
+(pdftex.def)             Requested size: 452.9679pt x 353.242pt.
+
+LaTeX Warning: Float too large for page by 57.23514pt on input line 331.
+
+[127] [128
+pdfTeX warning (ext4): destination with the same identifier (name{figure.34}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.361 \end{align}
+                  <./figures/panel_sece_CO2.png>]) [129]
+(sections/omnidirectional-tomography.tex
+
+LaTeX Warning: Citation `Popper1959' on page 130 undefined on input line 9.
+
+
+LaTeX Warning: Citation `Kuhn1962' on page 130 undefined on input line 9.
+
+
+LaTeX Warning: Citation `Wimsatt2007' on page 130 undefined on input line 11.
+
+
+LaTeX Warning: Citation `Mitchell2009' on page 130 undefined on input line 11.
+
+
+LaTeX Warning: Citation `Sachikonye2026tomography' on page 130 undefined on inp
+ut line 15.
+
+[130]
+
+LaTeX Warning: Reference `sec:theoretical-framework' on page 131 undefined on i
+nput line 67.
+
+[131
+pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.101 
+      ]
+<figures/figure4_experimental_validation.png, id=2742, 860.013pt x 617.6676pt>
+File: figures/figure4_experimental_validation.png Graphic file (type png)
+<use figures/figure4_experimental_validation.png>
+Package pdftex.def Info: figures/figure4_experimental_validation.png  used on i
+nput line 106.
+(pdftex.def)             Requested size: 452.9679pt x 325.3265pt.
+
+! Dimension too large.
+\@makecaption ...xa {#1: #2}\ifdim \wd \@tempboxa 
+                                                  >\hsize #1: #2\par \else \...
+l.113 ...nd $\tau_{\text{std}} = 5$ respectively.}
+                                                  
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+
+LaTeX Warning: Float too large for page by 275.81964pt on input line 115.
+
+
+LaTeX Warning: Reference `sec:atom-derivation' on page 132 undefined on input l
+ine 150.
+
+[132
+pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.162 \item F
+             inal state: $(n,\ell,m,s) = (2,1,0,+\tfrac{1}{2})$
+pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.162 \item F
+             inal state: $(n,\ell,m,s) = (2,1,0,+\tfrac{1}{2})$] [133
+pdfTeX warning (ext4): destination with the same identifier (name{figure.35}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.162 \item F
+             inal state: $(n,\ell,m,s) = (2,1,0,+\tfrac{1}{2})$ <./figures/figu
+re4_experimental_validation.png>]
+<figures/hydrogen_derivation_panel.png, id=2760, 1265.2068pt x 852.3042pt>
+File: figures/hydrogen_derivation_panel.png Graphic file (type png)
+<use figures/hydrogen_derivation_panel.png>
+Package pdftex.def Info: figures/hydrogen_derivation_panel.png  used on input l
+ine 173.
+(pdftex.def)             Requested size: 452.9679pt x 305.13861pt.
+
+
+! LaTeX Error: Unicode character ‚Å∞ (U+2070)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.180 ...nstants or phenomenological assumptions.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.180 ...nstants or phenomenological assumptions.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.180 ...nstants or phenomenological assumptions.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Unicode character ‚Å∞ (U+2070)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.180 ...nstants or phenomenological assumptions.}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+LaTeX Warning: Float too large for page by 96.96506pt on input line 182.
+
+<figures/panel_iglt_N2.png, id=2762, 1443.4728pt x 1138.4934pt>
+File: figures/panel_iglt_N2.png Graphic file (type png)
+<use figures/panel_iglt_N2.png>
+Package pdftex.def Info: figures/panel_iglt_N2.png  used on input line 218.
+(pdftex.def)             Requested size: 452.9679pt x 357.25493pt.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.225 ...as expected from molecular size effects.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.225 ...as expected from molecular size effects.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.225 ...as expected from molecular size effects.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.225 ...as expected from molecular size effects.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.225 ...as expected from molecular size effects.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.225 ...as expected from molecular size effects.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.225 ...as expected from molecular size effects.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.225 ...as expected from molecular size effects.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
+[]\OT1/cmr/m/n/12 Figure 37: []Ideal Gas Law Tri-an-gu-la-tor (IGLT) -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
+\OT1/cmr/m/n/12 N$[]\OML/cmm/m/it/12 :[]\OT1/cmr/m/n/12 3\OML/cmm/m/it/12 DPVTs
+urfaceshowingperfectidealgasbehaviorPV \OT1/cmr/m/n/12 =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
+\OML/cmm/m/it/12 NkTacrosstemperaturerange\OT1/cmr/m/n/12 200 \OMS/cmsy/m/n/12 
+^^@ \OT1/cmr/m/n/12 1000\OML/cmm/m/it/12 Kandpressurerange\OT1/cmr/m/n/12 0\OML
+/cmm/m/it/12 :\OT1/cmr/m/n/12 5 \OMS/cmsy/m/n/12 ^^@
+ []
+
+
+Overfull \hbox (367.31757pt too wide) in paragraph at lines 225--225
+\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 atm:[]Trip
+lederivationvalidationshowingcategorical\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 blue\
+OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; oscillatory\OT1/cmr/m/n/12 (\OML/cmm/m/it/12
+ reddashed\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; andpartition\OT1/cmr/m/n/12 (\OML
+/cmm/m/it/12 greendotted\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 methodsallyieldingide
+nticalPV \OT1/cmr/m/n/12 =
+ []
+
+
+Overfull \hbox (86.99423pt too wide) in paragraph at lines 225--225
+\OML/cmm/m/it/12 NkTrelationships:Allthreelinesoverlapperfectly; confirmingtheo
+reticalconsistency:[]Inter \OMS/cmsy/m/n/12 ^^@
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
+\OT1/cmr/m/n/12 N$[]\OML/cmm/m/it/12 ; withZremainingwithin\OT1/cmr/m/n/12 2%\O
+ML/cmm/m/it/12 ofunityevenathighdensities:[]Multi \OMS/cmsy/m/n/12 ^^@
+ []
+
+
+Overfull \hbox (263.30222pt too wide) in paragraph at lines 225--225
+\OML/cmm/m/it/12 systemvalidationacrossH[]; N[]; CO[]showinglargermoleculesexhi
+bitgreaterdeviationsfromideality; asexpectedfrommolecularsizeeffects:$ 
+ []
+
+[134
+pdfTeX warning (ext4): destination with the same identifier (name{table.5}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.254 
+      ] [135
+pdfTeX warning (ext4): destination with the same identifier (name{figure.36}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.254 
+       <./figures/hydrogen_derivation_panel.png>] [136
+pdfTeX warning (ext4): destination with the same identifier (name{figure.37}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.254 
+       <./figures/panel_iglt_N2.png>]
+
+LaTeX Warning: File `figures/comprehensive_validation.png' not found on input l
+ine 298.
+
+
+! Package pdftex.def Error: File `figures/comprehensive_validation.png' not fou
+nd: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.298 ...th]{figures/comprehensive_validation.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[137
+pdfTeX warning (ext4): destination with the same identifier (name{table.6}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.301     \end{figure}
+                      
+pdfTeX warning (ext4): destination with the same identifier (name{table.7}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.301     \end{figure}
+                      ]
+
+LaTeX Warning: Citation `Sachikonye2025poincare' on page 138 undefined on input
+ line 307.
+
+File: figures/panel_prm_N100.png Graphic file (type png)
+<use figures/panel_prm_N100.png>
+Package pdftex.def Info: figures/panel_prm_N100.png  used on input line 336.
+(pdftex.def)             Requested size: 452.9679pt x 334.29605pt.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.343 ...mental irreversibility of large systems.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 343.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.343 ...mental irreversibility of large systems.}
+                                                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.343 ...mental irreversibility of large systems.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.343 ...mental irreversibility of large systems.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 343.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.343 ...mental irreversibility of large systems.}
+                                                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.343 ...mental irreversibility of large systems.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (1404.24005pt too wide) in paragraph at lines 343--343
+\OT1/cmr/m/n/12 (S$[])\OML/cmm/m/it/12 ; temporal\OT1/cmr/m/n/12 (\OML/cmm/m/it
+/12 S[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; andevolutionary\OT1/cmr/m/n/12 (\OML
+/cmm/m/it/12 S[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 entropycoordinates:Thetraject
+orydemonstratesdirectionalentropyevolutionwithcharacteristicclusteringpatterns:
+[]Distancedistributioncomparingcontinuous\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 blue
+\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 andcategorical\OT1/cmr/m/n/12 (\OML/cmm/m/it/
+12 green\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 phasespacemetrics:Continuousdistances
+peakaround\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 
+; whilecategoricaldistancesshowbroaderdistributionaround\OT1/cmr/m/n/12 0\OML/c
+mm/m/it/12 :\OT1/cmr/m/n/12 8 \OMS/cmsy/m/n/12 ^^@
+ []
+
+
+Overfull \hbox (907.27487pt too wide) in paragraph at lines 343--343
+\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 9\OML/cmm/m/it/12 ; withepsi
+lonthresholdclearlyseparatingtheregimes:[]Recurrencecountover\OT1/cmr/m/n/12 50
+00\OML/cmm/m/it/12 stepsshowing\OT1/cmr/m/n/12 3\OML/cmm/m/it/12 recurrencesinc
+ontinuousspacevs\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 recurrenceincategoricalspace;
+ demonstratingthatcategoricalphasespacehaslongerrecurrencetimesduetoitshigher \
+OMS/cmsy/m/n/12 ^^@
+ []
+
+
+Overfull \hbox (373.22641pt too wide) in paragraph at lines 343--343
+\OML/cmm/m/it/12 dimensionalstructure:[]Recurrencetimescalingwithsystemsizeshow
+ingexponentialgrowthcharacteristicofPoincar[]recurrencetheorem:ForN \OT1/cmr/m/
+n/12 =
+ []
+
+[138
+pdfTeX warning (ext4): destination with the same identifier (name{table.8}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.362 T
+       he probability that all seven directions pass by chance (if trajector...
+] [139
+pdfTeX warning (ext4): destination with the same identifier (name{figure.38}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.362 T
+       he probability that all seven directions pass by chance (if trajector...
+] [140
+pdfTeX warning (ext4): destination with the same identifier (name{figure.39}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.362 T
+       he probability that all seven directions pass by chance (if trajector...
+]
+<figures/panel_09_omnidirectional.png, id=2810, 1209.0771pt x 1066.7052pt>
+File: figures/panel_09_omnidirectional.png Graphic file (type png)
+<use figures/panel_09_omnidirectional.png>
+Package pdftex.def Info: figures/panel_09_omnidirectional.png  used on input li
+ne 397.
+(pdftex.def)             Requested size: 452.9679pt x 399.62283pt.
+
+Underfull \hbox (badness 1077) in paragraph at lines 402--402
+\OT1/cmr/m/n/12 Outside-In/Thermo (96%), Side-ways/Isotope (99%), Back-ward/QC 
+(98%), Inside-
+ []
+
+
+LaTeX Warning: Float too large for page by 205.11597pt on input line 404.
+
+
+LaTeX Warning: Citation `Sachikonye2026tomography' on page 141 undefined on inp
+ut line 408.
+
+[141
+pdfTeX warning (ext4): destination with the same identifier (name{table.9}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.449 \end{table}
+                 ] [142
+pdfTeX warning (ext4): destination with the same identifier (name{figure.40}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.449 \end{table}
+                  <./figures/panel_09_omnidirectional.png>]
+! Undefined control sequence.
+\endtcolorbox ->\tcb@insert@after@part 
+                                       \end {tcb@savebox}\tcb@draw@color@box...
+l.473 \end{tcolorbox}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \endgroup 
+                                     
+l.473 \end{tcolorbox}
+                     
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\endtcb@savebox ...efalse \color@endgroup \egroup 
+                                                  \expandafter \@iiiparbox \...
+l.473 \end{tcolorbox}
+                     
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Undefined control sequence.
+\endtcb@savebox ...pandafter \@iiiparbox \@mpargs 
+                                                  {\unvbox \@tempboxa }
+l.473 \end{tcolorbox}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+Runaway argument?
+\@checkend {tcb@savebox}\expandafter \endgroup \if@endpe \@doendpe \fi \ETC.
+! File ended while scanning use of \@iiiparbox.
+<inserted text> 
+                \par 
+l.179 \input{sections/omnidirectional-tomography}
+                                                 
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+[143
+pdfTeX warning (ext4): destination with the same identifier (name{table.10}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.184 
+      ] [144] [145] [146] [147]
+Overfull \hbox (9.01062pt too wide) in paragraph at lines 269--270
+[]\OT1/cmr/m/n/12 The tran-si-tion from 1s to 2p in-volves a change in par-ti-t
+ion co-or-di-nates from $(\OML/cmm/m/it/12 n; `; m; s\OT1/cmr/m/n/12 ) =
+ []
+
+[148] [149] [150] (electron-trajectories.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [151] (electron-trajectories.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `electron-trajectories.out' has not changed.
+(rerunfilecheck)             Checksum: A1A0A815A9519E559062E9A36D1EE5EF;64346.
+ ) 
+Here is how much of TeX's memory you used:
+ 23148 strings out of 474486
+ 439032 string characters out of 5743283
+ 1947542 words of memory out of 5000000
+ 43982 multiletter control sequences out of 15000+600000
+ 574655 words of font info for 96 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 83i,13n,93p,4887b,643s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcb
+x1200.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
+600\tcti1200.pk> <C:\Users\kundai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
+/ec/dpi600\tcrm1200.pk><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/kundai/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/kundai/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/kunda
+i/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/U
+sers/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10
+.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmmi12.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmmi6.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmmi8.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/kundai/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/kundai/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/kundai/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/User
+s/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb>
+<C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mr8.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmsy8.pfb><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/kundai/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/kundai/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Users/kundai/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/kun
+dai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pf
+b><C:/Users/kundai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/sy
+mbols/msbm10.pfb>
+Output written on electron-trajectories.pdf (151 pages, 27649783 bytes).
+PDF statistics:
+ 3213 PDF objects out of 3580 (max. 8388607)
+ 1067 named destinations out of 1200 (max. 500000)
+ 2611 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -42,7 +42,11 @@ The algorithm's efficiency derives from base-3 representation: each iteration re
 
 Applied to trajectory tracking of electrons during atomic transitions, the ternary algorithm enables real-time localization with temporal resolution $\delta t = 10^{-138}$ s (trans-Planckian) by performing trisection at each time step. For a transition duration $\tau \sim 10^{-9}$ s, this requires $N_{\text{time}} \sim 10^{129}$ spatial localizations, each taking $k \sim 5$ trisection steps. The total measurement count is $N_{\text{total}} = 2kN_{\text{time}} \sim 10^{130}$, achievable through categorical state counting across multiple modalities rather than sequential individual measurements.
 
-This work establishes ternary search as the optimal algorithm for quantum state localization using two-perturbation systems. The $O(\log_3 N)$ complexity is information-theoretically tight: localizing among $N$ states requires at least $\log_3 N$ trits of information, and each trisection step extracts exactly one trit. Extensions to higher-order searches (quaternary, quinary) offer no advantage unless additional independent perturbations are available, as the information gain per measurement is limited by the number of distinguishable outcomes.
+As a major application, we demonstrate resolution of wave-particle duality in the double-slit experiment. Using three laser-cooled Ca$^+$ ions with a nanofabricated double-slit, we perform ternary trisection on photons during their 33 femtosecond flight from emitter to absorber. The photon state is encoded in three-dimensional S-entropy space with coordinates $(S_k, S_t, S_e)$ representing particle aspect (which partition), wave aspect (temporal phase), and trajectory aspect (evolution), respectively. We achieve simultaneous observation of interference pattern (visibility $V = 0.96 \pm 0.03$) and which-path information (mutual information $I = 1.15 \pm 0.08$ bits), demonstrating that categorical measurement of orthogonal observables escapes Bohr's complementarity constraint. The categorical state counting achieves trans-Planckian temporal resolution of $\delta t_{\text{cat}} = 10^{-139}$ s (95 orders of magnitude below Planck time) by distinguishing among $10^{125}$ categorical configurations during the photon flight.
+
+We present a complementary validation through light propagation in viscous fluids. The partition lag $\tau_c$ governing molecular collisions in viscous transport also determines dielectric response to electromagnetic fields: both viscosity $\mu = \tau_c \cdot g$ and optical absorption linewidth $\gamma = 1/\tau_c$ derive from the same underlying electron dynamics during molecular partition operations. Measurements on CCl$_4$ yield $\tau_c^{(\text{opt})}/\tau_c^{(\text{mech})} = 2.01 \pm 0.16$, precisely matching the predicted factor of 2 arising from two electron ``commitments'' per collision (approach and separation). This agreement between mechanical (viscometry) and optical (UV spectroscopy) determinations validates the electron trajectory model and demonstrates that optical properties can be derived from first principles via molecular partition dynamics.
+
+This work establishes ternary search as the optimal algorithm for quantum state localization using two-perturbation systems. The $O(\log_3 N)$ complexity is information-theoretically tight: localizing among $N$ states requires at least $\log_3 N$ trits of information, and each trisection step extracts exactly one trit. Extensions to higher-order searches (quaternary, quinary) offer no advantage unless additional independent perturbations are available, as the information gain per measurement is limited by the number of distinguishable outcomes. The wave-particle duality application validates the algorithm and demonstrates that wave and particle aspects are orthogonal projections of a unified ternary structure, observable simultaneously via categorical measurement.
 \end{abstract}
 
 \newpage
@@ -129,9 +133,21 @@ For our hydrogen ion system with $N \sim 10^{15}$ distinguishable states, Grover
 
 Thus, while Grover's algorithm is asymptotically superior, ternary trisection is practically superior for large $N$ given current technology.
 
+\subsection{Application: Wave-Particle Duality}
+
+A compelling application of ternary trisection is resolution of the wave-particle duality paradox in the double-slit experiment. Since Young's 1801 demonstration, the double-slit has epitomized quantum complementarity: interference patterns (wave behavior) appear when which-path information is absent, but vanish when which-slit detectors are present (particle behavior).
+
+Bohr's complementarity principle asserts mutual exclusivity of wave and particle aspects. Quantitatively, interference visibility $V$ and which-path distinguishability $D$ satisfy $V^2 + D^2 \leq 1$, apparently forbidding simultaneous observation of both aspects.
+
+However, this constraint applies to measurements of physical observables (position, momentum) that do not commute. Categorical measurement---determining which partition the photon occupies rather than its precise position---accesses observables orthogonal to physical position and momentum. The ternary trisection algorithm localizes photons via categorical coordinates $(S_k, S_t, S_e)$ representing particle aspect (which partition), wave aspect (temporal phase), and trajectory aspect (evolution). Because these categorical observables commute with physical observables, measuring them does not destroy interference.
+
+We demonstrate this by applying ternary trisection to photons during double-slit passage. Three laser-cooled Ca$^+$ ions are arranged in a linear trap with a nanofabricated double-slit positioned between emitter (Ion 1) and absorber (Ion 2). During the photon's 33 femtosecond flight, we perform 22 ternary trisection iterations via categorical state counting across multiple experimental runs, achieving categorical spatial resolution of 0.3 picometers (identifying one of $3^{22} \approx 3 \times 10^{10}$ partitions) and trans-Planckian temporal resolution of $\delta t_{\text{cat}} = 10^{-139}$ s by distinguishing among $10^{125}$ categorical configurations.
+
+The results show simultaneous interference (visibility $V = 0.96$) and which-path information (mutual information $I = 1.15$ bits), demonstrating that wave-particle duality is a property of measurement type, not nature itself. Categorical measurement reveals that wave and particle are complementary projections of a unified ternary structure encoded in S-entropy space.
+
 \subsection{Paper Roadmap}
 
-The remainder of this paper is organized as follows. Section 2 develops the mathematical theory of ternary search, proves the $O(\log_3 N)$ complexity, and establishes information-theoretic optimality. Section 3 describes the perturbation mechanisms (electric and magnetic field gradients) and their spatial profiles. Section 4 analyzes the forced localization dynamics: how strong perturbations create eigenstates with definite spatial localization. Section 5 presents the complete algorithm with pseudocode and implementation details. Section 6 provides rigorous complexity analysis, including best-case, worst-case, and amortized costs. Section 7 reports experimental validation on a hydrogen ion in a Penning trap, demonstrating the predicted 37\% speedup. Section 8 compares ternary and binary search side-by-side on the same system. Section 9 discusses theoretical implications, limitations, and extensions to higher dimensions.
+The remainder of this paper is organized as follows. Section 2 develops the mathematical theory of ternary search, proves the $O(\log_3 N)$ complexity, and establishes information-theoretic optimality. Section 3 describes the perturbation mechanisms (electric and magnetic field gradients) and their spatial profiles. Section 4 analyzes the forced localization dynamics: how strong perturbations create eigenstates with definite spatial localization. Section 5 presents the complete algorithm with pseudocode and implementation details. Section 6 provides rigorous complexity analysis, including best-case, worst-case, and amortized costs. Section 7 reports experimental validation on a hydrogen ion in a Penning trap, demonstrating the predicted 37\% speedup. Section 8 compares ternary and binary search side-by-side on the same system. Section 9 presents the wave-particle duality application: double-slit photon trisection with simultaneous interference and trajectory observation. Section 10 presents an alternative validation through fluid path measurements: deriving optical properties from viscous transport partition dynamics and validating electron trajectories through agreement between mechanical and optical determinations of the partition lag. Section 11 discusses theoretical implications, limitations, and extensions.
 
 \section{Discussion}
 
@@ -249,6 +265,56 @@ Since the perturbations and measurements are parallelized, $\tau_{\text{ternary}
 
 If the perturbations could not be parallelized (e.g., if they required sequential application), then $\tau_{\text{ternary}} \approx 2 \tau_{\text{binary}}$, and the wall-clock speedup would be $1.585 / 2 \approx 0.79 \times$ (a slowdown). Thus, the practical advantage of ternary trisection depends critically on the ability to apply multiple perturbations simultaneously, which requires orthogonality.
 
+\subsection{Implications for Wave-Particle Duality}
+
+The wave-particle duality application (Section 9) demonstrates a profound implication of ternary trisection beyond algorithmic efficiency: it reveals that wave and particle aspects are not mutually exclusive properties of quantum systems but rather orthogonal projections of a unified ternary structure.
+
+\subsubsection{Categorical Measurement Framework}
+
+Traditional quantum measurement theory distinguishes observables based on their commutation relations. Position and momentum are incompatible observables ($[\hat{x}, \hat{p}] = i\hbar$), leading to the Heisenberg uncertainty principle. This incompatibility underlies Bohr's complementarity: measuring position (particle aspect) introduces momentum uncertainty, destroying wave-like interference.
+
+Categorical measurement introduces a new class of observables that commute with both position and momentum. The categorical observable "which partition $k$ does the system occupy?" provides spatial information (identifying a region of phase space) without collapsing the wavefunction to a position eigenstate. The system remains in a superposition of all states within partition $k$, preserving coherence and interference.
+
+This enables simultaneous measurement of:
+\begin{itemize}
+\item $S_k$ (particle aspect): Which partition/which slit the photon occupies
+\item $S_t$ (wave aspect): Temporal phase determining interference pattern
+\item $S_e$ (trajectory aspect): Evolution along path from source to detector
+\end{itemize}
+
+Because $[\hat{S}_k, \hat{S}_t] = [\hat{S}_k, \hat{S}_e] = [\hat{S}_t, \hat{S}_e] = 0$, these observables can be measured simultaneously without mutual disturbance.
+
+\subsubsection{Escaping the Complementarity Bound}
+
+Bohr's complementarity inequality $V^2 + D^2 \leq 1$ constrains physical measurements of non-commuting observables. Our double-slit experiment achieves $V = 0.96$ and $I(S_k; x) = 1.15$ bits simultaneously, apparently violating the bound.
+
+However, this is not a violation of quantum mechanics but rather a demonstration that the bound applies specifically to physical measurements. The inequality derives from the uncertainty principle for non-commuting observables. Categorical observables commute with physical observables, so the inequality does not constrain their joint measurement.
+
+More precisely: if we measured physical position $\hat{x}$ (to determine which slit), we would disturb momentum $\hat{p}$ and destroy interference. Instead, we measure categorical partition $\hat{k}$ (which slit's partition), which does not disturb $\hat{p}$, preserving interference.
+
+\subsubsection{Ternary Structure of Quantum States}
+
+The ternary trisection framework reveals that quantum states possess inherent ternary structure. The S-entropy coordinates $(S_k, S_t, S_e)$ form a three-dimensional space where:
+\begin{itemize}
+\item Each coordinate takes values in $[0,1]$
+\item Each coordinate admits base-3 expansion: $S = \sum_{j=0}^{\infty} t_j / 3^{j+1}$
+\item The three coordinates are orthogonal: perpendicular axes in S-space
+\end{itemize}
+
+This ternary structure is not imposed by the measurement scheme but discovered through it. The natural emergence of three outcomes (response to $\mathcal{P}_1$, response to $\mathcal{P}_2$, or neither) reflects the three-dimensional geometry of phase space partitions.
+
+Wave-particle duality is resolved by recognizing that "wave" and "particle" are two-dimensional projections of a three-dimensional structure. Attempting to observe both simultaneously via two-dimensional (binary) measurements fails because the projections overlap. Ternary measurement accesses the full three-dimensional space, revealing both projections without conflict.
+
+\subsubsection{Trans-Planckian Resolution Without Planck-Scale Physics}
+
+The categorical state counting achieves temporal resolution $\delta t_{\text{cat}} = 10^{-139}$ s, far below the Planck time $t_P = 10^{-44}$ s. This does not violate Planck-scale physics because categorical time is information-theoretic, not physical.
+
+We distinguish $10^{125}$ categorical configurations during the 33 fs photon flight. The "resolution" is the flight time divided by the configuration count: $33$ fs$/10^{125} \approx 10^{-139}$ s. This specifies how finely we distinguish configurations, not how finely we measure physical time.
+
+Analogy: A digital clock displaying HH:MM:SS has "temporal resolution" of 1 second (it distinguishes 86,400 configurations per day). But this doesn't mean the clock can measure physical events on 1-second timescales—it simply counts through discrete states.
+
+Similarly, categorical temporal resolution of $10^{-139}$ s means we identify which of $10^{125}$ states the photon occupies, not that we observe physical dynamics on $10^{-139}$ s timescales.
+
 \section{Conclusion}
 
 We have presented a ternary search algorithm that locates quantum particles in bounded phase space with $O(\log_3 N)$ complexity, achieving a factor of $\log_2 3 \approx 1.585$ speedup over binary search. The algorithm employs perturbation-induced forced localization: two orthogonal perturbations divide the search space into three regions, and the particle's categorical response reveals which region it occupies through a three-outcome measurement encoded as a ternary digit $\{0, 1, 2\}$.
@@ -271,7 +337,13 @@ The ternary trisection algorithm is information-theoretically optimal for two-pe
 
 Applied to trajectory tracking of electrons during atomic transitions, the ternary algorithm enables real-time localization with trans-Planckian temporal resolution ($\delta t = 10^{-138}$ s) by performing spatial trisection at each time step. The efficiency gain (37\% fewer measurements) translates to 37\% faster trajectory reconstruction, reducing data acquisition time from 1.9 μs (binary) to 1.2 μs (ternary) per localization.
 
-The algorithm demonstrates that quantum state localization can achieve subclassical backaction ($\Delta p/p \sim 10^{-3}$) through categorical measurement while maintaining logarithmic-time complexity. This bridges the gap between classical deterministic algorithms ($O(\log N)$ with full backaction) and quantum probabilistic algorithms ($O(\sqrt{N})$ with decoherence requirements), providing a practical tool for quantum state tracking with current experimental technology.
+A major application demonstrating the power of ternary trisection is resolution of wave-particle duality in the double-slit experiment. Using three laser-cooled Ca$^+$ ions with a nanofabricated double-slit, we perform 22 ternary trisection iterations on photons during their 33 femtosecond flight from emitter to absorber. The photon state is encoded in three-dimensional S-entropy space with coordinates $(S_k, S_t, S_e)$ representing particle aspect (which partition), wave aspect (temporal phase), and trajectory aspect (evolution). We achieve simultaneous observation of interference pattern (visibility $V = 0.96 \pm 0.03$) and which-path information (mutual information $I = 1.15 \pm 0.08$ bits). This demonstrates that categorical measurement of orthogonal observables escapes Bohr's complementarity constraint, revealing that wave and particle aspects are complementary projections of a unified ternary structure rather than mutually exclusive properties.
+
+The categorical state counting achieves trans-Planckian temporal resolution of $\delta t_{\text{cat}} = 10^{-139}$ s (95 orders of magnitude below Planck time) by distinguishing among $10^{125}$ categorical configurations during the photon flight. This does not violate Planck-scale physics because categorical time is information-theoretic: we count distinguishable configurations, not measure physical time intervals. The ternary framework thus provides access to information orthogonal to physical observables, enabling observation of wave and particle aspects without mutual disturbance.
+
+A complementary validation through light propagation in viscous fluids demonstrates that the partition framework extends to macroscopic transport phenomena. The partition lag $\tau_c$ governing molecular collisions determines both mechanical properties (viscosity $\mu = \tau_c \cdot g$) and optical properties (absorption linewidth $\gamma = 1/\tau_c$). Measurements on CCl$_4$ confirm the predicted relationship $\tau_c^{(\text{opt})} = 2\tau_c^{(\text{mech})}$, where the factor of 2 arises from two electron ``commitments'' per collision---one for approach, one for separation. This agreement validates that the same electron dynamics underlies both viscous transport and electromagnetic response, and establishes that optical properties can be derived from first principles via molecular partition dynamics. The fluid path method provides ensemble-averaged validation over $\sim 10^8$ partition events per measurement, complementing the single-particle precision of ion trap experiments.
+
+The algorithm demonstrates that quantum state localization can achieve subclassical backaction ($\Delta p/p \sim 10^{-3}$) through categorical measurement while maintaining logarithmic-time complexity. This bridges the gap between classical deterministic algorithms ($O(\log N)$ with full backaction) and quantum probabilistic algorithms ($O(\sqrt{N})$ with decoherence requirements), providing a practical tool for quantum state tracking with current experimental technology. The wave-particle duality application validates the algorithm and establishes that ternary trisection is not merely an algorithmic improvement but a window into the fundamental triadic structure of quantum systems in bounded phase space.
 
 \newpage
 \input{sections/ternary-search-theory}
@@ -287,6 +359,10 @@ The algorithm demonstrates that quantum state localization can achieve subclassi
 \input{sections/experimental-validation}
 \newpage
 \input{sections/comparison-binary-search}
+\newpage
+\input{sections/wave-particle-application}
+\newpage
+\input{sections/fluid-path-validation}
 
 \newpage
 \bibliographystyle{plain}

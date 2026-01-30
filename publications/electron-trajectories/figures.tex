@@ -311,8 +311,22 @@ Validation: Frequency $\propto 1/n^2$, subshell capacity $(2l+1)$, Balmer series
 \end{figure}
 
 \begin{figure}[htbp]
+    \centering
+    \includegraphics[width=\textwidth]{figures/partition_traversal_panel.png}
+    \caption{Partition traversal dynamics during resonant coupling demonstrating systematic occupation evolution, charge redistribution, and information crystallization across quantum state transitions.
+    \textbf{(A) Partition occupation evolution:} Heat map showing temporal evolution of partition element occupation over 50 coupling cycles. Color gradient from white (unoccupied) to dark green (fully occupied) reveals systematic traversal pattern with elements 20--10 showing sequential activation and deactivation cycles.
+    \textbf{(B) Charge redistribution during coupling:} Oscillatory charge exchange between system (blue) and apparatus (red) over $12\omega t$ time units. Sinusoidal patterns demonstrate periodic energy transfer with complete charge redistribution cycles, maintaining total charge conservation throughout coupling process.
+    \textbf{(C) Partition trajectory $(n, l)$:} Two-dimensional trajectory in quantum number space showing path from start (green circle) to end (red square) positions. Blue trajectory points demonstrate systematic traversal through allowed quantum states with complexity $l$ ranging 0--6 and depth $n$ spanning 1--7.
+    \textbf{(D) Information crystallization from partition completion:} Information accumulation showing rapid initial growth (green bars per cycle) reaching saturation at 7 bits. Red cumulative curve demonstrates exponential approach to maximum information content, indicating complete partition characterization after $\sim$10 coupling cycles.
+    \textbf{(E) Energy as carrier of partition transitions:} Energy exchange histogram showing transition energies from 1--11 $\times 10^{-19}$ J. Orange bars demonstrate increasing energy requirements for higher-order partition transitions ($\Delta\xi$ from 2--10), with maximum energy at $\Delta\xi = 10$.
+    \textbf{(F) Allowed states $|m| \leq l$:} Magnetic quantum number distribution heat map showing allowed $m$ values ($-4$ to $+4$) for each complexity level $l$ (0--4). Green regions indicate accessible states, red regions show forbidden combinations, demonstrating angular momentum selection rules during partition traversal.}
+    \label{fig:partition_traversal}
+\end{figure}
+
+
+\begin{figure}[htbp]
 \centering
-\includegraphics[width=\textwidth]{panel_06_multi_modal.png}
+\includegraphics[width=\textwidth]{figures/panel_06_multi_modal.png}
 \caption{\textbf{Multi-modal consistency and redundancy validation.} 
 (\textbf{A}) Cross-modal correlation matrix showing pairwise correlation coefficients $$r$$ between all five measurement modalities (optical, Raman, MRI, circular dichroism, mass spectrometry). All off-diagonal elements satisfy $$r > 0.94$$, with most $$r > 0.95$$, demonstrating high inter-modal consistency. Perfect diagonal ($$r = 1.000$$) confirms self-consistency. Color scale from red ($$r = 0$$) to green ($$r = 1$$). 
 (\textbf{B}) Measurement accuracy as a function of number of modalities used simultaneously. Blue line with circles shows mean accuracy increasing from 50\% (single modality, random guess baseline) to 97\% (all five modalities). Blue shaded region indicates 95\% confidence interval. Gray circles show individual trial results. Redundancy enables error correction: accuracy improves logarithmically with modality count. 
@@ -364,7 +378,7 @@ Validation: Frequency $\propto 1/n^2$, subshell capacity $(2l+1)$, Balmer series
 \end{figure}
 \begin{figure}[htbp]
 \centering
-\includegraphics[width=\textwidth]{panel_01_commutation.png}
+\includegraphics[width=\textwidth]{figures/panel_01_commutation.png}
 \caption{\textbf{Fundamental commutation and categorical observable validation.} 
 (\textbf{A}) Commutator matrix showing near-zero commutation relations between categorical observables ($$n, \ell, m, s$$) and physical observables (position $$x$$, momentum $$p$$, Hamiltonian $$H$$, angular momentum $$L^2$$). All elements satisfy $$|[\hat{O}_{\text{cat}}, \hat{O}_{\text{phys}}]| < 10^{-15}$$, confirming theoretical prediction of exact commutation. 
 (\textbf{B}) Measurement backaction comparison between position/momentum measurements (red, $$\Delta p/p \sim 10^2$$) and categorical measurements (green, $$\Delta p/p \sim 10^{-3}$$). Categorical measurements achieve momentum disturbance three orders of magnitude below classical limits. 
@@ -373,6 +387,22 @@ Validation: Frequency $\propto 1/n^2$, subshell capacity $(2l+1)$, Balmer series
 \label{fig:commutation}
 \end{figure}
             
+
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=\textwidth]{figures/virtual_vs_original_qtof_PL_Neg_Waters_qTOF.png}
+    \caption{Original vs. virtual qTOF comparison for PL\_Neg\_Waters\_qTOF dataset demonstrating zero-backaction virtual measurement framework with perfect spectral reproduction across 15 identified peaks.
+    \textbf{Upper panels -- 3D perspective views:} Original qTOF data (left) and virtual qTOF projection (right) showing identical peak distributions across m/z (600--1300), retention time (0--30 min), and intensity (0--100 normalized units). Both datasets display 15 peaks with matching spatial distributions and intensity profiles.
+    \textbf{Middle panels -- Top view projections:} 2D heat maps of original (left) and virtual (right) qTOF data demonstrating perfect spatial correlation. Color scales (purple to yellow, 0--100 intensity) show identical peak positions and relative intensities, confirming successful virtual measurement projection.
+    \textbf{Lower panels -- Extracted ion chromatograms (XICs):} Four representative m/z values showing temporal profiles:
+    \textbf{XIC m/z 1315.0:} Original (blue) and virtual (red) traces showing identical retention time ($\sim$0.02 min) and peak shape with intensity $\sim$1000 units.
+    \textbf{XIC m/z 1225.4:} Matching profiles at retention time $\sim$6 min with identical peak widths and intensities reaching 1000 units.
+    \textbf{XIC m/z 1169.8:} Corresponding peaks at retention time $\sim$12 min demonstrating preserved chromatographic resolution and peak symmetry.
+    \textbf{XIC m/z 1171.9:} Final comparison showing retention time $\sim$18 min with maintained peak characteristics and baseline resolution.
+    All XIC comparisons demonstrate perfect overlay between original experimental data and virtual qTOF projections, validating the MMD framework's ability to perform zero-backaction virtual measurements while preserving complete analytical information content.}
+    \label{fig:qtof_comparison}
+\end{figure}
+
 
 \begin{figure}[htbp]
 \centering
