@@ -1,6 +1,6 @@
 {
   "experiment": "Zero-Backaction Measurement Validation",
-  "date": "2026-01-27T15:42:48.002827",
+  "date": "2026-01-31T18:06:48.982753",
   "theory": "Categorical: \u0394p/p ~ 10\u207b\u00b3, Physical: \u0394p/p ~ 10\u00b2",
   "data": {
     "comparison": {
@@ -8,14 +8,14 @@
         "delta_x": 5.29177210903e-11,
         "p_initial": 1.992851912878967e-24,
         "delta_p_heisenberg": 9.964259564394835e-25,
-        "delta_p_measured": 9.983801330875305e-25,
-        "relative_disturbance": 0.5009805930061426,
+        "delta_p_measured": 9.985444161063147e-25,
+        "relative_disturbance": 0.5010630291458891,
         "n_trials": 10000
       },
       "categorical": {
         "p_initial": 1.992851912878967e-24,
-        "delta_p_measured": 2.3108967511903723e-30,
-        "relative_disturbance": 1.1595928108134954e-06,
+        "delta_p_measured": 2.337672461335045e-30,
+        "relative_disturbance": 1.1730286862900585e-06,
         "n_trials": 10000,
         "disturbance_sources": {
           "perturbation": 1e-06,
@@ -24,47 +24,47 @@
           "trap": 2e-07
         }
       },
-      "improvement_factor": 432031.4754751601
+      "improvement_factor": 427153.261469336
     },
     "backaction_scaling": [
       {
         "n": 1,
         "partition_size": 2.800285205390781e-21,
         "theory_backaction": 0.001,
-        "measured_backaction": 0.0009741219496361189,
-        "relative_error": 0.025878050363881154,
+        "measured_backaction": 0.001027926905180016,
+        "relative_error": 0.02792690518001596,
         "passed": true
       },
       {
         "n": 2,
         "partition_size": 1.1201140821563125e-20,
         "theory_backaction": 0.00025,
-        "measured_backaction": 0.0002532500047443368,
-        "relative_error": 0.013000018977347245,
+        "measured_backaction": 0.00024795103732007417,
+        "relative_error": 0.008195850719703354,
         "passed": true
       },
       {
         "n": 3,
         "partition_size": 2.5202566848517028e-20,
         "theory_backaction": 0.00011111111111111112,
-        "measured_backaction": 0.00010862782174455549,
-        "relative_error": 0.022349604299000663,
+        "measured_backaction": 0.00011743670935234817,
+        "relative_error": 0.05693038417113351,
         "passed": true
       },
       {
         "n": 4,
         "partition_size": 4.48045632862525e-20,
         "theory_backaction": 6.25e-05,
-        "measured_backaction": 5.969074333092942e-05,
-        "relative_error": 0.044948106705129276,
+        "measured_backaction": 5.825195126727058e-05,
+        "relative_error": 0.06796877972367078,
         "passed": true
       },
       {
         "n": 5,
         "partition_size": 7.000713013476953e-20,
         "theory_backaction": 4e-05,
-        "measured_backaction": 3.862346763590924e-05,
-        "relative_error": 0.034413309102268995,
+        "measured_backaction": 4.0579956853568986e-05,
+        "relative_error": 0.014498921339224573,
         "passed": true
       }
     ]

@@ -1,0 +1,20 @@
+[package]
+name = "faraday-algorithms"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+authors.workspace = true
+license.workspace = true
+description = "Algorithms for ternary search, partition capacity, and selection rules"
+
+[dependencies]
+faraday-core.workspace = true
+thiserror.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+ndarray.workspace = true
+num-complex.workspace = true
+
+[dev-dependencies]
+approx.workspace = true
+rand.workspace = true

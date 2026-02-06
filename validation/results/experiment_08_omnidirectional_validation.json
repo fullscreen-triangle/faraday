@@ -1,15 +1,15 @@
 {
   "experiment": "Omnidirectional Trajectory Validation",
-  "date": "2026-01-27T16:06:50.973180",
+  "date": "2026-01-31T18:06:49.036006",
   "theory": "8-direction validation of electron trajectory observation",
   "data": {
     "direction_1_forward": {
       "transition_duration": 1e-08,
       "n_measurements": 10000,
-      "mean_radius_measured": 1.8631400949133904e-10,
+      "mean_radius_measured": 1.8631397582738694e-10,
       "mean_radius_theory": 1.863139940903509e-10,
-      "relative_deviation": 8.266146739223933e-08,
-      "position_uncertainty": 3.7071340321404735e-11,
+      "relative_deviation": 9.802250246706929e-08,
+      "position_uncertainty": 3.7071352227127394e-11,
       "passed": true
     },
     "direction_2_backward": {
@@ -22,12 +22,12 @@
       "passed": true
     },
     "direction_3_sideways": {
-      "tau_H": 1.0179835306607447e-08,
-      "tau_D": 1.3942166943062742e-08,
-      "measured_ratio": 1.369586690072802,
+      "tau_H": 1.00514520279547e-08,
+      "tau_D": 1.4194261369663328e-08,
+      "measured_ratio": 1.4121602859155882,
       "theory_ratio": 1.413670406796056,
-      "deviation": 0.03118387179311855,
-      "passed": false
+      "deviation": 0.0010682269878523505,
+      "passed": true
     },
     "direction_4_inside_out": {
       "initial_state": [
@@ -54,8 +54,8 @@
       "temperature": 4,
       "volume": 1e-09,
       "pressure_theory": 5.522596e-10,
-      "pressure_measured": 5.354324343071711e-10,
-      "deviation": 0.030469666245419587,
+      "pressure_measured": 5.642926995624522e-10,
+      "deviation": 0.021788846336853594,
       "v_thermal": 289.9303792761486,
       "passed": true
     },
@@ -113,10 +113,10 @@
     }
   },
   "combined_confidence": {
-    "n_passed": 7,
+    "n_passed": 8,
     "n_total": 8,
-    "p_combined": 0.9320653479069899,
-    "p_failure": 0.06793465209301008,
-    "bayesian_posterior": 0.12171775051284765
+    "p_combined": 0.9227446944279201,
+    "p_failure": 0.07725530557207994,
+    "bayesian_posterior": 0.10765868009112294
   }
 }

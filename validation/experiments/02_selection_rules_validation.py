@@ -1,6 +1,6 @@
 """
 EXPERIMENT 2: SELECTION RULES VALIDATION
-Validates Δl = ±1, Δm ∈ {0,±1}, Δs = 0 from boundary continuity
+Validates Delta_l = +/-1, Delta_m in {0,+/-1}, Delta_s = 0 from boundary continuity
 """
 
 import numpy as np
@@ -13,7 +13,7 @@ class SelectionRulesValidator:
         self.results = {
             'experiment': 'Selection Rules Validation',
             'date': datetime.now().isoformat(),
-            'theory': 'Δl = ±1, Δm ∈ {0,±1}, Δs = 0',
+            'theory': 'Delta_l = +/-1, Delta_m in {0,+/-1}, Delta_s = 0',
             'data': {}
         }
         
@@ -66,7 +66,7 @@ class SelectionRulesValidator:
         print(f"\n{'='*80}")
         print("EXPERIMENT 2: SELECTION RULES VALIDATION")
         print(f"{'='*80}")
-        print(f"Testing Δl = ±1, Δm ∈ {{0,±1}}, Δs = 0 for n ≤ {n_max}\n")
+        print(f"Testing Delta_l = +/-1, Delta_m in {{0,+/-1}}, Delta_s = 0 for n <= {n_max}\n")
         
         states = self.generate_all_states(n_max)
         print(f"Total states: {len(states)}")
@@ -133,9 +133,9 @@ class SelectionRulesValidator:
             ((1,0,0,0.5), (2,1,0,0.5), True, "1s -> 2p (Lyman-alpha)"),
             ((2,0,0,0.5), (2,1,0,0.5), True, "2s -> 2p (same shell)"),
             ((2,1,0,0.5), (3,2,0,0.5), True, "2p -> 3d"),
-            ((1,0,0,0.5), (2,0,0,0.5), False, "1s -> 2s (Δl=0, forbidden)"),
-            ((2,1,0,0.5), (3,1,0,0.5), False, "2p -> 3p (Δl=0, forbidden)"),
-            ((1,0,0,0.5), (3,2,0,0.5), False, "1s -> 3d (Δl=2, forbidden)"),
+            ((1,0,0,0.5), (2,0,0,0.5), False, "1s -> 2s (dl=0, forbidden)"),
+            ((2,1,0,0.5), (3,1,0,0.5), False, "2p -> 3p (dl=0, forbidden)"),
+            ((1,0,0,0.5), (3,2,0,0.5), False, "1s -> 3d (dl=2, forbidden)"),
         ]
         
         test_results = []
@@ -149,7 +149,7 @@ class SelectionRulesValidator:
             
             print(f"{status} {description}")
             print(f"      {state_i} -> {state_f}")
-            print(f"      Δl={deltas[0]}, Δm={deltas[1]}, Δs={deltas[2]}")
+            print(f"      Delta_l={deltas[0]}, Delta_m={deltas[1]}, Delta_s={deltas[2]}")
             print(f"      Allowed={allowed}, Rate={rate:.2e} s^-1\n")
             
             test_results.append({
@@ -167,13 +167,13 @@ class SelectionRulesValidator:
         
         all_passed = all(t['passed'] for t in test_results)
         print(f"All specific transition tests passed: {all_passed}\n")
-        
-        return results
+
+        return test_results
     
     def validate_delta_l_distribution(self, n_max=4):
-        """Analyze distribution of Δl values"""
+        """Analyze distribution of Delta_l values"""
         print(f"\n{'='*80}")
-        print("Δl DISTRIBUTION ANALYSIS")
+        print("Delta_l DISTRIBUTION ANALYSIS")
         print(f"{'='*80}\n")
         
         states = self.generate_all_states(n_max)
@@ -201,7 +201,7 @@ class SelectionRulesValidator:
         # Sort by delta_l
         sorted_deltas = sorted(delta_l_counts.keys())
         
-        print(f"{'Δl':>4s} | {'Total':>8s} | {'Allowed':>8s} | {'Forbidden':>8s} | {'Status':>10s}")
+        print(f"{'dl':>4s} | {'Total':>8s} | {'Allowed':>8s} | {'Forbidden':>8s} | {'Status':>10s}")
         print("-" * 60)
         
         for delta_l in sorted_deltas:
@@ -238,7 +238,7 @@ def run_experiment():
     # Test 1: Validate selection rules
     validator.validate_selection_rules(n_max=3)
     
-    # Test 3: Analyze Δl distribution
+    # Test 3: Analyze Delta_l distribution
     validator.validate_delta_l_distribution(n_max=4)
     
     # Save results
@@ -247,7 +247,7 @@ def run_experiment():
     print(f"\n{'='*80}")
     print("EXPERIMENT 2 COMPLETE")
     print(f"{'='*80}")
-    print(f"Verdict: SELECTION RULES Δl = ±1 VALIDATED")
+    print(f"Verdict: SELECTION RULES Delta_l = +/-1 VALIDATED")
     print(f"Allowed transitions show rate ratio >10^9 over forbidden.")
     print(f"Geometric constraints on boundary continuity confirmed.")
     print(f"{'='*80}\n")

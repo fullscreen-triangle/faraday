@@ -1,6 +1,6 @@
 """
 EXPERIMENT 3: CATEGORICAL-PHYSICAL COMMUTATION VALIDATION
-Validates [Ô_cat, Ô_phys] ≈ 0 numerically
+Validates [O_cat, O_phys] ~ 0 numerically
 """
 
 import numpy as np
@@ -13,10 +13,10 @@ class CommutationValidator:
         self.results = {
             'experiment': 'Categorical-Physical Commutation Validation',
             'date': datetime.now().isoformat(),
-            'theory': '[Ô_cat, Ô_phys] = 0',
+            'theory': '[O_cat, O_phys] = 0',
             'data': {}
         }
-        self.hbar = 1.054571817e-34  # J·s
+        self.hbar = 1.054571817e-34  # J*s
         self.a0 = 5.29177210903e-11  # m (Bohr radius)
         
     def create_position_operator(self, dim=10):
@@ -110,17 +110,17 @@ class CommutationValidator:
                 result = {
                     'categorical': cat_name,
                     'physical': phys_name,
-                    'commutator_norm': comm_norm,
-                    'relative_commutator': relative_comm,
-                    'passed': passed
+                    'commutator_norm': float(comm_norm),
+                    'relative_commutator': float(relative_comm),
+                    'passed': bool(passed)
                 }
-                
+
                 results.append(result)
-        
+
         self.results['data']['commutation_validation'] = {
             'dimension': dim,
             'results': results,
-            'all_passed': all(r['passed'] for r in results)
+            'all_passed': bool(all(r['passed'] for r in results))
         }
         
         all_passed = all(r['passed'] for r in results)
@@ -129,11 +129,11 @@ class CommutationValidator:
         return results
     
     def validate_heisenberg_commutator(self, dim=50):
-        """Validate [x, p] = iℏ (should NOT be zero)"""
+        """Validate [x, p] = i*hbar (should NOT be zero)"""
         print(f"\n{'='*80}")
         print("HEISENBERG COMMUTATOR VALIDATION (Control)")
         print(f"{'='*80}")
-        print(f"Testing [x, p] = iℏ (should be NON-ZERO)\n")
+        print(f"Testing [x, p] = i*hbar (should be NON-ZERO)\n")
         
         X = self.create_position_operator(dim)
         P = self.create_momentum_operator(dim)
@@ -141,36 +141,36 @@ class CommutationValidator:
         # Calculate [x, p]
         comm = self.commutator(X, P)
         
-        # Expected: iℏ times identity
+        # Expected: i*hbar times identity
         expected = 1j * self.hbar * np.eye(dim)
-        
+
         # Error
         error = np.linalg.norm(comm - expected, 'fro')
         relative_error = error / np.linalg.norm(expected, 'fro')
-        
-        print(f"||[x, p] - iℏI|| = {error:.2e}")
+
+        print(f"||[x, p] - i*hbar*I|| = {error:.2e}")
         print(f"Relative error = {relative_error:.2e}")
-        
+
         # This should be non-zero (validates our operators are correct)
         comm_norm = np.linalg.norm(comm, 'fro')
         print(f"||[x, p]|| = {comm_norm:.2e}")
-        print(f"Expected ||iℏI|| = {np.linalg.norm(expected, 'fro'):.2e}")
+        print(f"Expected ||i*hbar*I|| = {np.linalg.norm(expected, 'fro'):.2e}")
         
         passed = relative_error < 0.1  # Should match within 10%
         status = "[PASS]" if passed else "[FAIL]"
         print(f"\nHeisenberg relation validated: {status}")
         
         self.results['data']['heisenberg_control'] = {
-            'commutator_norm': comm_norm,
-            'expected_norm': np.linalg.norm(expected, 'fro'),
-            'relative_error': relative_error,
-            'passed': passed
+            'commutator_norm': float(comm_norm),
+            'expected_norm': float(np.linalg.norm(expected, 'fro')),
+            'relative_error': float(relative_error),
+            'passed': bool(passed)
         }
         
         return passed
     
     def validate_categorical_self_commutation(self, dim=50):
-        """Validate [Ô_cat_i, Ô_cat_j] ≈ 0 (categorical ops commute with each other)"""
+        """Validate [O_cat_i, O_cat_j] ~ 0 (categorical ops commute with each other)"""
         print(f"\n{'='*80}")
         print("CATEGORICAL SELF-COMMUTATION VALIDATION")
         print(f"{'='*80}")
@@ -207,9 +207,9 @@ class CommutationValidator:
             results.append({
                 'op1': name1,
                 'op2': name2,
-                'commutator_norm': comm_norm,
-                'relative_commutator': relative_comm,
-                'passed': passed
+                'commutator_norm': float(comm_norm),
+                'relative_commutator': float(relative_comm),
+                'passed': bool(passed)
             })
         
         self.results['data']['categorical_self_commutation'] = results
@@ -250,9 +250,9 @@ def run_experiment():
     print(f"\n{'='*80}")
     print("EXPERIMENT 3 COMPLETE")
     print(f"{'='*80}")
-    print(f"Verdict: COMMUTATION [Ô_cat, Ô_phys] ≈ 0 VALIDATED")
+    print(f"Verdict: COMMUTATION [O_cat, O_phys] ~ 0 VALIDATED")
     print(f"All categorical-physical commutators < 10^-10 (numerically zero).")
-    print(f"Heisenberg [x,p] = iℏ confirmed as control (non-zero).")
+    print(f"Heisenberg [x,p] = i*hbar confirmed as control (non-zero).")
     print(f"Categorical operators commute with each other and with physical operators.")
     print(f"{'='*80}\n")
     

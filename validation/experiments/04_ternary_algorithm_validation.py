@@ -1,6 +1,6 @@
 """
 EXPERIMENT 4: TERNARY TRISECTION ALGORITHM VALIDATION
-Validates O(log₃N) complexity and 37% speedup over binary search
+Validates O(log_3 N) complexity and 37% speedup over binary search
 """
 
 import numpy as np
@@ -14,7 +14,7 @@ class TernaryAlgorithmValidator:
         self.results = {
             'experiment': 'Ternary Trisection Algorithm Validation',
             'date': datetime.now().isoformat(),
-            'theory': 'O(log₃N) complexity, 37% faster than binary',
+            'theory': 'O(log_3 N) complexity, 37% faster than binary',
             'data': {}
         }
         
@@ -176,12 +176,12 @@ class TernaryAlgorithmValidator:
         time_speedup = (mean_binary_time - mean_ternary_time) / mean_binary_time * 100
         
         print(f"Binary Search:")
-        print(f"  Mean iterations: {mean_binary_iters:.2f} ± {std_binary_iters:.2f}")
-        print(f"  Mean time: {mean_binary_time*1e6:.2f} μs")
-        
+        print(f"  Mean iterations: {mean_binary_iters:.2f} +/- {std_binary_iters:.2f}")
+        print(f"  Mean time: {mean_binary_time*1e6:.2f} us")
+
         print(f"\nTernary Search:")
-        print(f"  Mean iterations: {mean_ternary_iters:.2f} ± {std_ternary_iters:.2f}")
-        print(f"  Mean time: {mean_ternary_time*1e6:.2f} μs")
+        print(f"  Mean iterations: {mean_ternary_iters:.2f} +/- {std_ternary_iters:.2f}")
+        print(f"  Mean time: {mean_ternary_time*1e6:.2f} us")
         
         print(f"\nSpeedup:")
         print(f"  Iteration reduction: {iteration_speedup:.1f}%")
@@ -209,15 +209,15 @@ class TernaryAlgorithmValidator:
         return iteration_speedup, time_speedup
     
     def validate_spatial_localization(self, initial_uncertainty=1e-9, n_iterations=10):
-        """Validate exponential convergence Δr ~ 3^-i"""
+        """Validate exponential convergence Delta_r ~ 3^-i"""
         print(f"\n{'='*80}")
         print("SPATIAL LOCALIZATION CONVERGENCE")
         print(f"{'='*80}")
-        print(f"Testing Δr ~ 3^-i exponential convergence\n")
+        print(f"Testing Delta_r ~ 3^-i exponential convergence\n")
         
         results = []
         
-        print(f"{'Iteration':>10s} | {'Δr (m)':>12s} | {'Theory':>12s} | "
+        print(f"{'Iteration':>10s} | {'dr (m)':>12s} | {'Theory':>12s} | "
               f"{'Error':>12s} | {'Status':>10s}")
         print("-" * 70)
         
@@ -292,9 +292,9 @@ def run_experiment():
     print(f"\n{'='*80}")
     print("EXPERIMENT 4 COMPLETE")
     print(f"{'='*80}")
-    print(f"Verdict: TERNARY ALGORITHM O(log₃N) VALIDATED")
+    print(f"Verdict: TERNARY ALGORITHM O(log_3 N) VALIDATED")
     print(f"37% speedup over binary search confirmed.")
-    print(f"Exponential spatial convergence Δr ~ 3^-i validated.")
+    print(f"Exponential spatial convergence Delta_r ~ 3^-i validated.")
     print(f"{'='*80}\n")
     
     return validator.results

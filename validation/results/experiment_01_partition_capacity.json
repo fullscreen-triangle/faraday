@@ -1,6 +1,6 @@
 {
   "experiment": "Partition Capacity Theorem Validation",
-  "date": "2026-01-27T15:43:05.381345",
+  "date": "2026-01-31T18:06:48.940121",
   "theory": "C(n) = 2n\u00b2",
   "data": {
     "capacity_validation": [

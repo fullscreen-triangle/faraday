@@ -1,5 +1,5 @@
 """
-EXPERIMENT 7: HYDROGEN 1s→2p TRANSITION SIMULATION
+EXPERIMENT 7: HYDROGEN 1s->2p TRANSITION SIMULATION
 Simulates complete trajectory with deterministic evolution
 """
 
@@ -11,12 +11,12 @@ from datetime import datetime
 class HydrogenTransitionSimulator:
     def __init__(self):
         self.results = {
-            'experiment': 'Hydrogen 1s→2p Transition Simulation',
+            'experiment': 'Hydrogen 1s->2p Transition Simulation',
             'date': datetime.now().isoformat(),
             'theory': 'Deterministic trajectory through partition space',
             'data': {}
         }
-        self.hbar = 1.054571817e-34  # J·s
+        self.hbar = 1.054571817e-34  # J*s
         self.a0 = 5.29177210903e-11  # m
         self.m_e = 9.1093837015e-31  # kg
         
@@ -38,7 +38,7 @@ class HydrogenTransitionSimulator:
         s_t = 0.5 * np.ones_like(t)  # Spin conserved
         
         # Radial evolution
-        r_t = (n_t ** 2) * self.a0  # r ~ n² a₀
+        r_t = (n_t ** 2) * self.a0  # r ~ n^2 * a0
         
         # Energy evolution
         E_t = -13.6 * (1 / n_t**2)  # eV
@@ -139,10 +139,10 @@ class HydrogenTransitionSimulator:
         
         self.results['data']['determinism'] = {
             'n_trials': n_trials,
-            'mean_final_n': mean_final,
-            'std_final_n': std_final,
-            'relative_std': relative_std,
-            'passed': passed
+            'mean_final_n': float(mean_final),
+            'std_final_n': float(std_final),
+            'relative_std': float(relative_std),
+            'passed': bool(passed)
         }
         
         print()
@@ -196,12 +196,12 @@ class HydrogenTransitionSimulator:
         print(f"\nSelection rule compliance: {status}")
         
         self.results['data']['selection_rule_compliance'] = {
-            'max_delta_l': max_delta_l,
-            'violations': violations,
-            'l_initial': l_initial,
-            'l_final': l_final,
-            'delta_l_total': delta_l_total,
-            'passed': passed
+            'max_delta_l': float(max_delta_l),
+            'violations': int(violations),
+            'l_initial': float(l_initial),
+            'l_final': float(l_final),
+            'delta_l_total': float(delta_l_total),
+            'passed': bool(passed)
         }
         
         print()
@@ -248,12 +248,12 @@ class HydrogenTransitionSimulator:
         print(f"\nEnergy conservation: {status}")
         
         self.results['data']['energy_conservation'] = {
-            'E_initial': E_initial,
-            'E_final': E_final,
-            'E_mean': E_mean,
-            'E_std': E_std,
-            'relative_variation': relative_variation,
-            'passed': passed
+            'E_initial': float(E_initial),
+            'E_final': float(E_final),
+            'E_mean': float(E_mean),
+            'E_std': float(E_std),
+            'relative_variation': float(relative_variation),
+            'passed': bool(passed)
         }
         
         print()
@@ -294,7 +294,7 @@ def run_experiment():
     print(f"\n{'='*80}")
     print("EXPERIMENT 7 COMPLETE")
     print(f"{'='*80}")
-    print(f"Verdict: HYDROGEN 1s→2p TRAJECTORY VALIDATED")
+    print(f"Verdict: HYDROGEN 1s->2p TRAJECTORY VALIDATED")
     print(f"Deterministic evolution confirmed (sigma/mu < 10^-5).")
     print(f"Selection rules respected (Delta_l = +1).")
     print(f"Energy conserved (sigma/<E> < 1%).")
