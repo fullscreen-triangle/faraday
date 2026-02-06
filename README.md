@@ -1,4 +1,11 @@
-# Faraday
+
+
+<h1 align="center">Faraday</h1>
+<p align="center"><em>there is no honour too great to pay to the memory of Faraday, especially on a Friday</em></p>
+
+<p align="center">
+  <img src="assets/dark-pyramids.jpg" alt="Logo" width="300"/>
+</p>
 
 A Categorical Physics Framework for Partition-Geometry Representation of Molecular Systems
 

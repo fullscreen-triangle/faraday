@@ -1,11 +1,17 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: electron-trajectory-determination.aux
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+I couldn't open style file stylename.bst
+---line 5 of file electron-trajectory-determination.aux
+ : \bibstyle{stylename
+ :                    }
+I'm skipping whatever remains of this command
 I found no \bibdata command---while reading file electron-trajectory-determination.aux
-I found no \bibstyle command---while reading file electron-trajectory-determination.aux
+I found no style file---while reading file electron-trajectory-determination.aux
 You've used 30 entries,
             0 wiz_defined-function locations,
-            143 strings with 1188 characters,
+            144 strings with 1197 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
@@ -44,4 +50,4 @@ warning$ -- 0
 while$ -- 0
 width$ -- 0
 write$ -- 0
-(There were 2 error messages)
+(There were 3 error messages)
