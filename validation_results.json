@@ -1,0 +1,111 @@
+{
+  "cytoplasmic_field": {
+    "debye_length_nm": 0.8085285772613134,
+    "genomic_charge_bare_C": -9.613059803999999e-10,
+    "genomic_charge_effective_C": -2.3071343529599996e-10,
+    "manning_neutralization": 0.76,
+    "membrane_surface_charge_C_per_m2": -0.08043961976326848,
+    "membrane_charge_total_C": -1.0108340740233624e-10,
+    "E_membrane_surface_V_per_m": 113561544.8438872,
+    "E_at_debye_length_V_per_m": 41776957.65573491,
+    "E_cytoplasm_bulk_V_per_m": 14000.0,
+    "theory_prediction_V_per_m": "10^5 - 10^6",
+    "validation": "PASS"
+  },
+  "genome_metabolic": {
+    "organisms": [
+      "E. coli",
+      "Mycoplasma",
+      "Streptomyces",
+      "S. cerevisiae",
+      "Paramecium",
+      "Amoeba dubia",
+      "Arabidopsis",
+      "Paris japonica",
+      "Human cell",
+      "Lungfish cell",
+      "Salamander cell"
+    ],
+    "genome_charges_C": [
+      1.47400250328e-12,
+      5.767835882399999e-13,
+      3.8452239216e-12,
+      3.8452239216e-12,
+      3.204353268e-11,
+      2.14691668956e-07,
+      4.3258769118e-11,
+      4.8065299019999996e-08,
+      9.613059803999999e-10,
+      4.1656592483999995e-08,
+      1.37787190524e-08
+    ],
+    "specific_metabolic_rates_W_per_kg": [
+      1.0,
+      1.0,
+      1.0,
+      0.19999999999999998,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.009999999999999998,
+      0.01,
+      0.01
+    ],
+    "log_log_slope": -0.19193874292883378,
+    "log_log_intercept": -2.4586486457906087,
+    "correlation_coefficient": -0.42893639262334904,
+    "theory_prediction": "Positive correlation between Q and metabolic capacity",
+    "validation": "NEEDS_REVIEW"
+  },
+  "o2_stark": {
+    "input_field_V_per_m": 100000.0,
+    "stark_shift_Hz": -1178.6775303005206,
+    "relative_shift": -8.153552367878533e-09,
+    "o2_rotational_constant_Hz": 144560000000.0,
+    "cellular_field_range_V_per_m": [
+      100000.0,
+      1000000.0
+    ],
+    "cellular_shift_range_relative": [
+      -8.153552367878533e-09,
+      -8.153552367878533e-07
+    ],
+    "theory_prediction": "Measurable shift ~10^-12 to 10^-10 relative",
+    "detection_method": "High-resolution vibrational spectroscopy"
+  },
+  "chamber_dynamics": {
+    "debye_length_nm": 0.8085285772613134,
+    "chamber_radius_nm": 2.42558573178394,
+    "potential_well_depth_mV": 3.395820024497517,
+    "thermal_voltage_mV": 26.713733112650054,
+    "well_depth_over_thermal": 0.12711888713485187,
+    "chamber_lifetime_us": 5.883466142233833,
+    "energy_per_chamber_J": 4.1495718612329375e-23,
+    "theory_prediction": {
+      "radius_nm": "~30 (paper) vs calculated",
+      "lifetime_us": "~1000 (paper) vs calculated",
+      "significance": "Well depth > thermal means stable trapping"
+    },
+    "validation": "NEEDS_REVIEW"
+  },
+  "capacitance": {
+    "membrane_capacitance_fF": 4448.374924695007,
+    "nuclear_capacitance_fF": 185.44167603364212,
+    "cytoplasmic_capacitance_fF": 44.506002248074104,
+    "total_capacitance_fF": 4484.266861991841,
+    "stored_energy_fJ": 10.986453811880013,
+    "theory_prediction_fF": 11,
+    "validation": "NEEDS_REVIEW"
+  },
+  "timescales": {
+    "debye_length_nm": 0.8085285772613134,
+    "debye_time_K_ns": 0.3335298266572468,
+    "debye_time_Na_ns": 0.49151763928436365,
+    "RC_time_ns": 0.3183098861837907,
+    "action_potential_ms": 1.0,
+    "protein_conformational_ns": 1.0,
+    "hierarchy": "protein (~ns) < Debye (~ns) < RC (~ns) < AP (~ms)",
+    "theory_prediction": "Charge redistribution faster than AP, enables signaling"
+  }
+}
