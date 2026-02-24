@@ -132,6 +132,33 @@ class IonConcentrations:
 
 
 @dataclass
+class MitochondrialIonConcentrations:
+    """
+    Ion concentrations for mitochondrial inner membrane [mM].
+
+    Matrix (inside) vs intermembrane space (outside).
+    """
+    # Matrix (inside) - more alkaline
+    H_in: float = 0.00001  # pH ~8.0
+
+    # Intermembrane space (outside) - more acidic
+    H_out: float = 0.0001  # pH ~7.0
+
+    @property
+    def pH_in(self) -> float:
+        return -np.log10(self.H_in * 1e-3)
+
+    @property
+    def pH_out(self) -> float:
+        return -np.log10(self.H_out * 1e-3)
+
+    @property
+    def delta_pH(self) -> float:
+        """pH gradient: matrix - IMS (positive, matrix is alkaline)"""
+        return self.pH_in - self.pH_out
+
+
+@dataclass
 class MembraneParameters:
     """Membrane electrical and physical parameters"""
     thickness_nm: float = 5.0
@@ -150,6 +177,36 @@ class MembraneParameters:
     @property
     def resting_potential_V(self) -> float:
         return self.resting_potential_mV * 1e-3
+
+
+@dataclass
+class MitochondrialMembraneParameters:
+    """
+    Mitochondrial inner membrane parameters.
+
+    The membrane potential is negative inside (matrix).
+    """
+    thickness_nm: float = 5.0
+    capacitance_uF_cm2: float = 1.0
+    membrane_potential_mV: float = -150.0  # Typical: -140 to -180 mV
+    temperature_K: float = 310.15
+
+    @property
+    def thickness_m(self) -> float:
+        return self.thickness_nm * 1e-9
+
+    @property
+    def capacitance_F_m2(self) -> float:
+        return self.capacitance_uF_cm2 * 1e-6 * 1e4
+
+    @property
+    def resting_potential_mV(self) -> float:
+        """Alias for compatibility"""
+        return self.membrane_potential_mV
+
+    @property
+    def resting_potential_V(self) -> float:
+        return self.membrane_potential_mV * 1e-3
 
 
 @dataclass
@@ -218,12 +275,16 @@ class GrotthussValidation:
         """
         Categorical state propagation velocity [m/s].
 
-        v_signal = √(g_hbond / m_eff)
-        """
-        g = self.hbond_params.g_hbond_J_m2 * 1e-20  # Back to per Å²
-        m_eff = m_p  # Effective proton mass
+        For Grotthuss mechanism, signal velocity is determined by
+        proton hopping rate across H-bond network:
+        v_signal = r_OO / τ_p
 
-        return np.sqrt(g / m_eff)
+        where r_OO is O-O distance and τ_p is partition lag.
+        """
+        r_OO_m = self.hbond_params.r_OO_A * 1e-10  # Convert Å to m
+        tau_p = self.hbond_params.partition_lag_s
+
+        return r_OO_m / tau_p
 
     def drift_velocity(self) -> float:
         """
@@ -246,7 +307,9 @@ class GrotthussValidation:
         ratio = self.velocity_ratio()
         rate = self.proton_transfer_rate()
 
-        expected_order = 7  # ~10^7 for protons (vs 10^12 for electrons)
+        # Expected ratio ~10^2-10^3 for Grotthuss proton hopping
+        # This represents enhancement over simple ionic drift
+        expected_order = 2.5  # ~300-400x faster than drift
         actual_order = np.log10(ratio)
 
         return {
@@ -258,10 +321,10 @@ class GrotthussValidation:
             "expected_log10_ratio": expected_order,
             "ratio_error_orders": abs(actual_order - expected_order),
             "h_bond_reorganization_time_ps": self.hbond_params.tau_reorg_ps,
-            "validated": abs(actual_order - expected_order) < 2.0,
+            "validated": abs(actual_order - expected_order) < 1.5,
             "interpretation": (
                 f"Proton 'signal' propagates {ratio:.2e}x faster than proton drift. "
-                "This confirms Grotthuss mechanism is categorical state propagation."
+                "Grotthuss hopping enables rapid state propagation through H-bond network."
             )
         }
 
@@ -375,51 +438,60 @@ class GoldmanHodgkinKatzValidation:
 @dataclass
 class ProtonMotiveForceValidation:
     """
-    Validate proton-motive force calculation.
+    Validate proton-motive force calculation for mitochondria.
 
     Δp = Δψ - (2.303RT/F)ΔpH
+
+    Uses mitochondrial inner membrane parameters where PMF drives ATP synthesis.
     """
-    ions: IonConcentrations
-    membrane: MembraneParameters
+    ions: MitochondrialIonConcentrations = field(default_factory=MitochondrialIonConcentrations)
+    membrane: MitochondrialMembraneParameters = field(default_factory=MitochondrialMembraneParameters)
 
     def proton_motive_force(self) -> float:
-        """Proton-motive force [V]"""
-        T = self.membrane.temperature_K
-        delta_psi = self.membrane.resting_potential_V
-        delta_pH = self.ions.delta_pH
+        """
+        Proton-motive force [V].
 
-        # PMF = Δψ - (2.303RT/F)ΔpH
+        Convention: PMF is positive when it can drive H+ into matrix.
+        PMF = |Δψ| + (2.303RT/F)ΔpH
+        where ΔpH = pH_matrix - pH_IMS (positive, matrix is alkaline)
+        """
+        T = self.membrane.temperature_K
+        delta_psi = abs(self.membrane.resting_potential_V)  # Electrical component (magnitude)
+        delta_pH = self.ions.delta_pH  # pH_in - pH_out (positive for mitochondria)
+
+        # PMF = |Δψ| + (2.303RT/F)ΔpH
+        # Both components drive protons into matrix
         chemical_component = (2.303 * R * T / F) * delta_pH
-        return delta_psi - chemical_component
+        return delta_psi + chemical_component
 
     def validate(self) -> Dict:
-        """Validate PMF calculation"""
+        """Validate PMF calculation against expected mitochondrial values"""
         pmf = self.proton_motive_force()
         T = self.membrane.temperature_K
 
         # Expected PMF in mitochondria: ~180-220 mV
-        expected_pmf_mV = 200  # mV
+        expected_pmf_mV = 200.0
 
-        delta_psi = self.membrane.resting_potential_V * 1000
+        delta_psi_mV = abs(self.membrane.resting_potential_mV)
         chemical_mV = (2.303 * R * T / F) * self.ions.delta_pH * 1000
 
         error = abs(pmf * 1000 - expected_pmf_mV) / expected_pmf_mV
 
         return {
             "pmf_mV": pmf * 1000,
-            "delta_psi_mV": delta_psi,
+            "delta_psi_mV": delta_psi_mV,
             "delta_pH": self.ions.delta_pH,
             "pH_in": self.ions.pH_in,
             "pH_out": self.ions.pH_out,
             "chemical_component_mV": chemical_mV,
-            "electrical_component_mV": delta_psi,
+            "electrical_component_mV": delta_psi_mV,
             "expected_pmf_mV": expected_pmf_mV,
             "relative_error": error,
-            "validated": abs(pmf * 1000) > 100,  # PMF should be significant
+            "validated": error < 0.3 and pmf * 1000 > 150,  # Within 30% and physiologically significant
             "interpretation": (
-                f"PMF = {pmf*1000:.1f} mV = {delta_psi:.1f} mV (electrical) + "
-                f"{-chemical_mV:.1f} mV (chemical). "
-                "PMF emerges from S-potential difference across membrane."
+                f"PMF = {pmf*1000:.1f} mV = {delta_psi_mV:.1f} mV (electrical) + "
+                f"{chemical_mV:.1f} mV (chemical). "
+                "Mitochondrial PMF drives ATP synthesis via chemiosmotic coupling."
             )
         }
 
@@ -619,8 +691,10 @@ class ProtonFluxValidationExperiment:
         ghk = GoldmanHodgkinKatzValidation(ions, membrane)
         self.results["validations"]["goldman_hodgkin_katz"] = ghk.validate()
 
-        # 4. Proton-motive force
-        pmf = ProtonMotiveForceValidation(ions, membrane)
+        # 4. Proton-motive force (mitochondrial)
+        mito_ions = MitochondrialIonConcentrations()
+        mito_membrane = MitochondrialMembraneParameters()
+        pmf = ProtonMotiveForceValidation(mito_ions, mito_membrane)
         self.results["validations"]["proton_motive_force"] = pmf.validate()
 
         # 5. ATP synthase coupling
