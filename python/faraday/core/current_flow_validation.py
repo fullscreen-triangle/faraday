@@ -633,8 +633,24 @@ class CurrentFlowValidationExperiment:
 
     def save_results(self, filepath: str) -> None:
         """Save results to JSON file"""
+        def convert_numpy(obj):
+            """Convert numpy types to Python types for JSON serialization"""
+            if isinstance(obj, np.ndarray):
+                return obj.tolist()
+            elif isinstance(obj, (np.bool_, np.bool)):
+                return bool(obj)
+            elif isinstance(obj, (np.integer, np.int64, np.int32)):
+                return int(obj)
+            elif isinstance(obj, (np.floating, np.float64, np.float32)):
+                return float(obj)
+            elif isinstance(obj, dict):
+                return {k: convert_numpy(v) for k, v in obj.items()}
+            elif isinstance(obj, list):
+                return [convert_numpy(item) for item in obj]
+            return obj
+
         with open(filepath, 'w') as f:
-            json.dump(self.results, f, indent=2)
+            json.dump(convert_numpy(self.results), f, indent=2)
         print(f"Results saved to: {filepath}")
 
     def print_report(self) -> None:
@@ -673,8 +689,8 @@ class CurrentFlowValidationExperiment:
         # Wiedemann-Franz for copper
         wf = self.results["validations"]["wiedemann_franz"]["copper"]
         print(f"\n2. WIEDEMANN-FRANZ LAW (Copper)")
-        print(f"   L_measured: {wf['lorenz_number_measured_W_ohm_K2']:.2e} W·Ω·K⁻²")
-        print(f"   L_theory: {wf['lorenz_number_theory_W_ohm_K2']:.2e} W·Ω·K⁻²")
+        print(f"   L_measured: {wf['lorenz_number_measured_W_ohm_K2']:.2e} W*Ohm*K^-2")
+        print(f"   L_theory: {wf['lorenz_number_theory_W_ohm_K2']:.2e} W*Ohm*K^-2")
         print(f"   Error: {wf['relative_error']*100:.1f}%")
 
         # Superconductivity for niobium
