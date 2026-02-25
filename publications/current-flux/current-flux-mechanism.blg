@@ -1,0 +1,73 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: current-flux-mechanism.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+The style file: apsrev4-2.bst
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: current-flux-mechanismNotes.bib
+Database file #2: references.bib
+control{REVTEX42Control}, control.key{N/A}, control.author{N/A}, control.editor{N/A}, control.title{N/A}, control.pages{N/A}, control.year{N/A}, control.eprint{N/A}, 
+control{apsrev42Control}, control.key{N/A}, control.author{08}, control.editor{1}, control.title{0}, control.pages{0}, control.year{1}, control.eprint{N/A}, 
+Warning--jnrlst (dependency: not reversed) set 1
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+apsrev4-2.bst 2019-01-14 (MD) hand-edited version of apsrev4-1.bst
+Control: key (0) 
+Control: author (8) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (0) allowed
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+You've used 10 entries,
+            6079 wiz_defined-function locations,
+            1697 strings with 16054 characters,
+and the built_in function-call counts, 7550 in all, are:
+= -- 493
+> -- 140
+< -- 66
++ -- 48
+- -- 44
+* -- 1016
+:= -- 780
+add.period$ -- 8
+call.type$ -- 10
+change.case$ -- 40
+chr.to.int$ -- 44
+cite$ -- 10
+duplicate$ -- 794
+empty$ -- 572
+format.name$ -- 66
+if$ -- 1448
+int.to.chr$ -- 1
+int.to.str$ -- 17
+missing$ -- 105
+newline$ -- 76
+num.names$ -- 24
+pop$ -- 357
+preamble$ -- 1
+purify$ -- 40
+quote$ -- 0
+skip$ -- 301
+stack$ -- 0
+substring$ -- 156
+swap$ -- 617
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 10
+type$ -- 106
+warning$ -- 1
+while$ -- 32
+width$ -- 0
+write$ -- 115
+(There was 1 warning)
