@@ -490,7 +490,9 @@ def create_panel_grotthuss(output_dir: str):
 
     # A: Signal vs Drift velocity
     ax1 = fig.add_subplot(1, 4, 1)
-    velocities = [v_signal, 0.36]  # m/s
+    # Drift velocity with E_field = 1e4 V/m, mu_H = 3.6e-7 m²/(V·s)
+    v_drift = 3.6e-7 * 1e4  # = 3.6e-3 m/s
+    velocities = [v_signal, v_drift]  # m/s
     labels = ['Signal\n$v_{signal}$', 'Drift\n$v_{drift}$']
     colors = ['steelblue', 'coral']
     bars = ax1.bar(labels, np.log10(velocities), color=colors)
@@ -499,7 +501,8 @@ def create_panel_grotthuss(output_dir: str):
         ax1.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 0.1,
                 f'{v:.1e}', ha='center', fontsize=9)
     ax1.set_ylabel(r'$\log_{10}(v)$ [m/s]')
-    ax1.set_title(r'(A) $v_{signal}/v_{drift} \approx 400$')
+    ratio = v_signal / v_drift
+    ax1.set_title(f'(A) $v_{{signal}}/v_{{drift}} \\approx {ratio:.0f}$')
     ax1.grid(True, alpha=0.3, axis='y')
 
     # B: 3D velocity ratio surface
@@ -507,11 +510,11 @@ def create_panel_grotthuss(output_dir: str):
     tau_range = np.logspace(-13, -11, 30)
     r_range = np.linspace(2.5e-10, 3.5e-10, 30)
     TAU, R = np.meshgrid(tau_range, r_range)
-    V_ratio = (R / TAU) / 0.36  # ratio to drift
+    V_ratio = (R / TAU) / v_drift  # ratio to drift (corrected)
 
     surf = ax2.plot_surface(np.log10(TAU), R * 1e10, np.log10(V_ratio),
                            cmap='viridis', alpha=0.8)
-    ax2.scatter([-12], [2.8], [np.log10(400)], s=100, c='red', marker='*')
+    ax2.scatter([-12], [2.8], [np.log10(ratio)], s=100, c='red', marker='*')
     ax2.set_xlabel(r'$\log_{10}(\tau_p)$ [s]')
     ax2.set_ylabel(r'$r_{OO}$ (Å)')
     ax2.set_zlabel(r'$\log_{10}(v_{sig}/v_{drift})$')
@@ -787,14 +790,19 @@ def create_panel_ocp_identity(output_dir: str):
     # C: Identity verification (Cu resistivity)
     ax3 = fig.add_subplot(1, 4, 3)
     methods = ['Observation\n(measure)', 'Computing\n(calculate)', 'Processing\n(derive)']
-    values = [1.68, 1.68, 1.82]  # μΩ·cm
+    # Values from validation: Observation=1.68, Computing~1.55 (Drude), Processing~1.82 (W-F)
+    # All within 10-20% tolerance, validating the OCP identity
+    values = [1.68, 1.55, 1.82]  # μΩ·cm (actual calculated values)
     colors = ['steelblue', 'seagreen', 'coral']
     bars = ax3.bar(methods, values, color=colors, alpha=0.8, edgecolor='black')
-    ax3.axhline(1.68, color='red', linestyle='--', linewidth=2, label='Target')
+    ax3.axhline(1.68, color='red', linestyle='--', linewidth=2, label='Target (exp.)')
+    # Add error bars to show tolerance
+    ax3.fill_between([-0.5, 2.5], 1.68*0.9, 1.68*1.1, alpha=0.2, color='gray', label='10% tolerance')
     ax3.set_ylabel(r'$\rho_{Cu}$ ($\mu\Omega\cdot$cm)')
     ax3.set_title(r'(C) $\mathcal{O}(\rho) \equiv \mathcal{C}(\rho) \equiv \mathcal{P}(\rho)$')
-    ax3.legend()
+    ax3.legend(loc='upper right', fontsize=8)
     ax3.set_ylim(0, 2.5)
+    ax3.set_xlim(-0.5, 2.5)
     ax3.grid(True, alpha=0.3, axis='y')
 
     # D: Conceptual diagram
